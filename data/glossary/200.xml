@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Lateral ventricle, inferior horn]]></name>
+<description><![CDATA[<p>The <b>inferior horn of the lateral ventricle</b> is AKA the temporal horn. This region of the lateral ventricle extends into the temporal lobe.</p>]]></description>
+<item id="31" label="Inferior horn" name="Inferior horn" file_id="5"><![CDATA[/Gross/Ventricles & Choroid Plexus/4 Ventricle cast - lateral view]]>
+</item>
+<item id="40" label="Inferior horn" name="Inferior horn" file_id="6"><![CDATA[/Gross/Ventricles & Choroid Plexus/5 Ventricle cast - dorsal view]]>
+</item>
+<item id="283" label="Inferior horn" name="Inferior horn" file_id="33"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Medial dissections/3 Caudate & Lateral ventricle]]>
+</item>
+<item id="887" label="Inferior horn" name="Inferior horn" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="928" label="Inferior horn" name="Inferior horn" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="972" label="Inferior horn" name="Inferior horn" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1024" label="Inferior horn" name="Inferior horn" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1064" label="Inferior horn" name="Inferior horn" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1107" label="Inferior horn" name="Inferior horn" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1784" label="Inferior horn" name="Inferior horn" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1810" label="Inferior horn" name="Inferior horn" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1827" label="Inferior Horn" name="Inferior Horn" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="2552" label="Inferior horn" name="Inferior horn" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2576" label="Inferior horn" name="Inferior horn" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2594" label="Inferior Horn" name="Inferior Horn" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="2845" label="Inferior horn" name="Temporal horn" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="3595" label="Inferior horn" name="Inferior horn" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3644" label="Inferior Horn" name="Inferior Horn" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3695" label="Inferior horn" name="Inferior horn" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3743" label="Inferior horn" name="Inferior horn" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3782" label="Inferior horn" name="Inferior horn" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="2264" label="Lateral ventricle, Inferior horn" name="Lateral ventricle  Inferi" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2602" label="Lateral Ventricle, Inferior Horn" name="Lat. Ventricle, Inf. Horn" file_id="128"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/9 Sag Thin Sec]]>
+</item>
+<item id="3149" label="Lateral ventricle, Inferior horn" name="Lateral ventricle (inf horn)" file_id="178"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/3 Parasag: Lat to Med]]>
+</item>
+<item id="1390" label="Lateral ventricles, Inferior horn" name="Lateral ventricles     Inferior horn" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1428" label="Lateral ventricles, Inferior horn" name="Lateral ventricles     Inferior horn" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="2228" label="Lateral ventricles, Inferior horn" name="Lateral ventricles Inferi" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="1840" label="Ventricular syst,Lat ventricle,Inf horn" name="Ventricular system Lat vent inf" file_id="104"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 9]]>
+</item>
+</info>

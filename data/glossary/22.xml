@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Arachnoid villi]]></name>
+<description><![CDATA[<p><b>Arachnoid villi</b> are AKA arachnoid granulations. They are small evaginations of the arachnoid membrane that protrude through the dura mater and into the lumen of a dural venous sinus, such as the superior sagittal sinus. They are the site of reabsorption of cerebrospinal fluid from the subarachnoid space back into the venous system.</p>]]></description>
+<item id="346" label="Arachnoid villi" name="Arachnoid villi" file_id="45"><![CDATA[/Gross/Meninges/9 Cranial meninges]]>
+</item>
+<item id="353" label="Arachnoid villi" name="Arachnoid villi" file_id="47"><![CDATA[/Gross/Meninges/11 Cranial meninges]]>
+</item>
+<item id="367" label="Arachnoid villi" name="Arachnoid villi" file_id="50"><![CDATA[/Gross/Meninges/14 Cranial arachnoid, superior view]]>
+</item>
+<item id="1111" label="Arachnoid villi" name="Arachnoid villi" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1143" label="Arachnoid villi" name="Arachnoid villi" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1028" label="Arachnoid villus" name="Arachnoid villus" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1068" label="Arachnoid villus" name="Arachnoid villus" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+</info>

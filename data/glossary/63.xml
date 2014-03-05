@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebral gyri]]></name>
+<description><![CDATA[<p>The surface of the cerebral hemispheres is folded or convoluted into <b>cerebral gyri</b> (the elevations) and cerebral sulci (the valleys).</p>]]></description>
+<item id="749" label="Cerebral gyri" name="Cerebral gyri" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="849" label="Cerebral gyri" name="Cerebral gyri" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="883" label="Cerebral gyri" name="Cerebral gyri" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="924" label="Cerebral gyri" name="Cerebral gyri" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="968" label="Cerebral gyri" name="Cerebral gyri" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1020" label="Cerebral gyri" name="Cerebral gyri" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1424" label="Cerebral gyri" name="Cerebral gyri" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1640" label="Cerebral gyri" name="Cerebral gyri" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1856" label="Cerebral gyri" name="Cerebral gyri" file_id="109"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/2 Hor Thin Sec]]>
+</item>
+<item id="2083" label="Cerebral gyri" name="Cerebral gyri" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2187" label="Cerebral gyri" name="Cerebral gyri" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2232" label="Cerebral gyri" name="Cerebral gyri" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2266" label="Cerebral gyri" name="Cerebral gyri" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="3259" label="Cerebral gyri" name="Cerebral gyri" file_id="213"><![CDATA[/Sections/Thin, Whole Brain/Coronal/1 Cor Thin Sec]]>
+</item>
+<item id="3281" label="Cerebral gyri" name="Cerebral gyri" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3308" label="Cerebral gyri" name="Cerebral gyri" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3345" label="Cerebral gyri" name="Cerebral gyri" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3392" label="Cerebral gyri" name="Cerebral gyri" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3439" label="Cerebral gyri" name="Cerebral gyri" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3491" label="Cerebral gyri" name="Cerebral gyri" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3544" label="Cerebral gyri" name="Cerebral gyri" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6228" label="Cerebral gyri" name="Cerebral gyri" file_id="315"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/38 Telencephalon]]>
+</item>
+</info>

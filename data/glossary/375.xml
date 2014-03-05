@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Zona incerta]]></name>
+<description><![CDATA[<p>The <b>zona incerta</b> is a thin sheet of gray matter located between the subthalamic nuclueus and the thalamus, surrounded by the nerve fibers leaving the globus pallidus. It contains GABA-ergic neurons that project widely to the cerebral cortex.</p>]]></description>
+<item id="3586" label="Zona incerta" name="Zona incerta" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6069" label="Zona incerta" name="Zona incerta" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6107" label="Zona incerta" name="Zona incerta" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6019" label="Zonz incerta" name="Zonz incerta" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+</info>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Infundibulum]]></name>
+<description><![CDATA[<p>The <b>infundibulum</b> is the hollow, funnel-like stalk of the pituitary gland or hypophysis.  It extends from the medial eminence of the hypothalamus to the posterior lobe of the pituitary.  Embryologicaly, it and the posterior pituitary are derived from a ventral outgrowth of the diencephalon.</p>]]></description>
+<item id="1456" label="Diencephalon, Infundibulum" name="Diencephalon     Infundibulum" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="2243" label="Diencephalon, Infundibulum" name="Diencephalon     Infundib" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="363" label="Infundibular stalk" name="Infundibular stalk" file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+<item id="2897" label="Infundibular stalk" name="Pituitary stalk" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="3005" label="Infundibular stalk" name="Infundibular stalk" file_id="165"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/5 Cor: Fr to Occ]]>
+</item>
+<item id="3906" label="Infundibular stalk" name="Infundibular stalk" file_id="231"><![CDATA[/Gross/Cerebrum/Visual System/1 Optic radiation]]>
+</item>
+<item id="3941" label="Infundibular stalk" name="Infundibular stalk" file_id="232"><![CDATA[/Gross/Cerebrum/Visual System/2 Optic radiation]]>
+</item>
+<item id="3968" label="Infundibular stalk" name="Infundibular stalk" file_id="233"><![CDATA[/Gross/Cerebrum/Visual System/3 Optic tract]]>
+</item>
+<item id="4719" label="Infundibular stalk" name="Infundibular stalk" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="693" label="Infundibulum" name="Infundibulum" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1417" label="Infundibulum" name="Infundibulum" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1677" label="Infundibulum" name="Infundibulum" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="2288" label="Infundibulum" name="Infundibulum" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="3533" label="Infundibulum" name="Infundibulum" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="4017" label="Infundibulum" name="Infundibulum" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4123" label="Infundibulum" name="Infundibulum" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+<item id="6111" label="Infundibulum" name="Infundibulum" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+</info>

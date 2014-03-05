@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Optic radiation]]></name>
+<description><![CDATA[<p>The <b>Optic Radiation</b> is AKA geniculocalcarine tract. It is a massive bundle of myelinated nerve fibers that originate in the lateral geniculate nucleus of the thalamus and terminate in the upper and lower banks of the calcarine sulcus in the occipital lobe.  It travels through the sublenticular and retrolenticular portions of the posterior limb of the internal capsule.</p>]]></description>
+<item id="1376" label="Optic radiation" name="Optic radiation" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="2075" label="Optic radiation" name="Optic radiation" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2127" label="Optic radiation" name="Optic radiation" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2163" label="Optic radiation" name="Optic radiation" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2209" label="Optic radiation" name="Optic radiation" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2246" label="Optic Radiation" name="Optic Radiation" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="3830" label="Optic radiation" name="Optic radiation" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3851" label="Optic radiation" name="Optic radiation" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="3919" label="Optic radiation" name="Optic radation" file_id="231"><![CDATA[/Gross/Cerebrum/Visual System/1 Optic radiation]]>
+</item>
+<item id="3949" label="Optic radiation" name="Optic radiation" file_id="232"><![CDATA[/Gross/Cerebrum/Visual System/2 Optic radiation]]>
+</item>
+<item id="3977" label="Optic radiation" name="Optic radiation" file_id="233"><![CDATA[/Gross/Cerebrum/Visual System/3 Optic tract]]>
+</item>
+<item id="1290" label="Visual pathway, Optic radiation" name="Visual pathway     Optic radiation" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1333" label="Visual pathway, Optic radiation" name="Visual pathway     Optic radiation" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="2647" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2695" label="Visual pathway, Optic radiation" name="Optic radiations" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2722" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="2758" label="Visual pathway, optic radiation" name="Optic radiation" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="2815" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="151"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/5 Cor: Occ to Fr]]>
+</item>
+<item id="3108" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="169"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/9 Cor: Fr to Occ]]>
+</item>
+<item id="3122" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="170"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/10 Cor: Fr to Occ]]>
+</item>
+<item id="3129" label="Visual pathway, Optic radiation" name="Optic radiation" file_id="171"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/11 Cor: Fr to Occ]]>
+</item>
+<item id="5982" label="Visual pathway, Optic radiations" name="Visual pathway, Optic radiations" file_id="308"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/31 Midbrain+Diencephalon]]>
+</item>
+</info>

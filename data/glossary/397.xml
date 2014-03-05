@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Paranasal air sinus:  Ethmoidal]]></name>
+<description><![CDATA[<p>The <b>ethmoidal air sinuses </b>(or cells) are small invaginations of the mucous membrane of the middle and superior nasal meatus into the ethmoid bone between the nasal cavity and orbit. &nbsp;Usually not visible on plain radiographs before age 2 but detectable on CT scans. &nbsp;The anterior and middle ethmoidal cells drain into the middle nasal meatus while the posterior ethmoidal cells drain into the superiror meatus.</p>]]></description>
+<item id="1496" label="Air sinuses, ethmoidal" name="Air sinuses, ethmoidal" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1521" label="Ethmoidal" name="Ethmoidal" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1550" label="Ethmoidal" name="Ethmoidal" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+</info>

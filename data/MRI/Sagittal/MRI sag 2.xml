@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info title="MRI sag 2">
+<item id="1690" label="Commissures" zorder="49" name="Commissures" x="138" y="121" tabs="0"><description><![CDATA[<p>The term '<b>commissure</b>' refers to bundles of axons that cross the midline of the neuraxis and connect corresponding areas of the brain. Significant commissures in the brain are the corpus callosum, anterior and posterior commissures. &nbsp;In the spinal cord, the anterior or ventral white commissure is very important.</p>]]></description><shape>
+<vertex x="437" y="250" cx="437" cy="250"/>
+<vertex x="402" y="250" cx="418" cy="250"/>
+<vertex x="400" y="250" cx="402" cy="250"/>
+<vertex x="286" y="317" cx="327" cy="269"/>
+<vertex x="286" y="327" cx="286" cy="321"/>
+<vertex x="286" y="329" cx="286" cy="327"/>
+<vertex x="358" y="350" cx="308" cy="356"/>
+<vertex x="360" y="350" cx="358" cy="350"/>
+<vertex x="344" y="315" cx="350" cy="333"/>
+<vertex x="344" y="315" cx="344" cy="315"/>
+<vertex x="379" y="286" cx="356" cy="296"/>
+<vertex x="381" y="286" cx="381" cy="286"/>
+<vertex x="485" y="290" cx="437" cy="269"/>
+<vertex x="512" y="308" cx="501" cy="296"/>
+<vertex x="530" y="346" cx="507" cy="340"/>
+<vertex x="532" y="348" cx="530" cy="348"/>
+<vertex x="557" y="337" cx="551" cy="348"/>
+<vertex x="559" y="337" cx="557" cy="337"/>
+<vertex x="563" y="325" cx="561" cy="331"/>
+<vertex x="565" y="325" cx="563" cy="325"/>
+<vertex x="565" y="323" cx="565" cy="323"/>
+<vertex x="565" y="304" cx="565" cy="313"/>
+<vertex x="563" y="302" cx="563" cy="304"/>
+<vertex x="559" y="290" cx="561" cy="296"/>
+<vertex x="557" y="288" cx="557" cy="290"/>
+<vertex x="439" y="250" cx="501" cy="265"/>
+</shape><shape>
+<vertex x="393" y="364" cx="393" cy="364"/>
+<vertex x="387" y="358" cx="398" cy="354"/>
+<vertex x="387" y="364" cx="385" cy="362"/>
+<vertex x="389" y="366" cx="389" cy="364"/>
+<vertex x="391" y="366" cx="389" cy="366"/>
+<vertex x="393" y="366" cx="391" cy="366"/>
+</shape></item>
+<item id="1688" label="Corpus callosum" zorder="48" name="Corpus callosum" x="138" y="121" tabs="1"><description><![CDATA[<p>The <b>corpus callosum</b> is a massive curved commissure that interconnects corresponding areas of the two cerebral hemispheres so that these areas may function in a coordinated manner.</p>]]></description><shape>
+<vertex x="437" y="250" cx="437" cy="250"/>
+<vertex x="402" y="250" cx="418" cy="250"/>
+<vertex x="400" y="250" cx="402" cy="250"/>
+<vertex x="286" y="317" cx="327" cy="269"/>
+<vertex x="286" y="327" cx="286" cy="321"/>
+<vertex x="286" y="329" cx="286" cy="327"/>
+<vertex x="340" y="350" cx="300" cy="350"/>
+<vertex x="340" y="352" cx="340" cy="350"/>
+<vertex x="346" y="352" cx="342" cy="352"/>
+<vertex x="348" y="352" cx="346" cy="352"/>
+<vertex x="352" y="348" cx="346" cy="348"/>
+<vertex x="356" y="350" cx="354" cy="348"/>
+<vertex x="344" y="310" cx="348" cy="331"/>
+<vertex x="379" y="286" cx="360" cy="296"/>
+<vertex x="381" y="286" cx="381" cy="286"/>
+<vertex x="485" y="290" cx="437" cy="269"/>
+<vertex x="512" y="308" cx="501" cy="296"/>
+<vertex x="530" y="346" cx="507" cy="340"/>
+<vertex x="532" y="348" cx="530" cy="348"/>
+<vertex x="557" y="337" cx="551" cy="348"/>
+<vertex x="559" y="337" cx="557" cy="337"/>
+<vertex x="563" y="325" cx="561" cy="331"/>
+<vertex x="565" y="325" cx="563" cy="325"/>
+<vertex x="565" y="323" cx="565" cy="323"/>
+<vertex x="565" y="304" cx="565" cy="313"/>
+<vertex x="563" y="302" cx="563" cy="304"/>
+<vertex x="559" y="290" cx="561" cy="296"/>
+<vertex x="557" y="288" cx="557" cy="290"/>
+<vertex x="439" y="250" cx="501" cy="265"/>
+</shape></item>
+<item id="1687" label="Rostrum" zorder="47" name="Rostrum" x="146" y="157" tabs="2"><description><![CDATA[<p>The <b>rostrum</b><b>&nbsp;of the corpus callosum</b> is a thin band of nerve fibers beneath the genu containing commissural fibers interconnecting the orbital cortices.</p>]]></description><shape>
+<vertex x="360" y="342" cx="360" cy="342"/>
+<vertex x="358" y="340" cx="358" cy="342"/>
+<vertex x="346" y="325" cx="350" cy="333"/>
+<vertex x="344" y="325" cx="344" cy="325"/>
+<vertex x="342" y="325" cx="342" cy="325"/>
+<vertex x="340" y="325" cx="342" cy="325"/>
+<vertex x="302" y="342" cx="319" cy="331"/>
+<vertex x="302" y="344" cx="302" cy="342"/>
+<vertex x="340" y="350" cx="317" cy="350"/>
+<vertex x="340" y="352" cx="340" cy="350"/>
+<vertex x="358" y="344" cx="358" cy="356"/>
+</shape></item>
+<item id="1686" label="Genu" zorder="46" name="Genu" x="138" y="142" tabs="2"><description><![CDATA[<p>The <b>genu</b> is the sharp bend in the <b>corpus callosum</b> at it most anterior or rostral aspect. &nbsp;The commissural fibers within the genu interconnect the frontal lobes.</p>]]></description><shape>
+<vertex x="346" y="323" cx="346" cy="323"/>
+<vertex x="344" y="319" cx="344" cy="321"/>
+<vertex x="342" y="315" cx="344" cy="317"/>
+<vertex x="308" y="294" cx="325" cy="302"/>
+<vertex x="306" y="294" cx="306" cy="294"/>
+<vertex x="304" y="294" cx="304" cy="294"/>
+<vertex x="302" y="294" cx="304" cy="294"/>
+<vertex x="286" y="317" cx="292" cy="302"/>
+<vertex x="286" y="327" cx="286" cy="321"/>
+<vertex x="286" y="329" cx="286" cy="327"/>
+<vertex x="294" y="340" cx="290" cy="335"/>
+<vertex x="296" y="342" cx="296" cy="340"/>
+<vertex x="304" y="342" cx="300" cy="342"/>
+<vertex x="306" y="342" cx="304" cy="342"/>
+<vertex x="306" y="340" cx="306" cy="340"/>
+<vertex x="344" y="325" cx="323" cy="331"/>
+<vertex x="346" y="325" cx="344" cy="325"/>
+</shape></item>
+<item id="1685" label="Body" zorder="45" name="Body" x="148" y="121" tabs="2"><description><![CDATA[<p>The <b>body</b> is the main portion of the <b>corpus callosum</b> containing commissural fibers which distribute extensively between the two hemispheres.</p>]]></description><shape>
+<vertex x="437" y="250" cx="437" cy="250"/>
+<vertex x="402" y="250" cx="418" cy="250"/>
+<vertex x="400" y="250" cx="402" cy="250"/>
+<vertex x="306" y="292" cx="350" cy="269"/>
+<vertex x="306" y="294" cx="306" cy="292"/>
+<vertex x="337" y="308" cx="319" cy="302"/>
+<vertex x="340" y="310" cx="340" cy="308"/>
+<vertex x="344" y="310" cx="342" cy="310"/>
+<vertex x="346" y="310" cx="344" cy="310"/>
+<vertex x="346" y="308" cx="346" cy="308"/>
+<vertex x="379" y="286" cx="362" cy="296"/>
+<vertex x="381" y="286" cx="381" cy="286"/>
+<vertex x="483" y="290" cx="435" cy="269"/>
+<vertex x="512" y="306" cx="499" cy="296"/>
+<vertex x="541" y="284" cx="526" cy="296"/>
+<vertex x="543" y="284" cx="541" cy="284"/>
+<vertex x="543" y="281" cx="543" cy="281"/>
+<vertex x="543" y="279" cx="543" cy="279"/>
+<vertex x="541" y="277" cx="541" cy="279"/>
+<vertex x="439" y="250" cx="489" cy="265"/>
+</shape></item>
+<item id="1684" label="Splenium" zorder="44" name="Splenium" x="247" y="136" tabs="2"><description><![CDATA[<p>The <b>splenium</b> is the thick and rounded posterior aspect of the <b>corpus callosum</b>.&nbsp;&nbsp;These commissural axons interconnect the occipital and temporal regions of the cerebral hemispheres.</p>]]></description><shape>
+<vertex x="547" y="281" cx="551" cy="286"/>
+<vertex x="545" y="281" cx="545" cy="281"/>
+<vertex x="543" y="281" cx="543" cy="281"/>
+<vertex x="541" y="281" cx="543" cy="281"/>
+<vertex x="512" y="306" cx="526" cy="294"/>
+<vertex x="512" y="329" cx="512" cy="317"/>
+<vertex x="512" y="331" cx="512" cy="329"/>
+<vertex x="526" y="346" cx="518" cy="340"/>
+<vertex x="528" y="348" cx="528" cy="346"/>
+<vertex x="545" y="348" cx="536" cy="348"/>
+<vertex x="547" y="348" cx="545" cy="348"/>
+<vertex x="547" y="346" cx="547" cy="346"/>
+<vertex x="563" y="325" cx="559" cy="340"/>
+<vertex x="565" y="325" cx="563" cy="325"/>
+<vertex x="565" y="323" cx="565" cy="323"/>
+<vertex x="565" y="304" cx="565" cy="313"/>
+<vertex x="563" y="302" cx="563" cy="304"/>
+<vertex x="559" y="290" cx="561" cy="296"/>
+<vertex x="557" y="288" cx="557" cy="290"/>
+</shape></item>
+<item id="1689" label="Anterior commissure" zorder="43" name="Anterior commissure" x="187" y="172" tabs="1"><description><![CDATA[<p>The <b>anterior commissure</b> is a small and compact bundle of commissural axons located just beneath and caudal to the rostrum of the corpus callosum.  It connects corresponding areas in the temporal cortices as well as olfactory structures.</p>]]></description></item>
+<item id="1683" label="Fornix" zorder="42" name="Fornix" x="189" y="142" tabs="0"><description><![CDATA[<p>The <b>fornix</b> is a compact bundle of axons, primarily efferents from the hippocampus to the ipsilateral septal nuclei and hypothalamus.  Parts of the fornix from the hippocampus and beyond are the fimbria, crus, body and column.</p>]]></description><shape>
+<vertex x="462" y="294" cx="462" cy="294"/>
+<vertex x="404" y="315" cx="422" cy="294"/>
+<vertex x="427" y="317" cx="410" cy="319"/>
+<vertex x="505" y="302" cx="466" cy="308"/>
+<vertex x="503" y="298" cx="505" cy="298"/>
+<vertex x="462" y="294" cx="485" cy="292"/>
+</shape><shape>
+<vertex x="398" y="354" cx="398" cy="358"/>
+<vertex x="391" y="342" cx="408" cy="331"/>
+<vertex x="395" y="358" cx="387" cy="354"/>
+<vertex x="398" y="360" cx="395" cy="360"/>
+</shape></item>
+<item id="1682" label="Crus" zorder="41" name="Crus" x="195" y="142" tabs="1"><description><![CDATA[<p>The <b>c</b><b>rus</b> is that portion of the <b>fornix</b> between the fimbria and body of the fornix. It curves superiorly to just beneath the splenium of the corpus callosum.</p>]]></description><shape>
+<vertex x="462" y="294" cx="462" cy="294"/>
+<vertex x="404" y="315" cx="422" cy="294"/>
+<vertex x="408" y="319" cx="402" cy="319"/>
+<vertex x="410" y="319" cx="408" cy="319"/>
+<vertex x="410" y="317" cx="410" cy="317"/>
+<vertex x="503" y="302" cx="458" cy="310"/>
+<vertex x="505" y="302" cx="503" cy="302"/>
+<vertex x="503" y="298" cx="505" cy="298"/>
+<vertex x="462" y="294" cx="485" cy="292"/>
+</shape></item>
+<item id="1681" label="Column" zorder="40" name="Column" x="189" y="162" tabs="1"><description><![CDATA[<p>The <b>columns </b><b>of the fornix</b> is the portion that leaves the body of the fornix to turn ventrally and then caudally toward the septal nuclei and mammillary bodies of the hypothalamus.</p>]]></description><shape>
+<vertex x="400" y="360" cx="400" cy="362"/>
+<vertex x="391" y="335" cx="410" cy="335"/>
+<vertex x="391" y="337" cx="391" cy="335"/>
+<vertex x="391" y="360" cx="391" cy="348"/>
+<vertex x="395" y="362" cx="389" cy="362"/>
+</shape></item>
+<item id="1680" label="Diencephalon" zorder="39" name="Diencephalon" x="176" y="155" tabs="0"><description><![CDATA[<p>Developmentally, the <b>diencephalon</b> and telencephalon are derived from the most anterior aspect of the developing neural tube, i.e. the prosencephalon.  It includes the thalamus, hypothalamus, epithalamus and subthalamus.  The retina, optic nerve and tract and neurohypophysis are also considered to be part of the diencephalon since they are formed as outgrowths from the diencephalon.</p>]]></description><shape>
+<vertex x="385" y="400" cx="385" cy="383"/>
+<vertex x="383" y="400" cx="383" cy="400"/>
+<vertex x="364" y="429" cx="375" cy="414"/>
+<vertex x="369" y="437" cx="360" cy="437"/>
+<vertex x="371" y="437" cx="369" cy="437"/>
+<vertex x="371" y="435" cx="371" cy="435"/>
+<vertex x="412" y="408" cx="387" cy="412"/>
+<vertex x="416" y="412" cx="414" cy="408"/>
+<vertex x="431" y="408" cx="427" cy="412"/>
+<vertex x="433" y="408" cx="433" cy="408"/>
+<vertex x="468" y="379" cx="437" cy="381"/>
+<vertex x="470" y="379" cx="468" cy="379"/>
+<vertex x="478" y="362" cx="480" cy="377"/>
+<vertex x="478" y="360" cx="478" cy="360"/>
+<vertex x="489" y="346" cx="485" cy="354"/>
+<vertex x="491" y="346" cx="489" cy="346"/>
+<vertex x="491" y="344" cx="491" cy="344"/>
+<vertex x="491" y="337" cx="491" cy="340"/>
+<vertex x="489" y="335" cx="489" cy="337"/>
+<vertex x="460" y="321" cx="476" cy="325"/>
+<vertex x="458" y="321" cx="458" cy="321"/>
+<vertex x="427" y="321" cx="441" cy="321"/>
+<vertex x="425" y="321" cx="427" cy="321"/>
+<vertex x="402" y="358" cx="398" cy="325"/>
+<vertex x="400" y="358" cx="400" cy="358"/>
+<vertex x="391" y="369" cx="395" cy="362"/>
+<vertex x="389" y="369" cx="391" cy="369"/>
+</shape></item>
+<item id="1679" label="Thalamus" zorder="38" name="Thalamus" x="194" y="155" tabs="1"><description><![CDATA[<p>The <b>thalamus</b> is a large collection of nuclei that have major connections with the cerebral cortex involving both sensory and motor functions.  Some thalamic nuclei have very specific connections relative to visual, auditory and somatosensory afferents and their projection to specific areas of cerebral cortex, while other nuclei have more general inputs and connections with association areas of cerebral cortex.</p>]]></description><shape>
+<vertex x="402" y="354" cx="402" cy="352"/>
+<vertex x="449" y="377" cx="427" cy="364"/>
+<vertex x="451" y="379" cx="451" cy="377"/>
+<vertex x="474" y="379" cx="462" cy="379"/>
+<vertex x="476" y="379" cx="474" cy="379"/>
+<vertex x="476" y="377" cx="476" cy="377"/>
+<vertex x="489" y="346" cx="478" cy="356"/>
+<vertex x="491" y="346" cx="489" cy="346"/>
+<vertex x="491" y="344" cx="491" cy="344"/>
+<vertex x="491" y="337" cx="491" cy="340"/>
+<vertex x="489" y="335" cx="489" cy="337"/>
+<vertex x="460" y="321" cx="476" cy="325"/>
+<vertex x="458" y="321" cx="458" cy="321"/>
+<vertex x="427" y="321" cx="441" cy="321"/>
+<vertex x="425" y="321" cx="427" cy="321"/>
+<vertex x="402" y="348" cx="402" cy="323"/>
+<vertex x="402" y="350" cx="402" cy="348"/>
+<vertex x="402" y="352" cx="402" cy="350"/>
+</shape></item>
+<item id="1678" label="Hypothalamus" zorder="37" name="Hypothalamus" x="176" y="171" tabs="1"><description><![CDATA[<p>The <b>hypothalamus</b> is the most inferior of the four divisions of the diencephalon.  While quite small, it has multiple important functions.  It is the central control center for the autonomic nervous system, part of the limbic system, exerts a powerful influence on pituitary function and generally is responsible for maintaining homeostasis.  It consists of multiple nuclei organized into three regions:  anterior (suprachiasmatic, supraoptic and paraventricular), tuberal (dorsomedial, ventromedial and arcuate) and posterior (mammillary and posterior).</p>]]></description><shape>
+<vertex x="400" y="354" cx="402" cy="354"/>
+<vertex x="391" y="369" cx="395" cy="362"/>
+<vertex x="389" y="369" cx="391" cy="369"/>
+<vertex x="385" y="400" cx="385" cy="383"/>
+<vertex x="383" y="400" cx="383" cy="400"/>
+<vertex x="364" y="429" cx="375" cy="414"/>
+<vertex x="369" y="437" cx="360" cy="437"/>
+<vertex x="371" y="437" cx="369" cy="437"/>
+<vertex x="371" y="435" cx="371" cy="435"/>
+<vertex x="412" y="408" cx="387" cy="412"/>
+<vertex x="416" y="412" cx="414" cy="408"/>
+<vertex x="431" y="408" cx="427" cy="412"/>
+<vertex x="433" y="408" cx="433" cy="408"/>
+<vertex x="451" y="381" cx="439" cy="391"/>
+<vertex x="454" y="381" cx="451" cy="381"/>
+<vertex x="454" y="379" cx="454" cy="379"/>
+<vertex x="451" y="377" cx="451" cy="379"/>
+<vertex x="412" y="354" cx="429" cy="369"/>
+<vertex x="410" y="354" cx="410" cy="354"/>
+<vertex x="402" y="354" cx="406" cy="354"/>
+</shape></item>
+<item id="1677" label="Infundibulum" zorder="36" name="Infundibulum" x="176" y="200" tabs="2"><description><![CDATA[<p>The <b>infundibulum</b> is the hollow, funnel-like stalk of the pituitary gland or hypophysis.  It extends from the medial eminence of the hypothalamus to the posterior lobe of the pituitary.  Embryologicaly, it and the posterior pituitary are derived from a ventral outgrowth of the diencephalon.</p>]]></description><shape>
+<vertex x="389" y="418" cx="387" cy="418"/>
+<vertex x="387" y="416" cx="389" cy="416"/>
+<vertex x="375" y="414" cx="383" cy="412"/>
+<vertex x="373" y="414" cx="375" cy="414"/>
+<vertex x="364" y="429" cx="369" cy="422"/>
+<vertex x="369" y="437" cx="360" cy="437"/>
+<vertex x="371" y="439" cx="369" cy="439"/>
+<vertex x="371" y="437" cx="371" cy="437"/>
+<vertex x="387" y="418" cx="379" cy="427"/>
+</shape></item>
+<item id="1676" label="Mammillary Body" zorder="35" name="Mammillary Body" x="198" y="187" tabs="2"><description><![CDATA[<p>The <b>mammillary bodies</b> are part of the posterior hypothalamus. &nbsp;They appear from the ventral view of the brain as a pair of rounded elevations.  Primary circuitry involves input from the hippocampus via the fornix and output to the anterior nucleus of thalamus via the mammillothalamic tract. They are part of the Papez circuitry of the limbic system.</p>]]></description><shape>
+<vertex x="420" y="387" cx="439" cy="383"/>
+<vertex x="418" y="387" cx="420" cy="387"/>
+<vertex x="410" y="398" cx="414" cy="393"/>
+<vertex x="433" y="408" cx="408" cy="418"/>
+<vertex x="435" y="406" cx="435" cy="408"/>
+</shape></item>
+<item id="1675" label="Pituitary" zorder="34" name="Pituitary" x="166" y="211" tabs="1"><description><![CDATA[<p>The <b>pituitary gland</b> is AKA the hypophysis.  The master gland through which the hypothalamus controls most other endocrine glands.  The posterior lobe and the infundibulum or pituitary stalk that attaches it to the medial eminence of the hypothalamus are collectively termed the neurohypophysis; they arise embryologically as a ventral outgrowth from the diencephalon. The supraoptic and paraventricular nuclei of the hypothalamus release oxytocin and vasopressin into the bloodstream in the neurohypophysis.  The anterior lobe or adenophypophysis secretes a variety of hormones that control other endocrine glands but is itself under the control of releasing and inhibiting hormones secreted by the hypothalamus.  It is formed embryologically from the roof of the oral cavity (Rathke's pouch).</p>]]></description><shape>
+<vertex x="369" y="437" cx="369" cy="437"/>
+<vertex x="366" y="437" cx="366" cy="437"/>
+<vertex x="360" y="437" cx="362" cy="437"/>
+<vertex x="358" y="437" cx="360" cy="437"/>
+<vertex x="344" y="454" cx="352" cy="445"/>
+<vertex x="358" y="470" cx="337" cy="472"/>
+<vertex x="360" y="470" cx="358" cy="470"/>
+<vertex x="360" y="468" cx="360" cy="468"/>
+<vertex x="369" y="460" cx="364" cy="464"/>
+<vertex x="371" y="460" cx="369" cy="460"/>
+<vertex x="371" y="458" cx="371" cy="458"/>
+<vertex x="371" y="451" cx="371" cy="454"/>
+<vertex x="369" y="449" cx="369" cy="451"/>
+<vertex x="366" y="441" cx="366" cy="445"/>
+<vertex x="366" y="437" cx="366" cy="439"/>
+</shape></item>
+<item id="1674" label="Visual pathway, Optic chiasm" zorder="33" name="Visual pathway     Optic chiasm" x="170" y="193" tabs="0"><description><![CDATA[<p>The <b>optic chiasm</b> is a midline structure that consists of the axons of retinal neurons located in the nasal half of each retina. &nbsp;These nerve fibers travel first in the optic nerve and then cross in midline of the optic chiasm so that the input from the nasal retina of each eye (temporal visual field) projects to the contralateral optic tract and beyond in the visual pathway. Input from the temporal retina (nasal visual field) does NOT cross in the chiasm but projects through the ipsilateral visual pathway. &nbsp;This partial crossing of the visual input is essential for binocular vision.</p>]]></description><shape>
+<vertex x="383" y="400" cx="389" cy="398"/>
+<vertex x="381" y="400" cx="383" cy="400"/>
+<vertex x="352" y="416" cx="366" cy="408"/>
+<vertex x="360" y="425" cx="348" cy="427"/>
+<vertex x="362" y="425" cx="360" cy="425"/>
+<vertex x="362" y="422" cx="362" cy="422"/>
+<vertex x="387" y="406" cx="377" cy="416"/>
+<vertex x="389" y="406" cx="387" cy="406"/>
+<vertex x="389" y="404" cx="389" cy="404"/>
+</shape></item>
+<item id="1673" label="Midbrain" zorder="32" name="Midbrain" x="211" y="179" tabs="0"><description><![CDATA[<p>The <b>midbrain</b> is AKA the mesencephalon. Within its parts (tectum, tegmentum, substantia nigra and cerebral crus or basis pedunculi), it contains cranial nerve nuclei, all of the clinically important ascending and descending tracts, etc.  It is traversed by the cerebral aqueduct or aqueduct of Sylvius.  It originates developmentally from the mesencephalon.</p>]]></description><shape>
+<vertex x="491" y="371" cx="493" cy="371"/>
+<vertex x="454" y="379" cx="476" cy="379"/>
+<vertex x="451" y="379" cx="454" cy="379"/>
+<vertex x="437" y="395" cx="445" cy="387"/>
+<vertex x="437" y="406" cx="437" cy="400"/>
+<vertex x="437" y="408" cx="437" cy="406"/>
+<vertex x="454" y="429" cx="449" cy="414"/>
+<vertex x="456" y="431" cx="456" cy="429"/>
+<vertex x="526" y="431" cx="491" cy="431"/>
+<vertex x="528" y="431" cx="526" cy="431"/>
+<vertex x="528" y="429" cx="528" cy="429"/>
+<vertex x="528" y="425" cx="528" cy="427"/>
+<vertex x="534" y="418" cx="532" cy="422"/>
+<vertex x="536" y="418" cx="534" cy="418"/>
+<vertex x="536" y="416" cx="536" cy="416"/>
+<vertex x="536" y="406" cx="536" cy="410"/>
+<vertex x="534" y="404" cx="534" cy="406"/>
+<vertex x="501" y="371" cx="522" cy="381"/>
+<vertex x="499" y="371" cx="499" cy="371"/>
+<vertex x="493" y="371" cx="495" cy="371"/>
+</shape></item>
+<item id="1672" label="Tectum" zorder="31" name="Tectum" x="236" y="179" tabs="1"><description><![CDATA[<p>The <b>tectum</b> is that portion of the <b>midbrain</b> located above the cerebral aqueduct. &nbsp;It includes the superior and inferior colliculi which are AKA the quadrigeminal bodies.</p>]]></description><shape>
+<vertex x="499" y="371" cx="499" cy="371"/>
+<vertex x="489" y="371" cx="493" cy="371"/>
+<vertex x="489" y="381" cx="489" cy="375"/>
+<vertex x="489" y="383" cx="489" cy="381"/>
+<vertex x="524" y="422" cx="512" cy="395"/>
+<vertex x="526" y="425" cx="526" cy="422"/>
+<vertex x="536" y="406" cx="541" cy="425"/>
+<vertex x="536" y="406" cx="536" cy="406"/>
+<vertex x="534" y="404" cx="534" cy="406"/>
+<vertex x="501" y="371" cx="522" cy="381"/>
+</shape></item>
+<item id="1671" label="Tegmentum" zorder="30" name="Tegmentum" x="211" y="183" tabs="1"><description><![CDATA[<p>The <b>tegmentum</b> is that portion of the <b>midbrain</b> that lies between the cerebral aqueduct and the crus cerebri. &nbsp;It includes the major ascending sensory tracts (medial lemniscus, spinothalamic), the red nucleus and the substantia nigra.</p>]]></description><shape>
+<vertex x="480" y="379" cx="480" cy="379"/>
+<vertex x="454" y="379" cx="466" cy="379"/>
+<vertex x="451" y="379" cx="454" cy="379"/>
+<vertex x="437" y="395" cx="445" cy="387"/>
+<vertex x="437" y="398" cx="437" cy="395"/>
+<vertex x="437" y="400" cx="437" cy="398"/>
+<vertex x="462" y="429" cx="454" cy="410"/>
+<vertex x="464" y="431" cx="464" cy="429"/>
+<vertex x="518" y="425" cx="493" cy="431"/>
+<vertex x="520" y="422" cx="520" cy="425"/>
+<vertex x="518" y="420" cx="518" cy="422"/>
+<vertex x="483" y="379" cx="510" cy="389"/>
+</shape></item>
+<item id="1670" label="Oculomotor Nerve" zorder="29" name="Oculomotor Nerve" x="211" y="195" tabs="1"><description><![CDATA[<p>The third or <b>oculomotor cranial nerve</b> provides motor innervation to the ipsilateral medial rectus, superior rectus, inferior rectus, inferior oblique and levator palapebrae muscles that move the eye.  It also includes parasympathetic fibers that terminate in the ipsilateral ciliary ganglion; post-ganglionic fibers from the ciliary ganglion innervate the constrictors of the pupil and the ciliary muscles.</p>]]></description><shape>
+<vertex x="441" y="404" cx="441" cy="404"/>
+<vertex x="437" y="404" cx="439" cy="404"/>
+<vertex x="443" y="422" cx="433" cy="420"/>
+<vertex x="445" y="425" cx="443" cy="425"/>
+<vertex x="445" y="422" cx="445" cy="422"/>
+<vertex x="451" y="416" cx="449" cy="420"/>
+<vertex x="454" y="416" cx="451" cy="416"/>
+<vertex x="454" y="414" cx="454" cy="414"/>
+<vertex x="454" y="412" cx="454" cy="412"/>
+<vertex x="451" y="410" cx="451" cy="412"/>
+<vertex x="443" y="404" cx="447" cy="406"/>
+</shape></item>
+<item id="1669" label="Pons" zorder="28" name="Pons" x="205" y="208" tabs="0"><description><![CDATA[<p>The <b>pons</b> is that portion of the brainstem between the midbrain and medulla. It consists of a basilar or basal portion that contains structures primarily associated with motor control and a tegmental portion that contains cranial nerve nuclei and important sensory tracts. The cerebellum overlies the pons and medulla. The rostral aspect of the fourth ventricle is located on the dorsal surface of the pons. The pons and cerebellum originate embryologically from the metencephalon of the hindbrain.</p>]]></description><shape>
+<vertex x="520" y="431" cx="524" cy="437"/>
+<vertex x="518" y="431" cx="518" cy="431"/>
+<vertex x="439" y="431" cx="478" cy="431"/>
+<vertex x="437" y="431" cx="439" cy="431"/>
+<vertex x="425" y="454" cx="425" cy="437"/>
+<vertex x="425" y="460" cx="425" cy="456"/>
+<vertex x="425" y="462" cx="425" cy="460"/>
+<vertex x="431" y="503" cx="429" cy="478"/>
+<vertex x="431" y="505" cx="431" cy="503"/>
+<vertex x="458" y="545" cx="437" cy="530"/>
+<vertex x="460" y="547" cx="460" cy="545"/>
+<vertex x="466" y="547" cx="462" cy="547"/>
+<vertex x="468" y="547" cx="466" cy="547"/>
+<vertex x="468" y="545" cx="468" cy="545"/>
+<vertex x="491" y="530" cx="480" cy="539"/>
+<vertex x="493" y="530" cx="491" cy="530"/>
+<vertex x="530" y="526" cx="512" cy="528"/>
+<vertex x="532" y="526" cx="530" cy="526"/>
+<vertex x="532" y="524" cx="532" cy="524"/>
+<vertex x="532" y="512" cx="532" cy="518"/>
+<vertex x="530" y="510" cx="530" cy="512"/>
+<vertex x="530" y="449" cx="524" cy="480"/>
+<vertex x="528" y="447" cx="528" cy="449"/>
+</shape></item>
+<item id="1668" label="Tegmentum" zorder="27" name="Tegmentum_1" x="226" y="208" tabs="1"><description><![CDATA[<p>The <b>tegmentum</b> or <b>tegmental pons </b>forms&nbsp;the dorsal aspect of the pons. &nbsp;It is continuous with the tegmental portions of both the midbrain and medulla. Includes cranial nerve nuclei and clinically important sensory tracts [medial lemniscal, spinothalamic, lateral lemniscal]. The rostral aspect of the fourth ventricle is located on it dorsal surface.</p>]]></description><shape>
+<vertex x="520" y="431" cx="524" cy="437"/>
+<vertex x="518" y="431" cx="518" cy="431"/>
+<vertex x="468" y="431" cx="493" cy="431"/>
+<vertex x="468" y="433" cx="468" cy="431"/>
+<vertex x="497" y="466" cx="487" cy="443"/>
+<vertex x="499" y="468" cx="499" cy="466"/>
+<vertex x="493" y="528" cx="503" cy="505"/>
+<vertex x="493" y="530" cx="493" cy="528"/>
+<vertex x="510" y="530" cx="501" cy="530"/>
+<vertex x="512" y="530" cx="510" cy="530"/>
+<vertex x="512" y="528" cx="512" cy="528"/>
+<vertex x="530" y="526" cx="520" cy="526"/>
+<vertex x="532" y="526" cx="530" cy="526"/>
+<vertex x="532" y="524" cx="532" cy="524"/>
+<vertex x="532" y="512" cx="532" cy="518"/>
+<vertex x="530" y="510" cx="530" cy="512"/>
+<vertex x="530" y="449" cx="524" cy="480"/>
+<vertex x="528" y="447" cx="528" cy="449"/>
+</shape></item>
+<item id="1667" label="Basilar" zorder="26" name="Basilar" x="205" y="208" tabs="1"><description><![CDATA[<p>The <b>basilar pons</b> is AKA the <b>basal pons</b>. It is the ventral portion of the pons that includes the following important elements that are primarily involved in motor control:  corticospinal, corticobulbar, corticospinal and pontocerebellar tracts plus the pontine nuclei.  Thus, it serves as a conduit for descending motor pathways from cerebral cortex to the pons, medulla and spinal cord.  In addition, it connects the cerebral cortex with the cerebellum via synapses of the corticopontine fibers on pontine nuclei that then give origin to the pontocerebellar fibers which terminate in cerebellum.</p>]]></description><shape>
+<vertex x="462" y="431" cx="462" cy="431"/>
+<vertex x="439" y="431" cx="449" cy="431"/>
+<vertex x="437" y="431" cx="439" cy="431"/>
+<vertex x="425" y="454" cx="425" cy="437"/>
+<vertex x="425" y="460" cx="425" cy="456"/>
+<vertex x="425" y="462" cx="425" cy="460"/>
+<vertex x="431" y="503" cx="429" cy="478"/>
+<vertex x="431" y="505" cx="431" cy="503"/>
+<vertex x="458" y="545" cx="437" cy="530"/>
+<vertex x="460" y="547" cx="460" cy="545"/>
+<vertex x="466" y="547" cx="462" cy="547"/>
+<vertex x="468" y="547" cx="466" cy="547"/>
+<vertex x="468" y="545" cx="468" cy="545"/>
+<vertex x="497" y="522" cx="487" cy="539"/>
+<vertex x="499" y="522" cx="497" cy="522"/>
+<vertex x="499" y="520" cx="499" cy="520"/>
+<vertex x="499" y="466" cx="499" cy="493"/>
+<vertex x="497" y="464" cx="497" cy="466"/>
+<vertex x="464" y="431" cx="487" cy="439"/>
+</shape></item>
+<item id="1666" label="Medulla" zorder="25" name="Medulla" x="225" y="254" tabs="0"><description><![CDATA[<p>The <b>medulla</b> is AKA the medulla oblongata.  The most caudal aspect of the brain stem, it is located between the pons and spinal cord. It contains structures vital to survival such as cardiovascular and respiratory centers, as well as many cranial nerve nuclei.  The major ascending and descending tracts travel through it between the spinal cord and higher centers. It originates developmentally from the myelencephalon of the hindbrain.</p>]]></description><shape>
+<vertex x="543" y="580" cx="543" cy="582"/>
+<vertex x="534" y="561" cx="541" cy="568"/>
+<vertex x="534" y="559" cx="534" cy="559"/>
+<vertex x="532" y="526" cx="534" cy="539"/>
+<vertex x="530" y="526" cx="530" cy="526"/>
+<vertex x="522" y="526" cx="526" cy="526"/>
+<vertex x="520" y="526" cx="522" cy="526"/>
+<vertex x="493" y="530" cx="507" cy="530"/>
+<vertex x="491" y="530" cx="491" cy="530"/>
+<vertex x="466" y="547" cx="478" cy="539"/>
+<vertex x="466" y="551" cx="466" cy="549"/>
+<vertex x="466" y="553" cx="466" cy="551"/>
+<vertex x="491" y="613" cx="476" cy="586"/>
+<vertex x="514" y="680" cx="507" cy="640"/>
+<vertex x="539" y="680" cx="526" cy="680"/>
+<vertex x="541" y="680" cx="539" cy="680"/>
+<vertex x="541" y="677" cx="541" cy="677"/>
+<vertex x="541" y="669" cx="541" cy="673"/>
+<vertex x="543" y="657" cx="543" cy="665"/>
+<vertex x="545" y="657" cx="543" cy="657"/>
+<vertex x="545" y="655" cx="545" cy="655"/>
+<vertex x="545" y="582" cx="545" cy="617"/>
+</shape></item>
+<item id="1665" label="Spinal cord" zorder="24" name="Spinal cord" x="249" y="328" tabs="0"><description><![CDATA[<p>The <b>spinal cord</b> is that portion of the central nervous system that extends from the medulla to the conus medullaris. It consists of 31 segments (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal) and has enlargements at the levels serving the limbs (C5 - T1 and L2 - S3).</p>]]></description><shape>
+<vertex x="541" y="700" cx="541" cy="700"/>
+<vertex x="516" y="680" cx="545" cy="671"/>
+<vertex x="520" y="814" cx="514" cy="750"/>
+<vertex x="524" y="816" cx="520" cy="816"/>
+<vertex x="536" y="816" cx="530" cy="816"/>
+<vertex x="536" y="814" cx="536" cy="814"/>
+<vertex x="536" y="723" cx="536" cy="769"/>
+<vertex x="539" y="702" cx="539" cy="715"/>
+<vertex x="541" y="702" cx="539" cy="702"/>
+</shape></item>
+<item id="1664" label="Cerebellum, Vermis" zorder="23" name="Cerebellum, vermis" x="260" y="187" tabs="0"><description><![CDATA[<p>The <b>vermis</b> of the cerebellum is the most medial region, i.e. the narrow midline section associated with the anterior, posterior and flocculonodular lobes of the cerebellum.</p>]]></description><shape>
+<vertex x="677" y="472" cx="677" cy="474"/>
+<vertex x="671" y="456" cx="673" cy="464"/>
+<vertex x="669" y="454" cx="669" cy="456"/>
+<vertex x="655" y="451" cx="663" cy="447"/>
+<vertex x="653" y="451" cx="655" cy="451"/>
+<vertex x="650" y="447" cx="632" cy="470"/>
+<vertex x="650" y="447" cx="650" cy="447"/>
+<vertex x="628" y="410" cx="648" cy="418"/>
+<vertex x="626" y="408" cx="626" cy="410"/>
+<vertex x="613" y="422" cx="615" cy="406"/>
+<vertex x="609" y="400" cx="609" cy="412"/>
+<vertex x="605" y="398" cx="609" cy="393"/>
+<vertex x="592" y="387" cx="599" cy="402"/>
+<vertex x="590" y="387" cx="590" cy="387"/>
+<vertex x="576" y="387" cx="582" cy="387"/>
+<vertex x="572" y="400" cx="576" cy="395"/>
+<vertex x="545" y="443" cx="557" cy="420"/>
+<vertex x="545" y="445" cx="545" cy="443"/>
+<vertex x="570" y="489" cx="549" cy="474"/>
+<vertex x="568" y="489" cx="570" cy="489"/>
+<vertex x="539" y="520" cx="541" cy="493"/>
+<vertex x="539" y="536" cx="539" cy="528"/>
+<vertex x="539" y="539" cx="539" cy="536"/>
+<vertex x="568" y="539" cx="551" cy="541"/>
+<vertex x="570" y="539" cx="568" cy="539"/>
+<vertex x="588" y="547" cx="578" cy="543"/>
+<vertex x="590" y="549" cx="588" cy="549"/>
+<vertex x="609" y="576" cx="599" cy="563"/>
+<vertex x="611" y="578" cx="611" cy="576"/>
+<vertex x="626" y="578" cx="617" cy="578"/>
+<vertex x="628" y="578" cx="626" cy="578"/>
+<vertex x="628" y="576" cx="628" cy="576"/>
+<vertex x="638" y="557" cx="638" cy="570"/>
+<vertex x="640" y="555" cx="640" cy="555"/>
+<vertex x="657" y="549" cx="648" cy="553"/>
+<vertex x="659" y="549" cx="657" cy="549"/>
+<vertex x="677" y="516" cx="671" cy="536"/>
+<vertex x="680" y="516" cx="677" cy="516"/>
+<vertex x="680" y="514" cx="680" cy="514"/>
+<vertex x="680" y="474" cx="680" cy="493"/>
+</shape></item>
+<item id="1663" label="Anterior lobe" zorder="22" name="Anterior lobe" x="263" y="187" tabs="1"><description><![CDATA[<p>The <b>anterior lobe of the cerebellum</b> is that portion of the cerebellum anterior to the primary fissure, including parts of the vermis and hemisphere.</p>]]></description><shape>
+<vertex x="574" y="395" cx="576" cy="391"/>
+<vertex x="563" y="416" cx="572" cy="408"/>
+<vertex x="545" y="439" cx="553" cy="427"/>
+<vertex x="545" y="454" cx="545" cy="445"/>
+<vertex x="545" y="456" cx="545" cy="454"/>
+<vertex x="588" y="495" cx="555" cy="485"/>
+<vertex x="590" y="497" cx="590" cy="495"/>
+<vertex x="599" y="497" cx="595" cy="497"/>
+<vertex x="601" y="497" cx="599" cy="497"/>
+<vertex x="601" y="495" cx="601" cy="495"/>
+<vertex x="621" y="483" cx="609" cy="487"/>
+<vertex x="624" y="483" cx="621" cy="483"/>
+<vertex x="632" y="462" cx="630" cy="474"/>
+<vertex x="634" y="462" cx="634" cy="462"/>
+<vertex x="650" y="447" cx="644" cy="456"/>
+<vertex x="653" y="447" cx="650" cy="447"/>
+<vertex x="653" y="445" cx="653" cy="445"/>
+<vertex x="653" y="437" cx="653" cy="441"/>
+<vertex x="650" y="435" cx="650" cy="437"/>
+<vertex x="628" y="410" cx="644" cy="416"/>
+<vertex x="626" y="408" cx="626" cy="410"/>
+<vertex x="613" y="422" cx="615" cy="406"/>
+<vertex x="609" y="400" cx="609" cy="412"/>
+<vertex x="605" y="398" cx="609" cy="393"/>
+<vertex x="592" y="387" cx="599" cy="402"/>
+<vertex x="590" y="387" cx="590" cy="387"/>
+<vertex x="576" y="387" cx="582" cy="387"/>
+</shape></item>
+<item id="1662" label="Primary Fissure" zorder="21" name="Primary Fissure" x="297" y="209" tabs="1"><description><![CDATA[<p>The <b>primary fissure of the cerebellum </b>separates the anterior lobe from the posterior lobe of the cerebellum. It extends into both the vermal and hemispheric aspects of the cerebellum.</p>]]></description><shape>
+<vertex x="661" y="447" cx="661" cy="447"/>
+<vertex x="653" y="433" cx="663" cy="431"/>
+<vertex x="650" y="433" cx="653" cy="433"/>
+<vertex x="642" y="458" cx="646" cy="445"/>
+<vertex x="640" y="458" cx="640" cy="458"/>
+<vertex x="615" y="483" cx="630" cy="472"/>
+<vertex x="615" y="485" cx="615" cy="485"/>
+<vertex x="617" y="487" cx="615" cy="487"/>
+<vertex x="617" y="485" cx="617" cy="485"/>
+<vertex x="642" y="462" cx="634" cy="478"/>
+<vertex x="644" y="460" cx="644" cy="462"/>
+<vertex x="661" y="449" cx="650" cy="454"/>
+</shape></item>
+<item id="1661" label="Posterior lobe" zorder="20" name="Posterior lobe" x="260" y="217" tabs="1"><description><![CDATA[<p>The <b>posterior lobe of the cerebellum</b>&nbsp;is that portion between the primary and posterolateral fissures. &nbsp;It includes parts of the vermis and hemispheres.</p>]]></description><shape>
+<vertex x="677" y="472" cx="677" cy="474"/>
+<vertex x="661" y="449" cx="673" cy="456"/>
+<vertex x="659" y="449" cx="659" cy="449"/>
+<vertex x="657" y="449" cx="657" cy="449"/>
+<vertex x="655" y="449" cx="657" cy="449"/>
+<vertex x="628" y="483" cx="636" cy="462"/>
+<vertex x="626" y="483" cx="626" cy="483"/>
+<vertex x="572" y="505" cx="601" cy="497"/>
+<vertex x="570" y="505" cx="572" cy="505"/>
+<vertex x="539" y="526" cx="557" cy="518"/>
+<vertex x="539" y="536" cx="539" cy="530"/>
+<vertex x="539" y="539" cx="539" cy="536"/>
+<vertex x="568" y="539" cx="551" cy="541"/>
+<vertex x="570" y="539" cx="568" cy="539"/>
+<vertex x="588" y="547" cx="578" cy="543"/>
+<vertex x="590" y="549" cx="588" cy="549"/>
+<vertex x="609" y="576" cx="599" cy="563"/>
+<vertex x="611" y="578" cx="611" cy="576"/>
+<vertex x="626" y="578" cx="617" cy="578"/>
+<vertex x="628" y="578" cx="626" cy="578"/>
+<vertex x="628" y="576" cx="628" cy="576"/>
+<vertex x="638" y="557" cx="638" cy="570"/>
+<vertex x="640" y="555" cx="640" cy="555"/>
+<vertex x="657" y="549" cx="648" cy="553"/>
+<vertex x="659" y="549" cx="657" cy="549"/>
+<vertex x="677" y="516" cx="671" cy="536"/>
+<vertex x="680" y="516" cx="677" cy="516"/>
+<vertex x="680" y="514" cx="680" cy="514"/>
+<vertex x="680" y="474" cx="680" cy="493"/>
+</shape></item>
+<item id="1660" label="Cerebellum, Hemisphere, Tonsil" zorder="19" name="Cerebellum, tonsil" x="260" y="260" tabs="0"><description><![CDATA[<p>The <b>tonsils of the cerebellum</b>&nbsp;are the medial, inferior part of the posterior lobe of each cerebellar hemisphere, adjacent to the medulla and near the foramen magnum. The tonsils are of clinical significance since they may herniate through the foramen magnum with increased intracranial pressure.</p>]]></description><shape>
+<vertex x="551" y="539" cx="553" cy="539"/>
+<vertex x="539" y="553" cx="539" cy="541"/>
+<vertex x="539" y="561" cx="539" cy="557"/>
+<vertex x="539" y="563" cx="539" cy="561"/>
+<vertex x="549" y="624" cx="551" cy="584"/>
+<vertex x="549" y="626" cx="549" cy="624"/>
+<vertex x="559" y="642" cx="553" cy="636"/>
+<vertex x="561" y="644" cx="561" cy="642"/>
+<vertex x="578" y="644" cx="570" cy="644"/>
+<vertex x="580" y="644" cx="578" cy="644"/>
+<vertex x="580" y="642" cx="580" cy="642"/>
+<vertex x="619" y="615" cx="607" cy="636"/>
+<vertex x="621" y="615" cx="619" cy="615"/>
+<vertex x="621" y="613" cx="621" cy="613"/>
+<vertex x="621" y="592" cx="621" cy="603"/>
+<vertex x="619" y="590" cx="619" cy="592"/>
+<vertex x="574" y="539" cx="603" cy="557"/>
+<vertex x="572" y="539" cx="572" cy="539"/>
+<vertex x="553" y="539" cx="561" cy="539"/>
+</shape></item>
+<item id="1658" label="Arteries, branches of" zorder="18" name="Arteries_branches of" x="152" y="180" tabs="0"><description><![CDATA[<p>The <b>arterial supply to the brain</b> is via the paired internal carotid and vertebral arteries. The terminal branches of the internal carotid arteries are the paired anterior and middle cerebral arteries which supply supratentorial structures. &nbsp;The two vertebral arteries enter the cranial cavity via the foramen magnum; they join one another at the junction of the medulla with the pons to form the basilar artery. &nbsp;Together the vertebral-basilar system of arteries supplies the structures of the posterior fossa as well as those supratentorial structures supplied by its terminal branches -- the posterior cerebral arteries.</p>]]></description><shape>
+<vertex x="352" y="406" cx="354" cy="406"/>
+<vertex x="329" y="402" cx="337" cy="414"/>
+<vertex x="329" y="402" cx="329" cy="402"/>
+<vertex x="329" y="373" cx="325" cy="387"/>
+<vertex x="331" y="373" cx="331" cy="373"/>
+<vertex x="329" y="373" cx="329" cy="373"/>
+<vertex x="323" y="373" cx="325" cy="373"/>
+<vertex x="321" y="373" cx="323" cy="373"/>
+<vertex x="315" y="391" cx="319" cy="383"/>
+<vertex x="315" y="393" cx="315" cy="391"/>
+<vertex x="315" y="395" cx="315" cy="393"/>
+<vertex x="344" y="422" cx="325" cy="414"/>
+<vertex x="346" y="425" cx="344" cy="425"/>
+<vertex x="356" y="406" cx="360" cy="412"/>
+</shape><shape>
+<vertex x="408" y="425" cx="402" cy="429"/>
+<vertex x="406" y="416" cx="429" cy="410"/>
+<vertex x="404" y="418" cx="406" cy="418"/>
+</shape><shape>
+<vertex x="472" y="572" cx="472" cy="574"/>
+<vertex x="443" y="555" cx="466" cy="555"/>
+<vertex x="427" y="489" cx="431" cy="526"/>
+<vertex x="412" y="478" cx="425" cy="458"/>
+<vertex x="418" y="518" cx="410" cy="503"/>
+<vertex x="420" y="520" cx="418" cy="520"/>
+<vertex x="420" y="534" cx="420" cy="526"/>
+<vertex x="420" y="536" cx="420" cy="534"/>
+<vertex x="474" y="609" cx="445" cy="574"/>
+<vertex x="480" y="615" cx="478" cy="611"/>
+<vertex x="493" y="638" cx="487" cy="626"/>
+<vertex x="497" y="636" cx="497" cy="638"/>
+<vertex x="499" y="634" cx="499" cy="634"/>
+<vertex x="497" y="632" cx="497" cy="634"/>
+<vertex x="466" y="582" cx="485" cy="603"/>
+<vertex x="466" y="580" cx="466" cy="580"/>
+<vertex x="474" y="574" cx="468" cy="582"/>
+</shape></item>
+<item id="1657" label="Anterior cerebral" zorder="17" name="Anterior cerebral" x="152" y="180" tabs="1"><description><![CDATA[<p>The <b>anterior cerebral artery</b> is the most anterior of the terminal branches of the internal carotid artery. Along with its branches, it curves around the genu and then superior to the corpus callosum to supply the orbital gyri, medial aspect of the frontal lobe, a portion of the parietal lobe and a narrow band along the most superior region of the lateral aspect of the hemisphere.  Since the anterior cerebral artery supplies the paracentral lobule which is responsible for sensation and motor control of the contralateral lower extremity, loss of this blood supply results in paralysis and loss of sensation in the contralateral lower extremity.</p>]]></description><shape>
+<vertex x="321" y="373" cx="323" cy="373"/>
+<vertex x="315" y="391" cx="319" cy="383"/>
+<vertex x="315" y="393" cx="315" cy="391"/>
+<vertex x="315" y="395" cx="315" cy="393"/>
+<vertex x="333" y="420" cx="323" cy="408"/>
+<vertex x="335" y="422" cx="335" cy="420"/>
+<vertex x="342" y="410" cx="344" cy="422"/>
+<vertex x="342" y="410" cx="342" cy="410"/>
+<vertex x="340" y="408" cx="340" cy="410"/>
+<vertex x="327" y="387" cx="323" cy="406"/>
+<vertex x="331" y="375" cx="331" cy="383"/>
+<vertex x="331" y="373" cx="331" cy="373"/>
+<vertex x="329" y="373" cx="329" cy="373"/>
+<vertex x="323" y="373" cx="325" cy="373"/>
+</shape></item>
+<item id="1656" label="Vertebral" zorder="16" name="Vertebral" x="218" y="271" tabs="1"><description><![CDATA[<p>Along with the internal carotid arteries, the <b>vertebral arteries </b>are the major blood supply to the brain.  The two vertebral arteries fuse at the junction of the medulla and pons to form the basilar artery.  The vertebral-basilar system supplies structures in the posterior fossa plus posterior aspects of the diencephalon, choroid plexus in the third and lateral ventricles and the medial and inferior surfaces of the occipital and temporal lobes of the cerebral hemispheres.</p>]]></description><shape>
+<vertex x="466" y="561" cx="466" cy="561"/>
+<vertex x="460" y="561" cx="462" cy="561"/>
+<vertex x="460" y="561" cx="460" cy="561"/>
+<vertex x="451" y="574" cx="466" cy="574"/>
+<vertex x="451" y="576" cx="451" cy="574"/>
+<vertex x="451" y="578" cx="451" cy="576"/>
+<vertex x="491" y="636" cx="478" cy="599"/>
+<vertex x="493" y="638" cx="493" cy="636"/>
+<vertex x="497" y="636" cx="497" cy="638"/>
+<vertex x="499" y="634" cx="499" cy="634"/>
+<vertex x="497" y="632" cx="497" cy="634"/>
+<vertex x="464" y="578" cx="485" cy="601"/>
+<vertex x="468" y="561" cx="480" cy="582"/>
+<vertex x="468" y="561" cx="468" cy="561"/>
+</shape></item>
+<item id="1655" label="Basilar" zorder="15" name="Basilar_1" x="199" y="226" tabs="1"><description><![CDATA[<p>The two vertebral arteries fuse at the junction of the medulla and pons to form the <b>basilar artery</b>.  At the junction of the pons and midbrain, the basilar bifurcates into two terminal branches, the posterior cerebral arteries.  Branches of the basilar &amp; posterior cerebral arteries supply parts of the brain stem, cerebellum, posterior aspects of the diencephalon, choroid plexus in the third and lateral ventricles and the medial and inferior surfaces of the occipital and temporal lobes of the cerebral hemispheres.</p>]]></description><shape>
+<vertex x="412" y="505" cx="412" cy="503"/>
+<vertex x="418" y="518" cx="414" cy="512"/>
+<vertex x="420" y="520" cx="418" cy="520"/>
+<vertex x="420" y="534" cx="420" cy="526"/>
+<vertex x="420" y="536" cx="420" cy="534"/>
+<vertex x="445" y="574" cx="429" cy="557"/>
+<vertex x="447" y="576" cx="447" cy="574"/>
+<vertex x="462" y="565" cx="464" cy="580"/>
+<vertex x="462" y="563" cx="462" cy="563"/>
+<vertex x="460" y="561" cx="460" cy="563"/>
+<vertex x="443" y="555" cx="454" cy="555"/>
+<vertex x="435" y="532" cx="437" cy="545"/>
+<vertex x="420" y="468" cx="429" cy="497"/>
+<vertex x="418" y="468" cx="418" cy="468"/>
+<vertex x="412" y="468" cx="414" cy="468"/>
+<vertex x="412" y="503" cx="412" cy="485"/>
+</shape></item>
+<item id="1654" label="Superior cerebellar" zorder="14" name="Superior cerebellar" x="203" y="206" tabs="1"><description><![CDATA[<p>The <b>s</b><b>uperior cerebellar artery</b> is a branch from the basilar artery just caudal to the bifurcation of the basilar to form the two posterior cerebral arteries.  It supplies the superior aspect of the cerebellum plus parts of the caudal midbrain and rostral pons.</p>]]></description><shape>
+<vertex x="427" y="437" cx="416" cy="443"/>
+<vertex x="420" y="427" cx="443" cy="427"/>
+<vertex x="418" y="431" cx="420" cy="429"/>
+</shape></item>
+<item id="1653" label="Posterior cerebral" zorder="13" name="Posterior cerebral" x="196" y="199" tabs="1"><description><![CDATA[<p>The <b>posterior cerebral arteries</b> are paired vessels formed as the terminal branches of the basilar artery at the level of the midbrain. They are part of the posterior aspect of the circle of Willis and supply the rostral midbrain, posterior thalamus, medial occipital lobe as well as the inferior and medial surfaces of the temporal lobe.  Disruption of the posterior cerebral artery may result in blindness in the contralateral visual field since it supplies the visual cortex of the occipital lobe; it may also present as a contralateral upper motor neuron lesion with spastic paralysis of the contralateral body and face as well as an ipsilateral lower motor neuron lesion of the oculomotor nerve/nucleus since it supplies the crus cerebri and oculumotor nerve/nucleus in the midbrain.</p>]]></description><shape>
+<vertex x="410" y="427" cx="402" cy="425"/>
+<vertex x="414" y="427" cx="414" cy="429"/>
+<vertex x="406" y="412" cx="427" cy="410"/>
+</shape></item>
+<item id="1652" label="Cerebral veins, deep" zorder="12" name="Cerebral veins, deep" x="198" y="151" tabs="0"><description><![CDATA[<p>Cerebral veins are described as superficial or deep, depending on whether they drain the superficial or deep aspects of the brain. The<b> d</b><b>eep cerebral veins</b> include the paired internal cerebral veins and the paired basal veins (of Rosenthal). &nbsp;These deep cerebral veins empty into the Great Vein of Galen which then empties into the straight venous sinus.</p>]]></description><shape>
+<vertex x="410" y="321" cx="410" cy="319"/>
+<vertex x="522" y="344" cx="478" cy="319"/>
+<vertex x="524" y="346" cx="522" cy="346"/>
+<vertex x="472" y="313" cx="505" cy="321"/>
+<vertex x="472" y="313" cx="472" cy="313"/>
+<vertex x="470" y="313" cx="470" cy="313"/>
+<vertex x="410" y="313" cx="439" cy="313"/>
+<vertex x="410" y="319" cx="410" cy="315"/>
+</shape><shape>
+<vertex x="576" y="323" cx="576" cy="323"/>
+<vertex x="576" y="317" cx="576" cy="319"/>
+<vertex x="572" y="317" cx="572" cy="317"/>
+<vertex x="514" y="360" cx="553" cy="350"/>
+<vertex x="514" y="362" cx="514" cy="360"/>
+<vertex x="514" y="364" cx="514" cy="362"/>
+<vertex x="536" y="364" cx="524" cy="364"/>
+<vertex x="539" y="364" cx="536" cy="364"/>
+<vertex x="539" y="362" cx="539" cy="362"/>
+<vertex x="574" y="325" cx="563" cy="352"/>
+<vertex x="576" y="325" cx="574" cy="325"/>
+</shape></item>
+<item id="1651" label="Internal cerebral" zorder="11" name="Internal cerebral" x="198" y="151" tabs="1"><description><![CDATA[<p>The <b>internal cerebral veins</b> are paired, deep cerebral veins. &nbsp;These major veins drain most of the interior of the brain.  Formed at the level of the interventricular foramen of Monro by the union of the thalamostriate and choroidal veins, they travel posteriorly to the area of the superior or quadrigeminal cistern where they unite and join the Great Vein of Galen.</p>]]></description><shape>
+<vertex x="410" y="321" cx="410" cy="319"/>
+<vertex x="516" y="344" cx="474" cy="319"/>
+<vertex x="518" y="346" cx="518" cy="344"/>
+<vertex x="522" y="344" cx="522" cy="346"/>
+<vertex x="524" y="342" cx="524" cy="342"/>
+<vertex x="522" y="340" cx="522" cy="342"/>
+<vertex x="472" y="313" cx="501" cy="321"/>
+<vertex x="470" y="313" cx="470" cy="313"/>
+<vertex x="410" y="313" cx="439" cy="313"/>
+<vertex x="410" y="319" cx="410" cy="315"/>
+</shape></item>
+<item id="1650" label="Great cerebral" zorder="10" name="Great cerebral" x="248" y="153" tabs="1"><description><![CDATA[<p>The <b>great cerebral vein of Galen</b> is AKA the vein of Galen or the great vein of Galen. It is a large, unpaired vein formed by the union of the two internal cerebral veins within the superior or quadrigeminal cistern.  It also receives the basal veins of Rosenthal before it curves around the splenium of the corpus callosum and joins the inferior sagittal sinus at its junction with the straight sinus within the tentorium cerebelli.</p>]]></description><shape>
+<vertex x="576" y="325" cx="574" cy="325"/>
+<vertex x="576" y="323" cx="576" cy="323"/>
+<vertex x="568" y="317" cx="576" cy="313"/>
+<vertex x="565" y="317" cx="568" cy="317"/>
+<vertex x="514" y="360" cx="553" cy="352"/>
+<vertex x="536" y="364" cx="520" cy="366"/>
+<vertex x="539" y="364" cx="536" cy="364"/>
+<vertex x="539" y="362" cx="539" cy="362"/>
+<vertex x="574" y="325" cx="563" cy="352"/>
+</shape></item>
+<item id="1649" label="Ventricular system" zorder="9" name="Ventricular system" x="164" y="133" tabs="0"><description><![CDATA[<p>The<b> ventricular system</b> is a series of interconnected cerebrospinal-filled chambers within the cerebral hemispheres. Cerebrospinal fluid is formed in the choroid plexus located in the lateral, third and fourth ventricles.</p>]]></description><shape>
+<vertex x="443" y="275" cx="468" cy="281"/>
+<vertex x="443" y="275" cx="443" cy="275"/>
+<vertex x="441" y="275" cx="441" cy="275"/>
+<vertex x="414" y="275" cx="427" cy="275"/>
+<vertex x="412" y="275" cx="414" cy="275"/>
+<vertex x="340" y="310" cx="366" cy="284"/>
+<vertex x="340" y="319" cx="340" cy="315"/>
+<vertex x="340" y="321" cx="340" cy="319"/>
+<vertex x="354" y="327" cx="344" cy="325"/>
+<vertex x="356" y="329" cx="356" cy="327"/>
+<vertex x="377" y="329" cx="366" cy="329"/>
+<vertex x="379" y="329" cx="377" cy="329"/>
+<vertex x="416" y="302" cx="398" cy="317"/>
+<vertex x="418" y="302" cx="418" cy="302"/>
+<vertex x="489" y="292" cx="451" cy="294"/>
+<vertex x="491" y="292" cx="491" cy="292"/>
+</shape><shape>
+<vertex x="406" y="335" cx="406" cy="335"/>
+<vertex x="402" y="354" cx="402" cy="344"/>
+<vertex x="400" y="354" cx="400" cy="354"/>
+<vertex x="389" y="369" cx="395" cy="362"/>
+<vertex x="387" y="371" cx="389" cy="369"/>
+<vertex x="381" y="410" cx="383" cy="391"/>
+<vertex x="395" y="406" cx="383" cy="416"/>
+<vertex x="427" y="385" cx="410" cy="393"/>
+<vertex x="443" y="385" cx="435" cy="385"/>
+<vertex x="445" y="385" cx="443" cy="385"/>
+<vertex x="474" y="377" cx="454" cy="375"/>
+<vertex x="476" y="377" cx="474" cy="377"/>
+<vertex x="520" y="429" cx="510" cy="391"/>
+<vertex x="522" y="431" cx="520" cy="431"/>
+<vertex x="524" y="505" cx="524" cy="466"/>
+<vertex x="524" y="507" cx="524" cy="505"/>
+<vertex x="532" y="534" cx="530" cy="516"/>
+<vertex x="532" y="536" cx="532" cy="534"/>
+<vertex x="536" y="536" cx="534" cy="536"/>
+<vertex x="539" y="536" cx="536" cy="536"/>
+<vertex x="539" y="534" cx="539" cy="534"/>
+<vertex x="539" y="520" cx="539" cy="526"/>
+<vertex x="568" y="493" cx="539" cy="493"/>
+<vertex x="570" y="493" cx="568" cy="493"/>
+<vertex x="570" y="491" cx="570" cy="491"/>
+<vertex x="568" y="489" cx="568" cy="491"/>
+<vertex x="524" y="435" cx="536" cy="470"/>
+<vertex x="524" y="433" cx="524" cy="433"/>
+<vertex x="522" y="414" cx="524" cy="420"/>
+<vertex x="520" y="412" cx="520" cy="414"/>
+<vertex x="491" y="381" cx="510" cy="391"/>
+<vertex x="489" y="381" cx="489" cy="381"/>
+<vertex x="503" y="362" cx="491" cy="366"/>
+<vertex x="464" y="329" cx="493" cy="335"/>
+<vertex x="408" y="335" cx="431" cy="321"/>
+</shape></item>
+<item id="1648" label="Lateral Ventricle" zorder="8" name="Lateral Ventricle" x="164" y="133" tabs="1"><description><![CDATA[<p>The <b>lateral ventricle </b>is a large, C-shaped space within each cerebral hemisphere that is filled with cerebrospinal fluid. It consists of an <b>anterior</b> (or frontal) <b>horn</b> that extends into the frontal lobe, a <b>body</b>, a <b>posterior</b> (or occipital) <b>horn</b> that extends into the occipital lobe, an <b>inferior</b> (or temporal) <b>horn</b> that extends into the temporal lobe and the <b>atrium</b> or <b>trigone</b> where the body, posterior limb and inferior limb meet.</p>]]></description><shape>
+<vertex x="489" y="288" cx="489" cy="290"/>
+<vertex x="443" y="275" cx="464" cy="284"/>
+<vertex x="441" y="275" cx="441" cy="275"/>
+<vertex x="414" y="275" cx="427" cy="275"/>
+<vertex x="412" y="275" cx="414" cy="275"/>
+<vertex x="340" y="310" cx="366" cy="284"/>
+<vertex x="340" y="319" cx="340" cy="315"/>
+<vertex x="340" y="321" cx="340" cy="319"/>
+<vertex x="354" y="327" cx="344" cy="325"/>
+<vertex x="356" y="329" cx="356" cy="327"/>
+<vertex x="377" y="329" cx="366" cy="329"/>
+<vertex x="379" y="329" cx="377" cy="329"/>
+<vertex x="379" y="327" cx="379" cy="327"/>
+<vertex x="416" y="302" cx="400" cy="317"/>
+<vertex x="418" y="302" cx="418" cy="302"/>
+<vertex x="489" y="294" cx="449" cy="294"/>
+<vertex x="491" y="294" cx="489" cy="294"/>
+<vertex x="491" y="292" cx="491" cy="292"/>
+<vertex x="491" y="290" cx="491" cy="290"/>
+</shape></item>
+<item id="1647" label="Third ventricle" zorder="7" name="Third ventricle" x="184" y="158" tabs="1"><description><![CDATA[<p>The <b>third ventricle</b> is a single, narrow, vertically-oriented portion of the ventricular system. &nbsp;It is located between the two halves of the thalamus and hypothalamus.</p>]]></description><shape>
+<vertex x="389" y="369" cx="395" cy="362"/>
+<vertex x="387" y="371" cx="389" cy="369"/>
+<vertex x="381" y="410" cx="383" cy="391"/>
+<vertex x="381" y="414" cx="381" cy="412"/>
+<vertex x="383" y="416" cx="381" cy="416"/>
+<vertex x="383" y="414" cx="383" cy="414"/>
+<vertex x="425" y="385" cx="402" cy="398"/>
+<vertex x="427" y="385" cx="427" cy="385"/>
+<vertex x="443" y="385" cx="435" cy="385"/>
+<vertex x="445" y="385" cx="443" cy="385"/>
+<vertex x="456" y="377" cx="449" cy="381"/>
+<vertex x="458" y="377" cx="458" cy="377"/>
+<vertex x="501" y="364" cx="489" cy="381"/>
+<vertex x="503" y="364" cx="501" cy="364"/>
+<vertex x="503" y="362" cx="503" cy="362"/>
+<vertex x="503" y="354" cx="503" cy="358"/>
+<vertex x="501" y="352" cx="501" cy="354"/>
+<vertex x="464" y="327" cx="487" cy="335"/>
+<vertex x="462" y="327" cx="462" cy="327"/>
+<vertex x="425" y="327" cx="443" cy="327"/>
+<vertex x="425" y="327" cx="425" cy="327"/>
+<vertex x="402" y="354" cx="400" cy="327"/>
+<vertex x="400" y="354" cx="400" cy="354"/>
+</shape></item>
+<item id="1646" label="Cerebral aqueduct" zorder="6" name="Cerebral aqueduct" x="233" y="182" tabs="1"><description><![CDATA[<p>The <b>cerebral aqueduct</b> is AKA the cerebral aqueduct of Sylvius. &nbsp;It is a narrow channel within the midbrain through which cerebrospinal fluid flows from the third ventricle into the fourth ventricle.</p>]]></description><shape>
+<vertex x="485" y="377" cx="485" cy="377"/>
+<vertex x="483" y="377" cx="483" cy="377"/>
+<vertex x="483" y="379" cx="483" cy="377"/>
+<vertex x="483" y="381" cx="483" cy="379"/>
+<vertex x="518" y="429" cx="510" cy="395"/>
+<vertex x="520" y="431" cx="520" cy="429"/>
+<vertex x="524" y="420" cx="526" cy="429"/>
+<vertex x="524" y="418" cx="524" cy="418"/>
+<vertex x="522" y="416" cx="522" cy="418"/>
+<vertex x="487" y="377" cx="510" cy="391"/>
+</shape></item>
+<item id="1645" label="Fourth Ventricle" zorder="5" name="Fourth Ventricle" x="252" y="208" tabs="1"><description><![CDATA[<p>The <b>fourth ventricle </b>is a rhomboid-shaped space located superior to the pons and medulla. The roof of the fourth ventricle is formed by the inferior and superior medullary vela plus the cerebellum. Cerebrospinal fluid (CSF) enters the fourth ventricle from the third ventricle via the cerebral aqueduct. CSF exits the fourth ventricle into the subarachnoid space via the medial foramen of Magendie, located in the roof of the fourth ventricle, and the two lateral foramina of Luschka, located at the most lateral aspect of the fourth ventricle, i.e. in the lateral recess of the fourth ventricle, bilaterally.&nbsp; The choroid plexus is located in the roof of the fourth ventricle, beneath the inferior medullary velum.&nbsp; The choroid plexus extends outside of the fourth ventricle through the foramina of Luschka, where it can be visualized in the subarachnoid space.</p>]]></description><shape>
+<vertex x="522" y="447" cx="522" cy="445"/>
+<vertex x="524" y="505" cx="524" cy="472"/>
+<vertex x="524" y="507" cx="524" cy="505"/>
+<vertex x="532" y="534" cx="530" cy="516"/>
+<vertex x="532" y="536" cx="532" cy="534"/>
+<vertex x="536" y="536" cx="534" cy="536"/>
+<vertex x="539" y="536" cx="536" cy="536"/>
+<vertex x="539" y="534" cx="539" cy="534"/>
+<vertex x="539" y="520" cx="539" cy="526"/>
+<vertex x="568" y="493" cx="539" cy="493"/>
+<vertex x="570" y="493" cx="568" cy="493"/>
+<vertex x="570" y="491" cx="570" cy="491"/>
+<vertex x="568" y="489" cx="568" cy="491"/>
+<vertex x="524" y="431" cx="534" cy="470"/>
+<vertex x="522" y="431" cx="522" cy="431"/>
+<vertex x="522" y="445" cx="522" cy="437"/>
+</shape></item>
+<item id="1659" label="Superior Medullary Velum" zorder="4" name="Superior Medullary Velum" x="251" y="206" tabs="2"><description><![CDATA[<p>The <b>superior medullary velum</b> is a thin layer of white matter that stretched between the paired superior cerebellar peduncles. &nbsp;Along with the superior cerebellar peduncles, it forms part of the roof of the fourth ventricle.</p>]]></description><shape>
+<vertex x="520" y="427" cx="522" cy="427"/>
+<vertex x="520" y="429" cx="520" cy="427"/>
+<vertex x="520" y="431" cx="520" cy="429"/>
+<vertex x="557" y="489" cx="530" cy="466"/>
+<vertex x="559" y="491" cx="559" cy="489"/>
+<vertex x="568" y="485" cx="568" cy="493"/>
+<vertex x="568" y="483" cx="568" cy="483"/>
+<vertex x="565" y="480" cx="565" cy="483"/>
+<vertex x="528" y="427" cx="541" cy="460"/>
+<vertex x="526" y="427" cx="526" cy="427"/>
+</shape></item>
+<item id="1644" label="Cisterns, subarachnoid" zorder="3" name="Cisterns, subarachnoid" x="203" y="162" tabs="0"><description><![CDATA[<p>Within the skull there are some places - particularly at the base of the brain where the subarachnoid space is widened to form large pools of cerebrospinal fluid called the <b>subarachnoid cisterns.</b> &nbsp;They communicate freely with one another, as well as with the remainder of the subarachnoid space surrounding the brain and spinal cord. &nbsp;The major cisterns are the cerebellomedullary (AKA cisterna magna), pontine, interpeduncular and superior (AKA quadrigeminal) cisterns.</p>]]></description><shape>
+<vertex x="441" y="393" cx="441" cy="395"/>
+<vertex x="439" y="393" cx="441" cy="391"/>
+<vertex x="420" y="412" cx="433" cy="408"/>
+<vertex x="420" y="414" cx="420" cy="412"/>
+<vertex x="420" y="416" cx="420" cy="414"/>
+<vertex x="420" y="416" cx="420" cy="416"/>
+<vertex x="435" y="431" cx="427" cy="425"/>
+<vertex x="435" y="431" cx="435" cy="431"/>
+<vertex x="466" y="431" cx="451" cy="429"/>
+<vertex x="464" y="429" cx="466" cy="429"/>
+<vertex x="443" y="398" cx="456" cy="410"/>
+</shape><shape>
+<vertex x="563" y="335" cx="565" cy="335"/>
+<vertex x="545" y="348" cx="553" cy="342"/>
+<vertex x="543" y="346" cx="543" cy="348"/>
+<vertex x="516" y="348" cx="526" cy="344"/>
+<vertex x="514" y="348" cx="514" cy="348"/>
+<vertex x="497" y="366" cx="501" cy="352"/>
+<vertex x="516" y="383" cx="505" cy="375"/>
+<vertex x="532" y="418" cx="534" cy="395"/>
+<vertex x="530" y="422" cx="532" cy="420"/>
+<vertex x="539" y="441" cx="530" cy="435"/>
+<vertex x="541" y="443" cx="539" cy="443"/>
+<vertex x="553" y="431" cx="545" cy="441"/>
+<vertex x="555" y="431" cx="553" cy="431"/>
+<vertex x="555" y="416" cx="553" cy="422"/>
+<vertex x="557" y="416" cx="557" cy="416"/>
+<vertex x="576" y="387" cx="572" cy="408"/>
+<vertex x="578" y="387" cx="576" cy="387"/>
+<vertex x="613" y="387" cx="597" cy="389"/>
+<vertex x="615" y="387" cx="613" cy="387"/>
+<vertex x="615" y="385" cx="615" cy="385"/>
+<vertex x="615" y="377" cx="615" cy="381"/>
+<vertex x="613" y="375" cx="613" cy="377"/>
+<vertex x="578" y="335" cx="597" cy="352"/>
+<vertex x="576" y="335" cx="576" cy="335"/>
+<vertex x="565" y="335" cx="570" cy="335"/>
+</shape><shape>
+<vertex x="601" y="636" cx="601" cy="636"/>
+<vertex x="572" y="646" cx="586" cy="642"/>
+<vertex x="570" y="644" cx="570" cy="646"/>
+<vertex x="545" y="619" cx="551" cy="636"/>
+<vertex x="543" y="621" cx="545" cy="619"/>
+<vertex x="541" y="653" cx="543" cy="636"/>
+<vertex x="541" y="688" cx="541" cy="669"/>
+<vertex x="541" y="690" cx="541" cy="688"/>
+<vertex x="559" y="690" cx="549" cy="690"/>
+<vertex x="561" y="690" cx="559" cy="690"/>
+<vertex x="561" y="688" cx="561" cy="688"/>
+<vertex x="603" y="636" cx="584" cy="659"/>
+</shape></item>
+<item id="1643" label="Cisterna magna" zorder="2" name="Cisterna magna" x="261" y="299" tabs="1"><description><![CDATA[<p>The <b>cisterna magna</b> is AKA the cerebellomedullary cistern. It is a very large subarachnoid cistern located between the medulla and the inferior aspect of the cerebellum.</p>]]></description><shape>
+<vertex x="605" y="640" cx="603" cy="640"/>
+<vertex x="605" y="638" cx="605" cy="638"/>
+<vertex x="605" y="636" cx="605" cy="636"/>
+<vertex x="603" y="636" cx="603" cy="636"/>
+<vertex x="576" y="646" cx="588" cy="640"/>
+<vertex x="574" y="644" cx="574" cy="646"/>
+<vertex x="549" y="619" cx="549" cy="642"/>
+<vertex x="547" y="619" cx="547" cy="619"/>
+<vertex x="545" y="619" cx="545" cy="619"/>
+<vertex x="543" y="621" cx="545" cy="619"/>
+<vertex x="541" y="653" cx="543" cy="636"/>
+<vertex x="547" y="688" cx="536" cy="675"/>
+<vertex x="553" y="690" cx="549" cy="690"/>
+<vertex x="561" y="690" cx="557" cy="690"/>
+<vertex x="561" y="688" cx="561" cy="688"/>
+<vertex x="561" y="684" cx="561" cy="686"/>
+<vertex x="603" y="640" cx="582" cy="661"/>
+</shape></item>
+<item id="1642" label="Interpeduncular" zorder="1" name="Interpeduncular" x="203" y="190" tabs="1"><description><![CDATA[<p>The <b>interpeduncular cistern</b> is a cerebrospinal fluid-filled subarachnoid space located between the cerebral peduncles on the inferior surface of the midbrain, i.e. the interpeduncular fossa, and extending rostrally beneath the diencephalon.</p>]]></description><shape>
+<vertex x="435" y="393" cx="437" cy="393"/>
+<vertex x="435" y="395" cx="435" cy="393"/>
+<vertex x="420" y="412" cx="433" cy="410"/>
+<vertex x="420" y="414" cx="420" cy="412"/>
+<vertex x="420" y="416" cx="420" cy="414"/>
+<vertex x="433" y="431" cx="427" cy="422"/>
+<vertex x="435" y="433" cx="435" cy="431"/>
+<vertex x="437" y="433" cx="435" cy="433"/>
+<vertex x="439" y="433" cx="437" cy="433"/>
+<vertex x="439" y="431" cx="439" cy="431"/>
+<vertex x="458" y="431" cx="449" cy="431"/>
+<vertex x="460" y="433" cx="460" cy="431"/>
+<vertex x="466" y="429" cx="466" cy="433"/>
+<vertex x="466" y="427" cx="466" cy="427"/>
+<vertex x="464" y="425" cx="464" cy="427"/>
+<vertex x="441" y="393" cx="454" cy="406"/>
+<vertex x="439" y="393" cx="439" cy="393"/>
+</shape></item>
+<item id="1641" label="Quadrigeminal" zorder="0" name="Quadrigeminal" x="240" y="162" tabs="1"><description><![CDATA[<p>The<b> superior cistern</b> is AKA the quadrigeminal cistern or the cistern of the great cerebral vein. It is subarachnoid space located above the midbrain that is continuous with the transverse fissure. It is an important radiologic landmark since the pineal gland can be visualized within its midline location.</p>]]></description><shape>
+<vertex x="497" y="373" cx="497" cy="371"/>
+<vertex x="530" y="420" cx="539" cy="383"/>
+<vertex x="530" y="422" cx="530" cy="422"/>
+<vertex x="539" y="443" cx="528" cy="437"/>
+<vertex x="541" y="445" cx="541" cy="443"/>
+<vertex x="543" y="445" cx="541" cy="445"/>
+<vertex x="543" y="443" cx="543" cy="443"/>
+<vertex x="553" y="431" cx="547" cy="437"/>
+<vertex x="555" y="431" cx="553" cy="431"/>
+<vertex x="555" y="416" cx="553" cy="422"/>
+<vertex x="557" y="416" cx="557" cy="416"/>
+<vertex x="576" y="387" cx="572" cy="408"/>
+<vertex x="578" y="387" cx="576" cy="387"/>
+<vertex x="613" y="387" cx="597" cy="389"/>
+<vertex x="615" y="387" cx="613" cy="387"/>
+<vertex x="615" y="385" cx="615" cy="385"/>
+<vertex x="615" y="377" cx="615" cy="381"/>
+<vertex x="613" y="375" cx="613" cy="377"/>
+<vertex x="578" y="335" cx="597" cy="352"/>
+<vertex x="576" y="335" cx="576" cy="335"/>
+<vertex x="565" y="335" cx="570" cy="335"/>
+<vertex x="563" y="335" cx="565" cy="335"/>
+<vertex x="545" y="348" cx="553" cy="342"/>
+<vertex x="543" y="346" cx="543" cy="348"/>
+<vertex x="516" y="348" cx="526" cy="344"/>
+<vertex x="514" y="348" cx="514" cy="348"/>
+<vertex x="497" y="366" cx="501" cy="352"/>
+<vertex x="497" y="371" cx="497" cy="369"/>
+</shape></item>
+</info>

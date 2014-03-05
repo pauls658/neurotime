@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cavernous sinus]]></name>
+<description><![CDATA[<p>The <b>cavernous sinuses</b> are&nbsp;located on either side of the sella turcica on the upper part of the sphenoid bone. &nbsp;They consist of a venous plexus of thin-walled, interconnected veins. &nbsp;There is communication between the two cavernous sinuses via the intercavernous sinuses. &nbsp;Many functionally-important structures pass through the cavernous sinuses including the internal carotid artery, cranial nerves III, IV, V and VI.</p>]]></description>
+<item id="765" label="Cavernous" name="Cavernous" file_id="70"><![CDATA[/MRI/Coronal/MRI cor 3]]>
+</item>
+<item id="788" label="Cavernous" name="Cavernous" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="1558" label="Cavernous sinuses" name="Cavernous sinuses" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+</info>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebral veins, superficial]]></name>
+<description><![CDATA[<p><b>Cerebral veins</b> are described as <b>superficial</b> or deep, depending on whether they drain the superficial or deep aspects of the brain. &nbsp;In general, the superficial veins lie on the surface of the cerebral hemispheres, where most empty into the superior sagittal sinus.</p>]]></description>
+<item id="340" label="Cerebral vein, Superficial" name="Cerebral vein" file_id="44"><![CDATA[/Gross/Meninges/8 Cranial meninges]]>
+</item>
+<item id="345" label="Cerebral veins, Superficial" name="Cerebral Vein" file_id="45"><![CDATA[/Gross/Meninges/9 Cranial meninges]]>
+</item>
+<item id="349" label="Cerebral veins, Superficial" name="Cerebral Veins" file_id="46"><![CDATA[/Gross/Meninges/10 Cranial meninges]]>
+</item>
+<item id="352" label="Cerebral veins, Superficial" name="Cerebral veins" file_id="47"><![CDATA[/Gross/Meninges/11 Cranial meninges]]>
+</item>
+<item id="743" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="754" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="69"><![CDATA[/MRI/Coronal/MRI cor 2]]>
+</item>
+<item id="770" label="Cerebral veins, superficial" name="Cerebral veins, superficial" file_id="70"><![CDATA[/MRI/Coronal/MRI cor 3]]>
+</item>
+<item id="793" label="Cerebral veins, superficial" name="Cerebral veins, superficial" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="824" label="Cerebral veins, superficial" name="Cerebral veins, superficial" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="859" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="897" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="938" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1167" label="Cerebral veins, Superficial" name="Cerebral veins     Superficial" file_id="82"><![CDATA[/MRI/Horizontal or Axial/MRI hor 1]]>
+</item>
+<item id="1178" label="Cerebral veins, Superficial" name="Cerebral veins     Superficial" file_id="83"><![CDATA[/MRI/Horizontal or Axial/MRI hor 2]]>
+</item>
+<item id="1199" label="Cerebral veins, Superficial" name="Cerebral veins     Superficial" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="1504" label="Cerebral veins, Superficial" name="Cerebral veins     Superficial" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1533" label="Cerebral veins, Superficial" name="Cerebral veins     Superficial" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1735" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="99"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 4]]>
+</item>
+<item id="1760" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1787" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1813" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1830" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="1841" label="Cerebral veins, Superficial" name="Cerebral veins, superficial" file_id="104"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 9]]>
+</item>
+<item id="981" label="Superficial" name="Superficial" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1034" label="Superficial" name="Superficial" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1074" label="Superficial" name="Superficial" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1117" label="Superficial" name="Superficial" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1151" label="Superficial" name="Superficial" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1238" label="Superficial" name="Superficial" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1284" label="Superficial" name="Superficial" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1326" label="Superficial" name="Superficial" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1360" label="Superficial" name="Superficial" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1397" label="Superficial" name="Superficial" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1435" label="Superficial" name="Superficial" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1471" label="Superficial" name="Superficial" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1698" label="Superficial" name="Superficial" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+</info>

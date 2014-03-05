@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info title="2 Parasag: Med to Lat">
+<item id="3230" label="Cerebral gyrus, Precentral" zorder="13" name="Precentral gyrus" x="383" y="44" tabs="0"><description><![CDATA[<p>The <b>precental gyrus</b> is a vertically-oriented gyrus of the cerebral hemisphere located immediately anterior to the central sulcus.  Functionally, it serves as the primary motor cortex.  The body and head are represented somatotopically within the gyrus such that the head is located laterally near the lateral sulcus and the feet are located most medially in the longitudinal fissure.  In Brodmann's designation, this gyrus is termed Area 4.</p>]]></description><shape>
+<vertex x="587" y="131" cx="586" cy="131"/>
+<vertex x="587" y="130" cx="587" cy="130"/>
+<vertex x="587" y="115" cx="587" cy="122"/>
+<vertex x="586" y="115" cx="586" cy="115"/>
+<vertex x="580" y="72" cx="585" cy="90"/>
+<vertex x="579" y="70" cx="580" cy="70"/>
+<vertex x="558" y="61" cx="568" cy="65"/>
+<vertex x="557" y="61" cx="557" cy="61"/>
+<vertex x="547" y="61" cx="551" cy="61"/>
+<vertex x="546" y="61" cx="547" cy="61"/>
+<vertex x="532" y="70" cx="536" cy="62"/>
+<vertex x="532" y="70" cx="532" cy="70"/>
+<vertex x="540" y="98" cx="536" cy="84"/>
+<vertex x="539" y="99" cx="540" cy="98"/>
+<vertex x="531" y="153" cx="535" cy="126"/>
+<vertex x="549" y="162" cx="531" cy="166"/>
+<vertex x="550" y="162" cx="549" cy="162"/>
+<vertex x="550" y="160" cx="550" cy="160"/>
+<vertex x="579" y="152" cx="561" cy="153"/>
+<vertex x="580" y="152" cx="580" cy="152"/>
+<vertex x="586" y="131" cx="586" cy="145"/>
+</shape></item>
+<item id="3231" label="Cerebral gyurs, Postcentral" zorder="12" name="Postcentral gyrus" x="424" y="52" tabs="0"><description><![CDATA[<p>The <b>postcentral gyrus</b> is the vertically-oriented gyrus of the cerebral hemisphere located immediately posterior to the central sulcus.  Functionally, it serves as the primary somatic sensory cortex.  The body and head are represented somatotopically within the gyrus such that the head is located laterally near the lateral sulcus and the feet are located most medially in the longitudinal fissure.  In Brodmann's designation, this gyrus is termed Areas 3,1,2.</p>]]></description><shape>
+<vertex x="589" y="87" cx="586" cy="74"/>
+<vertex x="587" y="146" cx="594" cy="119"/>
+<vertex x="587" y="149" cx="587" cy="148"/>
+<vertex x="587" y="151" cx="587" cy="149"/>
+<vertex x="594" y="156" cx="592" cy="152"/>
+<vertex x="596" y="158" cx="596" cy="156"/>
+<vertex x="601" y="158" cx="599" cy="158"/>
+<vertex x="603" y="158" cx="601" cy="158"/>
+<vertex x="603" y="156" cx="603" cy="156"/>
+<vertex x="653" y="103" cx="628" cy="130"/>
+<vertex x="654" y="103" cx="653" cy="103"/>
+<vertex x="654" y="102" cx="654" cy="102"/>
+<vertex x="654" y="92" cx="654" cy="97"/>
+<vertex x="653" y="91" cx="653" cy="92"/>
+<vertex x="623" y="79" cx="637" cy="84"/>
+<vertex x="622" y="79" cx="622" cy="79"/>
+<vertex x="612" y="79" cx="617" cy="79"/>
+<vertex x="611" y="77" cx="612" cy="77"/>
+<vertex x="603" y="72" cx="607" cy="74"/>
+<vertex x="601" y="72" cx="601" cy="72"/>
+<vertex x="596" y="72" cx="599" cy="72"/>
+</shape></item>
+<item id="3232" label="Cerebral sulcus, Central" zorder="11" name="Central sulcus" x="420" y="54" tabs="0"><description><![CDATA[<p>The <b>central sulcus (of Rolando)</b> is an important sulcus on the lateral aspect of the cerebral hemisphere that separates the frontal from the parietal lobes.  It extends from just medial to the superior border of the hemisphere downward to the lateral or Sylvian fissure.  The primary motor and somatosensory areas of cortex form the gyri (pre-central and post-central, respectively) on either side of this sulcus.</p>]]></description><shape>
+<vertex x="587" y="74" cx="587" cy="74"/>
+<vertex x="582" y="74" cx="585" cy="74"/>
+<vertex x="582" y="84" cx="582" cy="79"/>
+<vertex x="582" y="85" cx="582" cy="84"/>
+<vertex x="585" y="145" cx="590" cy="113"/>
+<vertex x="585" y="146" cx="585" cy="145"/>
+<vertex x="587" y="146" cx="586" cy="146"/>
+<vertex x="589" y="146" cx="587" cy="146"/>
+<vertex x="589" y="145" cx="589" cy="145"/>
+<vertex x="589" y="144" cx="589" cy="144"/>
+<vertex x="593" y="112" cx="592" cy="128"/>
+<vertex x="594" y="112" cx="593" cy="112"/>
+<vertex x="594" y="110" cx="594" cy="110"/>
+<vertex x="594" y="103" cx="594" cy="106"/>
+<vertex x="593" y="103" cx="593" cy="103"/>
+<vertex x="589" y="74" cx="593" cy="85"/>
+</shape></item>
+<item id="3233" label="Hippocampus" zorder="10" name="Hippocampus" x="272" y="257" tabs="0"><description><![CDATA[<p>The <b>hippocampus</b> is AKA the hippocampal formation. It is an area of cerebral cortex rolled up inside the medial aspect of the temporal lobe.  It is part of the limbic system and functions in the consolidation of new memories of facts and events.  It has three subdivisions:  the hippocampus proper (Ammon's horn), the dentate gyrus, and the subiculum.  The fornix carries the primary output from the hippocampus to the ipsilateral septal area and hypothalamus.</p>]]></description><shape>
+<vertex x="554" y="371" cx="533" cy="386"/>
+<vertex x="554" y="370" cx="554" cy="370"/>
+<vertex x="536" y="356" cx="557" cy="350"/>
+<vertex x="535" y="356" cx="536" cy="356"/>
+<vertex x="526" y="366" cx="529" cy="359"/>
+<vertex x="525" y="366" cx="526" cy="366"/>
+<vertex x="524" y="379" cx="524" cy="373"/>
+<vertex x="522" y="379" cx="522" cy="379"/>
+<vertex x="434" y="453" cx="472" cy="410"/>
+<vertex x="434" y="452" cx="434" cy="452"/>
+<vertex x="443" y="432" cx="440" cy="443"/>
+<vertex x="442" y="431" cx="443" cy="431"/>
+<vertex x="417" y="428" cx="431" cy="427"/>
+<vertex x="415" y="428" cx="417" cy="428"/>
+<vertex x="377" y="475" cx="393" cy="449"/>
+<vertex x="391" y="490" cx="371" cy="493"/>
+<vertex x="392" y="490" cx="391" cy="490"/>
+<vertex x="392" y="489" cx="392" cy="489"/>
+<vertex x="496" y="415" cx="454" cy="463"/>
+<vertex x="513" y="400" cx="503" cy="407"/>
+</shape></item>
+<item id="3241" label="Fornix, Fimbria" zorder="9" name="Fornix" x="368" y="249" tabs="0"><description><![CDATA[<p>The <b>fornix</b> is a compact bundle of axons, primarily efferents from the hippocampus to the ipsilateral septal nuclei and hypothalamus.  Parts of the fornix from the hippocampus and beyond are the fimbria, crus, body and column.</p>]]></description><shape>
+<vertex x="528" y="353" cx="526" cy="353"/>
+<vertex x="528" y="352" cx="528" cy="352"/>
+<vertex x="522" y="345" cx="529" cy="343"/>
+<vertex x="521" y="346" cx="522" cy="345"/>
+<vertex x="510" y="382" cx="519" cy="367"/>
+<vertex x="510" y="384" cx="510" cy="384"/>
+<vertex x="511" y="385" cx="510" cy="385"/>
+<vertex x="511" y="384" cx="511" cy="384"/>
+<vertex x="526" y="353" cx="524" cy="374"/>
+</shape></item>
+<item id="3235" label="Internal capsule, Genu" zorder="8" name="Int capsule (genu)" x="280" y="203" tabs="0"><description><![CDATA[<p>The <b>genu of the internal capsule </b>is located where the anterior and posterior limbs meet.  It includes connections between the ventral anterior (VA) and ventral lateral (VL) thalamic nuclei with the motor/premotor cerebral cortex as well as corticopontine fibers.</p>]]></description><shape>
+<vertex x="507" y="302" cx="507" cy="303"/>
+<vertex x="454" y="281" cx="482" cy="289"/>
+<vertex x="453" y="281" cx="453" cy="281"/>
+<vertex x="429" y="281" cx="440" cy="281"/>
+<vertex x="428" y="281" cx="429" cy="281"/>
+<vertex x="388" y="292" cx="404" cy="282"/>
+<vertex x="388" y="298" cx="388" cy="295"/>
+<vertex x="388" y="299" cx="388" cy="298"/>
+<vertex x="421" y="334" cx="403" cy="317"/>
+<vertex x="422" y="335" cx="421" cy="335"/>
+<vertex x="429" y="353" cx="425" cy="345"/>
+<vertex x="431" y="354" cx="429" cy="354"/>
+<vertex x="432" y="391" cx="432" cy="377"/>
+<vertex x="432" y="392" cx="432" cy="391"/>
+<vertex x="446" y="392" cx="439" cy="392"/>
+<vertex x="447" y="392" cx="446" cy="392"/>
+<vertex x="447" y="391" cx="447" cy="391"/>
+<vertex x="500" y="327" cx="474" cy="357"/>
+<vertex x="508" y="316" cx="504" cy="321"/>
+<vertex x="508" y="314" cx="508" cy="314"/>
+<vertex x="508" y="303" cx="508" cy="309"/>
+</shape></item>
+<item id="3234" label="Amygdaloid nucleus" zorder="7" name="Amygdaloid nucleus" x="258" y="292" tabs="0"><description><![CDATA[<p>The <b>amygdala</b> consists of a group of nuclei located near the anterior and medial aspect of the temporal lobe, immediately beneath the uncus.  Location is immediately anterior to the anterior tip of the inferior horn of the lateral ventricle.  Output from the amygdala via the stria terminalis contributes to the major limbic system circuits.  Essential role in emotions and their behavioral expression.</p>]]></description><shape>
+<vertex x="379" y="407" cx="379" cy="407"/>
+<vertex x="357" y="442" cx="367" cy="422"/>
+<vertex x="357" y="467" cx="357" cy="454"/>
+<vertex x="357" y="468" cx="357" cy="467"/>
+<vertex x="367" y="481" cx="359" cy="478"/>
+<vertex x="368" y="482" cx="368" cy="481"/>
+<vertex x="373" y="482" cx="370" cy="482"/>
+<vertex x="374" y="482" cx="373" cy="482"/>
+<vertex x="374" y="481" cx="374" cy="481"/>
+<vertex x="397" y="449" cx="382" cy="461"/>
+<vertex x="399" y="449" cx="397" cy="449"/>
+<vertex x="414" y="417" cx="404" cy="431"/>
+<vertex x="415" y="417" cx="414" cy="417"/>
+<vertex x="415" y="415" cx="415" cy="415"/>
+<vertex x="407" y="404" cx="418" cy="402"/>
+<vertex x="407" y="404" cx="407" cy="404"/>
+<vertex x="381" y="407" cx="392" cy="404"/>
+</shape></item>
+<item id="3237" label="Caudate nucleus, Tail" zorder="6" name="Caudate nucleus (tail)" x="367" y="214" tabs="0"><description><![CDATA[<p>The <b>tail of the caudate nucleus</b> is the long, slender portion that runs posteriorly from the body of the caudate toward the atrium or trigone of the lateral ventricle and then continues into the inferior horn of the lateral ventricle.</p>]]></description><shape>
+<vertex x="519" y="296" cx="528" cy="295"/>
+<vertex x="518" y="296" cx="519" cy="296"/>
+<vertex x="508" y="309" cx="510" cy="299"/>
+<vertex x="508" y="314" cx="508" cy="311"/>
+<vertex x="508" y="316" cx="508" cy="314"/>
+<vertex x="515" y="324" cx="511" cy="320"/>
+<vertex x="517" y="325" cx="517" cy="324"/>
+<vertex x="518" y="325" cx="517" cy="325"/>
+<vertex x="519" y="325" cx="518" cy="325"/>
+<vertex x="519" y="324" cx="519" cy="324"/>
+<vertex x="519" y="320" cx="519" cy="321"/>
+<vertex x="524" y="309" cx="524" cy="316"/>
+<vertex x="525" y="309" cx="524" cy="309"/>
+<vertex x="525" y="307" cx="525" cy="307"/>
+</shape></item>
+<item id="3240" label="Lentiform nucleus" zorder="5" name="Lentiform nucleus" x="206" y="218" tabs="0"><description><![CDATA[<p>The <b>lentiform nuclei</b> are AKA the lenticular nuclei. These nuclei include the putamen and globus pallidus.  Located lateral to the internal capsule and medial to the external capsule, claustrum, extreme capsule and insula, the lenticular nucleus fills the "V" formed by the lateral surface of the internal capsule.</p>]]></description><shape>
+<vertex x="467" y="371" cx="467" cy="371"/>
+<vertex x="447" y="392" cx="453" cy="378"/>
+<vertex x="467" y="379" cx="460" cy="395"/>
+<vertex x="468" y="379" cx="467" cy="379"/>
+<vertex x="468" y="378" cx="468" cy="378"/>
+<vertex x="468" y="371" cx="468" cy="374"/>
+</shape><shape>
+<vertex x="407" y="327" cx="409" cy="327"/>
+<vertex x="389" y="306" cx="402" cy="313"/>
+<vertex x="388" y="305" cx="388" cy="306"/>
+<vertex x="368" y="302" cx="377" cy="303"/>
+<vertex x="367" y="302" cx="367" cy="302"/>
+<vertex x="356" y="302" cx="361" cy="302"/>
+<vertex x="354" y="302" cx="356" cy="302"/>
+<vertex x="285" y="345" cx="306" cy="310"/>
+<vertex x="285" y="363" cx="285" cy="353"/>
+<vertex x="285" y="364" cx="285" cy="363"/>
+<vertex x="324" y="399" cx="295" cy="391"/>
+<vertex x="325" y="400" cx="324" cy="400"/>
+<vertex x="348" y="399" cx="334" cy="397"/>
+<vertex x="349" y="400" cx="348" cy="400"/>
+<vertex x="364" y="393" cx="357" cy="395"/>
+<vertex x="366" y="393" cx="364" cy="393"/>
+<vertex x="393" y="406" cx="370" cy="407"/>
+<vertex x="393" y="407" cx="393" cy="406"/>
+<vertex x="395" y="407" cx="393" cy="407"/>
+<vertex x="396" y="407" cx="395" cy="407"/>
+<vertex x="396" y="406" cx="396" cy="406"/>
+<vertex x="417" y="403" cx="407" cy="404"/>
+<vertex x="417" y="402" cx="417" cy="403"/>
+<vertex x="432" y="388" cx="425" cy="396"/>
+<vertex x="432" y="386" cx="432" cy="386"/>
+<vertex x="431" y="354" cx="432" cy="373"/>
+<vertex x="429" y="353" cx="429" cy="354"/>
+<vertex x="422" y="335" cx="425" cy="345"/>
+<vertex x="421" y="334" cx="421" cy="335"/>
+<vertex x="409" y="328" cx="413" cy="328"/>
+</shape></item>
+<item id="3239" label="Putamen" zorder="4" name="Putamen" x="206" y="218" tabs="1"><description><![CDATA[<p>The <b>putamen</b> is the large lateral component of the lentiform nucleus, located lateral to the globus pallidus and the internal capsule.  With the caudate nucleus, it is known as the striatum.  Portion of the striatum most involved in the motor function of the basal ganglia.  Receives afferents from motor and somatosensory cerebral cortex, substantia nigra and centromedian nucleus of the thalamus; sents efferents to globus pallidus.</p>]]></description><shape>
+<vertex x="409" y="328" cx="407" cy="328"/>
+<vertex x="409" y="327" cx="409" cy="327"/>
+<vertex x="409" y="321" cx="409" cy="324"/>
+<vertex x="407" y="320" cx="407" cy="321"/>
+<vertex x="389" y="306" cx="397" cy="313"/>
+<vertex x="388" y="305" cx="388" cy="306"/>
+<vertex x="368" y="302" cx="377" cy="303"/>
+<vertex x="367" y="302" cx="367" cy="302"/>
+<vertex x="356" y="302" cx="361" cy="302"/>
+<vertex x="354" y="302" cx="356" cy="302"/>
+<vertex x="285" y="345" cx="306" cy="310"/>
+<vertex x="285" y="363" cx="285" cy="353"/>
+<vertex x="285" y="364" cx="285" cy="363"/>
+<vertex x="320" y="399" cx="293" cy="391"/>
+<vertex x="321" y="400" cx="321" cy="399"/>
+<vertex x="349" y="400" cx="335" cy="400"/>
+<vertex x="350" y="400" cx="349" cy="400"/>
+<vertex x="350" y="399" cx="350" cy="399"/>
+<vertex x="361" y="392" cx="357" cy="396"/>
+<vertex x="363" y="392" cx="363" cy="392"/>
+<vertex x="370" y="346" cx="360" cy="364"/>
+<vertex x="371" y="346" cx="371" cy="346"/>
+<vertex x="404" y="328" cx="384" cy="334"/>
+</shape></item>
+<item id="3238" label="Globus pallidus" zorder="3" name="Globus pallidus" x="262" y="238" tabs="1"><description><![CDATA[<p>The <b>globus pallidus</b> is a wedge-shaped nucleus located medial to the putamen and fitting into the "V" on the lateral aspect of the internal capsule.  With the putamen, it is known as the lentiform or lenticular nucleus.  It is the origin of most efferents from the basal ganglia.  Includes an internal and an external segment.</p>]]></description><shape>
+<vertex x="404" y="330" cx="406" cy="330"/>
+<vertex x="371" y="346" cx="382" cy="332"/>
+<vertex x="370" y="346" cx="371" cy="346"/>
+<vertex x="363" y="366" cx="366" cy="356"/>
+<vertex x="363" y="375" cx="363" cy="370"/>
+<vertex x="363" y="377" cx="363" cy="375"/>
+<vertex x="364" y="391" cx="364" cy="381"/>
+<vertex x="364" y="392" cx="364" cy="391"/>
+<vertex x="370" y="400" cx="367" cy="396"/>
+<vertex x="371" y="402" cx="370" cy="402"/>
+<vertex x="393" y="406" cx="378" cy="406"/>
+<vertex x="393" y="407" cx="393" cy="406"/>
+<vertex x="395" y="407" cx="393" cy="407"/>
+<vertex x="396" y="407" cx="395" cy="407"/>
+<vertex x="396" y="406" cx="396" cy="406"/>
+<vertex x="414" y="404" cx="404" cy="404"/>
+<vertex x="415" y="404" cx="414" cy="404"/>
+<vertex x="428" y="393" cx="421" cy="399"/>
+<vertex x="429" y="393" cx="428" cy="393"/>
+<vertex x="432" y="382" cx="431" cy="388"/>
+<vertex x="434" y="382" cx="432" cy="382"/>
+<vertex x="434" y="381" cx="434" cy="381"/>
+<vertex x="434" y="379" cx="434" cy="379"/>
+<vertex x="432" y="378" cx="432" cy="379"/>
+<vertex x="431" y="354" cx="431" cy="367"/>
+<vertex x="429" y="353" cx="429" cy="354"/>
+<vertex x="415" y="330" cx="425" cy="338"/>
+<vertex x="414" y="330" cx="414" cy="330"/>
+<vertex x="406" y="330" cx="410" cy="330"/>
+</shape></item>
+<item id="3236" label="Thalamus" zorder="2" name="Thalamus" x="328" y="235" tabs="0"><description><![CDATA[<p>The <b>thalamus</b> is a large collection of nuclei that have major connections with the cerebral cortex involving both sensory and motor functions.  Some thalamic nuclei have very specific connections relative to visual, auditory and somatosensory afferents and their projection to specific areas of cerebral cortex, while other nuclei have more general inputs and connections with association areas of cerebral cortex.</p>]]></description><shape>
+<vertex x="510" y="325" cx="511" cy="325"/>
+<vertex x="488" y="356" cx="497" cy="339"/>
+<vertex x="486" y="357" cx="488" cy="356"/>
+<vertex x="485" y="370" cx="486" cy="364"/>
+<vertex x="483" y="370" cx="483" cy="370"/>
+<vertex x="454" y="399" cx="465" cy="381"/>
+<vertex x="461" y="406" cx="452" cy="407"/>
+<vertex x="463" y="406" cx="461" cy="406"/>
+<vertex x="463" y="404" cx="463" cy="404"/>
+<vertex x="478" y="403" cx="468" cy="402"/>
+<vertex x="479" y="403" cx="478" cy="403"/>
+<vertex x="504" y="389" cx="490" cy="395"/>
+<vertex x="506" y="389" cx="504" cy="389"/>
+<vertex x="522" y="345" cx="518" cy="371"/>
+<vertex x="524" y="345" cx="522" cy="345"/>
+<vertex x="524" y="343" cx="524" cy="343"/>
+<vertex x="524" y="341" cx="524" cy="342"/>
+<vertex x="522" y="341" cx="522" cy="341"/>
+<vertex x="521" y="325" cx="522" cy="331"/>
+<vertex x="519" y="325" cx="519" cy="325"/>
+<vertex x="511" y="325" cx="515" cy="325"/>
+</shape></item>
+<item id="3243" label="Lateral ventricle" zorder="1" name="Lateral ventricle" x="268" y="205" tabs="0"><description><![CDATA[<p>The <b>lateral ventricle </b>is a large, C-shaped space within each cerebral hemisphere that is filled with cerebrospinal fluid. It consists of an <b>anterior</b> (or frontal) <b>horn</b> that extends into the frontal lobe, a <b>body</b>, a <b>posterior</b> (or occipital) <b>horn</b> that extends into the occipital lobe, an <b>inferior</b> (or temporal) <b>horn</b> that extends into the temporal lobe and the <b>atrium</b> or <b>trigone</b> where the body, posterior limb and inferior limb meet.</p>]]></description><shape>
+<vertex x="572" y="307" cx="571" cy="325"/>
+<vertex x="574" y="307" cx="572" cy="307"/>
+<vertex x="574" y="306" cx="574" cy="306"/>
+<vertex x="574" y="298" cx="574" cy="302"/>
+<vertex x="572" y="296" cx="572" cy="298"/>
+<vertex x="549" y="284" cx="562" cy="288"/>
+<vertex x="547" y="284" cx="547" cy="284"/>
+<vertex x="535" y="284" cx="540" cy="284"/>
+<vertex x="531" y="288" cx="532" cy="285"/>
+<vertex x="524" y="325" cx="526" cy="306"/>
+<vertex x="525" y="342" cx="522" cy="335"/>
+<vertex x="526" y="343" cx="526" cy="342"/>
+<vertex x="562" y="352" cx="549" cy="343"/>
+<vertex x="564" y="353" cx="562" cy="353"/>
+<vertex x="571" y="342" cx="569" cy="349"/>
+<vertex x="572" y="342" cx="571" cy="342"/>
+</shape><shape>
+<vertex x="501" y="391" cx="501" cy="391"/>
+<vertex x="421" y="406" cx="470" cy="415"/>
+<vertex x="420" y="406" cx="421" cy="406"/>
+<vertex x="406" y="434" cx="413" cy="420"/>
+<vertex x="406" y="434" cx="406" cy="434"/>
+<vertex x="418" y="427" cx="410" cy="432"/>
+<vertex x="420" y="425" cx="418" cy="427"/>
+<vertex x="446" y="431" cx="436" cy="422"/>
+<vertex x="445" y="431" cx="446" cy="431"/>
+<vertex x="434" y="452" cx="440" cy="439"/>
+<vertex x="434" y="450" cx="434" cy="452"/>
+<vertex x="503" y="391" cx="465" cy="418"/>
+</shape><shape>
+<vertex x="518" y="378" cx="522" cy="368"/>
+<vertex x="518" y="378" cx="518" cy="378"/>
+<vertex x="528" y="363" cx="525" cy="374"/>
+<vertex x="528" y="361" cx="528" cy="361"/>
+</shape><shape>
+<vertex x="371" y="485" cx="379" cy="476"/>
+<vertex x="377" y="490" cx="368" cy="492"/>
+<vertex x="378" y="490" cx="377" cy="490"/>
+<vertex x="378" y="489" cx="378" cy="489"/>
+</shape></item>
+<item id="3242" label="Choroid plexus" zorder="0" name="Choroid plexus" x="299" y="224" tabs="1"><description><![CDATA[<p>The <b>choroid plexus</b> is the convoluted and highly vascularized structure in the ventricles that is responsible for the production of cerebrospinal fluid.&nbsp; It is located in the floor of the lateral ventricle as it curves from the body of the ventricle into the inferior horn; it is not present in the anterior or posterior horns of the lateral ventricle.&nbsp; From the lateral ventricle, the choroid plexus extends through the interventricular foramina of Monro onto the roof of the third ventricle.&nbsp; In the fourth ventricle the choroid plexus extends downward from the inferior medullary velum that forms part of the roof the ventricle.&nbsp; The choroid plexus also extends from the fourth ventricle through the foramina of Luschka into the subarachnoid space.</p>]]></description><shape>
+<vertex x="564" y="316" cx="564" cy="317"/>
+<vertex x="557" y="310" cx="560" cy="313"/>
+<vertex x="556" y="310" cx="556" cy="310"/>
+<vertex x="549" y="310" cx="551" cy="310"/>
+<vertex x="547" y="310" cx="549" cy="310"/>
+<vertex x="546" y="311" cx="547" cy="311"/>
+<vertex x="525" y="331" cx="542" cy="327"/>
+<vertex x="542" y="348" cx="524" cy="349"/>
+<vertex x="557" y="346" cx="549" cy="346"/>
+<vertex x="569" y="342" cx="565" cy="348"/>
+<vertex x="569" y="341" cx="569" cy="341"/>
+<vertex x="569" y="330" cx="569" cy="335"/>
+<vertex x="568" y="328" cx="568" cy="330"/>
+<vertex x="565" y="317" cx="567" cy="321"/>
+</shape><shape>
+<vertex x="472" y="406" cx="472" cy="406"/>
+<vertex x="446" y="414" cx="457" cy="409"/>
+<vertex x="445" y="413" cx="445" cy="414"/>
+<vertex x="414" y="418" cx="424" cy="402"/>
+<vertex x="414" y="422" cx="414" cy="420"/>
+<vertex x="414" y="424" cx="414" cy="422"/>
+<vertex x="429" y="427" cx="418" cy="427"/>
+<vertex x="429" y="428" cx="429" cy="427"/>
+<vertex x="445" y="428" cx="436" cy="428"/>
+<vertex x="446" y="428" cx="445" cy="428"/>
+<vertex x="446" y="427" cx="446" cy="427"/>
+<vertex x="472" y="407" cx="464" cy="422"/>
+</shape></item>
+</info>

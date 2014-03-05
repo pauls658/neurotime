@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Vertebral artery]]></name>
+<description><![CDATA[<p>Along with the internal carotid arteries, the <b>vertebral arteries </b>are the major blood supply to the brain.  The two vertebral arteries fuse at the junction of the medulla and pons to form the basilar artery.  The vertebral-basilar system supplies structures in the posterior fossa plus posterior aspects of the diencephalon, choroid plexus in the third and lateral ventricles and the medial and inferior surfaces of the occipital and temporal lobes of the cerebral hemispheres.</p>]]></description>
+<item id="4070" label="Verebral artery" name="Verebral artery" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="901" label="Vertebral" name="Vertebral" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="943" label="Vertebral" name="Vertebral" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="986" label="Vertebral" name="Vertebral" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1078" label="Vertebral" name="Vertebral" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1595" label="Vertebral" name="Vertebral" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1656" label="Vertebral" name="Vertebral" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1701" label="Vertebral" name="Vertebral" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="4428" label="Vertebral" name="Vertebral artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4459" label="Vertebral" name="Vertebral artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4484" label="Vertebral" name="Vertebral artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4521" label="Vertebral" name="Vertebral artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4600" label="Vertebral arteries" name="Vertebral artery" file_id="267"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/2 Cerebellum - ventral view]]>
+</item>
+<item id="357" label="Vertebral artery" name="Vertebral a." file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+<item id="4094" label="Vertebral artery" name="Vertebral artery" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4303" label="Vertebral artery" name="Vertebral artery" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+</info>

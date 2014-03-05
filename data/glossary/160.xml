@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hippocampus, subiculum]]></name>
+<description><![CDATA[<p>The <b>subiculum of the hippocampus</b> is a transitional zone of cortex between the hippocampus proper and the entorhinal cortex (rostral part of parahippocampal gyrus).  It receives input from the hippocampus proper and is the principal source of the efferents from the hippocampus; these efferents form the alveus and reach the fornix via the fimbria.</p>]]></description>
+<item id="2096" label="Subiculum" name="Subiculum" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2146" label="Subiculum" name="Subiculum" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2196" label="Subiculum" name="Subiculum" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="3607" label="Subiculum" name="Subiculum" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3658" label="Subiculum" name="Subiculum" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3707" label="Subiculum" name="Subiculum" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3754" label="Subiculum" name="Subiculum" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+</info>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Inferior sagittal sinus]]></name>
+<description><![CDATA[<p>The <b>inferior sagittal sinus</b> is a dural venous sinus located in the inferior aspect of the cerebral falx. It drains into the straight sinus.</p>]]></description>
+<item id="766" label="Inferior sagittal" name="Inferior sagittal" file_id="70"><![CDATA[/MRI/Coronal/MRI cor 3]]>
+</item>
+<item id="789" label="Inferior sagittal" name="Inferior sagittal" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="820" label="Inferior sagittal" name="Inferior sagittal" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="855" label="Inferior sagittal" name="Inferior sagittal" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="891" label="Inferior sagittal sinus" name="Inferior sagittal sinus" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="932" label="Inferior sagittal sinus" name="Inferior sagittal sinus" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+</info>

@@ -1,0 +1,117 @@
+body{
+	background:none;
+	background-color:black;
+	} 
+.ui-page{
+	background:none;
+	background-color:black;
+	} 
+.ui-body-c {
+	background:none;
+	background-color:black;
+	} 
+.ui-page-active{
+	background:none;
+	background-color:black;
+	} 
+#side_menu{
+	
+	float:right;
+	height:55em;
+	width:150px;
+		
+}
+#slider{
+	border:1px solid black;
+	
+	
+	height:50em;
+	width:150px;
+	
+}
+#slider ul { /* remove bullets and list indents */
+list-style: none;
+margin: 0;
+padding: 0;
+
+}
+#slider li {
+	background-color:white;
+font: bold 11px/16px arial, helvetica, sans-serif;
+font-size:1.2em;
+display: block;
+border-width: 1px;
+border-style: solid;
+border-color: #ccc #888 #555 #bbb;
+margin: 0;
+padding: 1em 3px;
+cursor:pointer;
+}
+#definition_box{
+	position:absolute;
+	z-index:7;
+	left:45px;
+	font-size:1.3em;
+	top:400px;
+	border:1px solid black;
+	width:800px;
+	height:200px;
+
+	}
+	#definition_box_background{
+	width:800px;
+	height:200px;
+		 /* for IE */
+  filter:alpha(opacity=70);
+  /* CSS3 standard */
+  opacity:0.7;
+	background-color:white;
+	}
+#definition{
+	position:absolute;
+	top:0;
+	left:0;
+	
+	padding:1em;
+  color:#000000;
+
+	}
+	.selected{
+	background-color:#FFFFAA !important;
+	
+	}
+	
+	#logo{
+display:block;
+margin-left: auto;
+margin-right: auto;
+width: 423px;
+}
+#copy{
+text-align:center;
+}
+.carousel_item{
+position:absolute;
+}
+body{background-color:black;
+color:white;
+font-family:Verdana,sans-serif;
+}
+#carousel{height:300px;
+margin-left:auto;
+margin-right:auto;
+width:600px;
+
+}
+#continue_button{
+font-size:1.3em;
+}
+#splash{
+	position:absolute;
+	top:0;
+	left:0;
+	z-index10;
+	background-color:black;
+	width:100%;
+	height:100%;
+	}

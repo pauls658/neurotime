@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Dura & Arachnoid]]></name>
+<description><![CDATA[<p>The <b>dura &amp; arachnoid</b> refers to a combination of the two outer layers of the meninges, i. e. dura mater and arachnoid mater.</p>]]></description>
+<item id="57" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="9"><![CDATA[/Gross/Meninges/2 Spinal cord meninges]]>
+</item>
+<item id="66" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="12"><![CDATA[/Gross/Spinal Cord/1 Cervical cord-dorsal view]]>
+</item>
+<item id="71" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="13"><![CDATA[/Gross/Spinal Cord/2 Cervical cord-ventral view]]>
+</item>
+<item id="94" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="17"><![CDATA[/Gross/Spinal Cord/5 Thoracic cord-ventral view]]>
+</item>
+<item id="99" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="18"><![CDATA[/Gross/Spinal Cord/6 Lumbar-sacral cord (cauda equina)]]>
+</item>
+<item id="103" label="Dura/Arachnoid" name="Dura_Arachnoid" file_id="19"><![CDATA[/Gross/Spinal Cord/7 Sacral cord-cauda equina]]>
+</item>
+</info>

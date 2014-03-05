@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, anterior lobe]]></name>
+<description><![CDATA[<p>The <b>anterior lobe of the cerebellum</b> is that portion of the cerebellum anterior to the primary fissure, including parts of the vermis and hemisphere.</p>]]></description>
+<item id="701" label="Anterior lobe" name="Anterior lobe" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1604" label="Anterior lobe" name="Anterior lobe" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1663" label="Anterior lobe" name="Anterior lobe" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="2312" label="Anterior lobe" name="Anterior lobe" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2371" label="Anterior lobe" name="Anterior lobe" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2436" label="Anterior lobe" name="Anterior lobe" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="4246" label="Anterior lobe" name="Anterior lobe" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4571" label="Anterior lobe" name="Anterior lobe" file_id="266"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/1 Cerebellum - ventral view]]>
+</item>
+<item id="4603" label="Anterior lobe" name="Anterior lobe" file_id="268"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/3 Cerebellum - dorsal view]]>
+</item>
+<item id="4613" label="Anterior lobe" name="Anterior lobe" file_id="269"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/4 Cerebellum - dorsal view]]>
+</item>
+<item id="4623" label="Anterior lobe" name="Anterior lobe" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="4683" label="Anterior lobe" name="Anterior lobe" file_id="273"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/8 Cerebellum - ventral view]]>
+</item>
+</info>

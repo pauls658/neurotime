@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Subarachnoid cisterns]]></name>
+<description><![CDATA[<p>Within the skull there are some places - particularly at the base of the brain where the subarachnoid space is widened to form large pools of cerebrospinal fluid called the <b>subarachnoid cisterns.</b> &nbsp;They communicate freely with one another, as well as with the remainder of the subarachnoid space surrounding the brain and spinal cord. &nbsp;The major cisterns are the cerebellomedullary (AKA cisterna magna), pontine, interpeduncular and superior (AKA quadrigeminal) cisterns.</p>]]></description>
+<item id="1138" label="Cisterns, Subarachnoid" name="Cisterns, subarachnoid" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1577" label="Cisterns, Subarachnoid" name="Cisterns, subarachnoid" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1644" label="Cisterns, subarachnoid" name="Cisterns, subarachnoid" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1693" label="Cisterns, Subarachnoid" name="Cisterns, subarachnoid" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+</info>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Menu Test</title>
+	<link rel="stylesheet" href="jquery/ui/1.10.3/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="jquery/jquery-1.9.1.js"></script>
+	<script src="jquery/ui/1.10.3/jquery-ui.js"></script>
+	<script type="text/javascript" src="javascript/mobile.js"></script>
+</head>
+<body>
+	<div id="page">
+		<div id="display">
+			<button id="glossary_button">Glossary</button>
+			
+			<div id="glossary_window" title="Glossary" style="height:610px">
+			
+				<div id="structures_list_container" style="float: left; width:35%; display:none;">
+					<h3 id="structures_list_header">Structures</h3>
+					<div id="structures_list"></div>
+				</div>
+
+				<div id="structures_location_container" style="float: right; width:65%; display:none;">
+					<h3 id="structures_location_header">Location</h3>
+					<div id="structures_location"></div>
+				</div>
+
+			</div>
+			
+			<canvas id="myCanvas" width="850" height="800" style="position:absolute;
+			left:20px;
+			top:50px; 
+			z-index:5;">
+			Please view in a browser that supports html5 canvas. </canvas>
+			<img id="slide_image" style="position:absolute;
+			left:20px;
+			top:50px;"/>
+			
+ 			<div id="definition_box_container" style="position:absolute; top:724px; left:20px;">
+ 				<h3 id="definition_box_header"></h3>
+ 				<div id="definition_box"></div>
+ 			</div>
+ 			
+		</div>
+		
+		<div id="menu" style="width:20.55em">
+			<img src="data/images/Neurotime.png" alt="Neurotime.png not found">
+			<div id="nav"></div>
+			<div id="folder_container">
+				<h3 id="folders_container_header">Image Files</h3>
+				<div id="folder_menu" class="accordion accordion-layer-0"></div>
+			</div>
+			<div id="structures_container">
+				<h3 id="structures_container_header">Structures</h3>
+				<div id="structures"></div>
+			</div>
+		</div>
+		
+	</div>
+	
+	<script type="text/javascript">
+	$(document).ready(function() {	
+		neuroInit();
+	});
+	</script>
+</body>
+</html>

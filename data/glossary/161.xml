@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hippocampus]]></name>
+<description><![CDATA[<p>The <b>hippocampus</b> is AKA the hippocampal formation. It is an area of cerebral cortex rolled up inside the medial aspect of the temporal lobe.  It is part of the limbic system and functions in the consolidation of new memories of facts and events.  It has three subdivisions:  the hippocampus proper (Ammon's horn), the dentate gyrus, and the subiculum.  The fornix carries the primary output from the hippocampus to the ipsilateral septal area and hypothalamus.</p>]]></description>
+<item id="876" label="Hippocampal formation" name="Hippocampal formation" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="917" label="Hippocampal formation" name="Hippocampal formation" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="961" label="Hippocampal formation" name="Hippocampal formation" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1013" label="Hippocampal formation" name="Hippocampal formation" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1055" label="Hippocampal formation" name="Hippocampal formation" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1094" label="Hippocampal formation" name="Hippocampal formation" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1340" label="Hippocampal formation" name="Hippocampal formation" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1384" label="Hippocampal formation" name="Hippocampal formation" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1420" label="Hippocampal formation" name="Hippocampal formation" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1458" label="Hippocampal formation" name="Hippocampal formation" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1803" label="Hippocampal formation" name="Hippocampal formation" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1822" label="Hippocampal formation" name="Hippocampal formation" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1837" label="Hippocampal formation" name="Hippocampal formation" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="2092" label="Hippocampal formation" name="Hippocampal formation" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2142" label="Hippocampal formation" name="Hippocampal formation" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2192" label="Hippocampal formation" name="Hippocampal formation" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2239" label="Hippocampal Formation" name="Hippocampal Formation" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2524" label="Hippocampal formation" name="Hippocampal formation" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2559" label="Hippocampal formation" name="Hippocampal formation" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2582" label="Hippocampal Formation" name="Hippocampal Formation" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="2598" label="Hippocampal Formation" name="Hippocampal Formation" file_id="128"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/9 Sag Thin Sec]]>
+</item>
+<item id="2686" label="Hippocampal formation" name="Hippocampal formation" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2775" label="Hippocampal formation" name="Hippocampal formation" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="2849" label="Hippocampal formation" name="Hippocampal formation" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="2875" label="Hippocampal formation" name="Hippocampal formation" file_id="154"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="3054" label="Hippocampal formation" name="Hippocampal formation" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="3088" label="Hippocampal formation" name="Hippocampal formation" file_id="168"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/8 Cor: Fr to Occ]]>
+</item>
+<item id="3554" label="Hippocampal formation" name="Hippocampal formation" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3603" label="Hippocampal formation" name="Hippocampal formation" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3654" label="Hippocampal formation" name="Hippocampal formation" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3703" label="Hippocampal formation" name="Hippocampal formation" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3750" label="Hippocampal formation" name="Hippocampal formation" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="2095" label="Hippocampus" name="Hippocampus" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2145" label="Hippocampus" name="Hippocampus" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2195" label="Hippocampus" name="Hippocampus" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="3146" label="Hippocampus" name="Hippocampus" file_id="178"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/3 Parasag: Lat to Med]]>
+</item>
+<item id="3233" label="Hippocampus" name="Hippocampus" file_id="182"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/2 Parasag: Med to Lat]]>
+</item>
+<item id="3251" label="Hippocampus" name="Hippocampus" file_id="183"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/3 Parasag: Med to Lat]]>
+</item>
+<item id="3606" label="Hippocampus" name="Hippocampus" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3657" label="Hippocampus" name="Hippocampus" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3706" label="Hippocampus" name="Hippocampus" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3753" label="Hippocampus" name="Hippocampus" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="4359" label="Hippocampus" name="Hippocampus" file_id="249"><![CDATA[/Gross/Cerebrum/Limbic System/1 Hippocampus]]>
+</item>
+<item id="4371" label="Hippocampus" name="Hippocampus" file_id="250"><![CDATA[/Gross/Cerebrum/Limbic System/2 Fornix]]>
+</item>
+<item id="4382" label="Hippocampus" name="Hippocampus" file_id="251"><![CDATA[/Gross/Cerebrum/Limbic System/3 Hippocampus & Fornix]]>
+</item>
+<item id="4394" label="Hippocampus" name="Hippocampus" file_id="252"><![CDATA[/Gross/Cerebrum/Limbic System/4 Hippocampus]]>
+</item>
+<item id="4414" label="Hippocampus" name="Hippocampus" file_id="254"><![CDATA[/Gross/Cerebrum/Limbic System/6 Dentate gyrus & Fornix]]>
+</item>
+</info>

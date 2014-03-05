@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Thalamus, lateral dorsal nucleus]]></name>
+<description><![CDATA[<p>The <b>lateral dorsal nucleus of the thalamus</b> sends efferents to the posterior aspect of the cingulate gyrus.</p>]]></description>
+<item id="2466" label="Lateral dorsal nucleus" name="Lateral dorsal nucleus" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3472" label="Lateral dorsal nucleus" name="Lateral dorsal nuclei" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3525" label="Lateral dorsal nucleus" name="Lateral dorsal nuclei" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3576" label="Lateral dorsal nucleus" name="Lateral dorsal nuclei" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3623" label="Lateral dorsal nucleus" name="Lateral dorsal nuclei" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="6055" label="Lateral dorsal nucleus" name="Dorsal lateral nucleus" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6099" label="Lateral dorsal nucleus" name="Dorsal lateral nucleus" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6146" label="Lateral dorsal nucleus" name="Dorsolateral nucleus" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+</info>

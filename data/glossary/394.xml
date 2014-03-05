@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Paranasal air sinus:  Sphenoidal]]></name>
+<description><![CDATA[<p>The <b>sphenoidal air sinuses </b>are located in the body of the sphenoid bone and may extend into the wings of this bone. &nbsp;They are unevenly divided and separated by a bony septum. &nbsp;Very thin plates of bone separate these fragile sinuses from many important structures: &nbsp;the optic nerves and chiasm, the pituitary gland, the internal carotid arteries and the cavernous sinuses.</p>]]></description>
+<item id="738" label="Air sinuses, Sphenoidal" name="Air sinuses, sphenoidal" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="751" label="Air sinuses, sphenoidal" name="Air sinuses, sphenoidal" file_id="69"><![CDATA[/MRI/Coronal/MRI cor 2]]>
+</item>
+<item id="1520" label="Sphenoidal" name="Sphenoidal" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1548" label="Sphenoidal" name="Sphenoidal" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+</info>

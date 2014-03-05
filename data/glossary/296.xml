@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Spinothalamic tract]]></name>
+<description><![CDATA[<p>The <b>spinothalamic tract </b>is primarily responsible for transmitting nociceptive (pain) and temperature information from the body.  Small diameter primary afferents (first order neurons) bring the pain and temperature information into the ipsilateral dorsal horn where they synapse on the cells of origin of the spinothalamic tract.  The second order neurons in the dorsal horn send their axons across the midline in the ventral white commissure so that the spinothalmamic tract ascends in the anterolateral portion of the spinal cord contralateral to the side of input of the information.  This tract terminates in the ventral posterior lateral nucleus (VPL) of thalamus.  From this thalamic nucleus, the information is carried to the primary somatosensory cerebral cortex where the sensation is consciously perceived.</p>]]></description>
+<item id="3771" label="Spinothalamic" name="Spinothalamic" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="3795" label="Spinothalamic" name="Spinothalamic" file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="4768" label="Spinothalamic tract" name="Spinothalamic tract" file_id="278"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/1 Sacral cord, middle]]>
+</item>
+<item id="4803" label="Spinothalamic tract" name="Spinothalamic tract" file_id="279"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/2 Lumbar cord, middle]]>
+</item>
+<item id="4838" label="Spinothalamic tract" name="Spinothalamic tract" file_id="280"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/3 Lumbar cord, upper]]>
+</item>
+<item id="4875" label="Spinothalamic tract" name="Spinothalamic tract" file_id="281"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/4 Thoracic cord]]>
+</item>
+<item id="4909" label="Spinothalamic tract" name="Spinothalamic tract" file_id="282"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/5 Cervical cord, lower]]>
+</item>
+<item id="4947" label="Spinothalamic tract" name="Spinothalamic tract" file_id="283"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/6 Cervical cord, middle]]>
+</item>
+<item id="4981" label="Spinothalamic tract" name="Spinothalamic tract" file_id="284"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/7 Cervical cord, upper]]>
+</item>
+<item id="5015" label="Spinothalamic tract" name="Spinothalamiic tract" file_id="285"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/8 Cervical cord, C1]]>
+</item>
+<item id="5051" label="Spinothalamic tract" name="Spinothalamic tract" file_id="286"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/9 Cord-Medulla Junction]]>
+</item>
+<item id="5083" label="Spinothalamic tract" name="Spinothalamic tract" file_id="287"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/10 Medulla]]>
+</item>
+<item id="5123" label="Spinothalamic tract" name="Spinothalamic tract" file_id="288"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/11 Medulla]]>
+</item>
+<item id="5172" label="Spinothalamic tract" name="Spinothalamic tract" file_id="289"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/12 Medulla]]>
+</item>
+<item id="5212" label="Spinothalamic tract" name="Spinothalamic tract" file_id="290"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/13 Medulla]]>
+</item>
+<item id="5265" label="Spinothalamic tract" name="Spinothalamic tract" file_id="291"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/14 Medulla]]>
+</item>
+<item id="5323" label="Spinothalamic tract" name="Spinothalamic tract" file_id="292"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/15 Medulla+Cerebellum]]>
+</item>
+<item id="5380" label="Spinothalamic tract" name="Spinothalamic tract" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+<item id="5429" label="Spinothalamic tract" name="Spinothalamic tract" file_id="294"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/17 Medulla+Cerebellum]]>
+</item>
+<item id="5472" label="Spinothalamic tract" name="Spinothalamic tract" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5528" label="Spinothalamic tract" name="Spinothalamic tract" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+<item id="5577" label="Spinothalamic tract" name="Spinothalamic tract" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5629" label="Spinothalamic tract" name="Spinothalamic tract" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5673" label="Spinothalamic tract" name="Spinothalamic tract" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5712" label="Spinothalamic tract" name="Spinothalamic tract" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+<item id="5743" label="Spinothalamic tract" name="Spinothalamic tract" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5778" label="Spinothalamic tract" name="Spinothalamic tract" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5808" label="Spinothalamic tract" name="Spinothalamic tract" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="5839" label="Spinothalamic tract" name="Spinothalamic tract" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+<item id="5872" label="Spinothalamic tract" name="Spinothalamic tract" file_id="305"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/28 Midbrain]]>
+</item>
+<item id="5904" label="Spinothalamic tract" name="Spinothalamic tract" file_id="306"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/29 Midbrain]]>
+</item>
+<item id="2252" label="Spinothalamic tracts" name="Spinothalamic tracts" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+</info>

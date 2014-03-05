@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[CSF flow artifact]]></name>
+<description><![CDATA[<p><b>CSF flow artifact</b> appears as a bright area in narrowed regions of the ventricular system on the MRI images. &nbsp;It is due to the flow of the cerebrospinal fluid (CSF) through these narrowed areas.</p>]]></description>
+<item id="850" label="CSF flow artifact" name="CSF flow artifact" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="885" label="CSF flow artifact" name="CSF flow artifact" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="925" label="CSF flow artifact" name="CSF flow artifact" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="969" label="CSF flow artifact" name="CSF flow artifact" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1021" label="CSF flow artifact" name="CSF flow artifact" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1061" label="CSF flow artifact" name="CSF flow artifact" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1314" label="CSF flow artifact" name="CSF flow artifact" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1464" label="CSF flow artifact" name="CSF flow artifact" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1498" label="CSF flow artifact" name="CSF flow artifact" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1525" label="CSF flow artifact" name="CSF flow artifact" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1581" label="CSF flow artifact" name="CSF flow artifact" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+</info>

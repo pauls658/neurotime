@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, medullary center]]></name>
+<description><![CDATA[<p>The <b>medullary center of the cerebellum</b> is the white matter in the center of the cerebellum. &nbsp;It is composed of the nerve fibers traveling to and from the cerebellar cortex and deep cerebellar nuclei.</p>]]></description>
+<item id="1122" label="Medullary center" name="Medullary center" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1159" label="Medullary center" name="Medullary center" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1737" label="Medullary center" name="Medullary center" file_id="99"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 4]]>
+</item>
+<item id="1764" label="Medullary center" name="Medullary center" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1789" label="Medullary center" name="Medullary center" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1815" label="Medullary center" name="Medullary center" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1832" label="Medullary Center" name="Medullary Center" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="2481" label="Medullary center" name="Medullary center" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="2515" label="Medullary center" name="Medullary center" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2548" label="Medullary center" name="Medullary center" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2572" label="Medullary center" name="Medullary center" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2591" label="Medullary Center" name="Medullary Center" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="3883" label="Medullary Center" name="Medullary Center" file_id="229"><![CDATA[/Sections/Thin, Whole Brain/Coronal/17 Cor Thin Sec]]>
+</item>
+<item id="5348" label="Medullary center" name="Medullary center" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+</info>

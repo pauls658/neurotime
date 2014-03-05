@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Median sulcus of fourth ventricle]]></name>
+<description><![CDATA[<p>The midline of the floor of the fourth ventricle (i.e. the rhomboid fossa) is marked by the <b>median sulcus</b>. &nbsp;It simply divides the dorsal surface of the pons and medulla into right and left halves.</p>]]></description>
+<item id="1104" label="Median sulcus" name="Median sulcus" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="4738" label="Median sulcus" name="Median sulcus" file_id="243"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/8 Brain stem - dorsal view]]>
+</item>
+</info>

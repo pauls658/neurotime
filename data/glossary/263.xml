@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Posterior inferior cerebellar artery]]></name>
+<description><![CDATA[<p>The <b>posterior inferior cerebellar artery</b> is AKA the PICA. &nbsp;It is a branch from the vertebral artery near its junction with the basilar artery.  It supplies much of the inferior surface of the cerebellar hemispheres but very importantly, it supplies several functionally important structures on the dorsal lateral aspect of the medulla.  Loss of this blood supply results in the PICA or lateral medullary syndrome.</p>]]></description>
+<item id="985" label="Posterior inferior cerebellar" name="Post. inf. cerebellar" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1037" label="Posterior inferior cerebellar" name="Post. inf. cerebellar" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1077" label="Posterior inferior cerebellar" name="Post. inf. cerebellar" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1155" label="Posterior inferior cerebellar" name="Posterior inf cerebellar" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="4426" label="Posterior inferior cerebellar" name="Posterior inferior cerebellar artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4457" label="Posterior inferior cerebellar" name="Posterior inferior cerebellar artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4482" label="Posterior inferior cerebellar" name="Posterior inferior cerebellar artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4519" label="Posterior inferior cerebellar" name="Posterior inferior cerebellar artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4595" label="Posterior inferior cerebellar arteries" name="Posterior inferior cerebellar artery" file_id="267"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/2 Cerebellum - ventral view]]>
+</item>
+<item id="358" label="Posterior inferior cerebellar artery" name="Posterior inferior cerebe" file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+<item id="3999" label="Posterior inferior cerebellar artery" name="Post. inf. cerebellar a." file_id="236"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/1 Brain stem & Cerebellum]]>
+</item>
+<item id="4069" label="Posterior inferior cerebellar artery" name="Posterior inferior cerebellar artery" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4092" label="Posterior inferior cerebellar artery" name="Posterior inferior cerebellar artery" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+</info>

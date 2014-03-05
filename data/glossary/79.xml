@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Commissure]]></name>
+<description><![CDATA[<p>The term '<b>commissure</b>' refers to bundles of axons that cross the midline of the neuraxis and connect corresponding areas of the brain. Significant commissures in the brain are the corpus callosum, anterior and posterior commissures. &nbsp;In the spinal cord, the anterior or ventral white commissure is very important.</p>]]></description>
+<item id="3711" label="Commissure" name="Commissure" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3758" label="Commissure" name="Commissure" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="843" label="Commissures" name="Commissures" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="1631" label="Commissures" name="Commissures" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1690" label="Commissures" name="Commissures" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1729" label="Commissures" name="Commissures" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="2038" label="Commissures" name="Commissures" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2089" label="Commissures" name="Commissures" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2274" label="Commissures" name="Commissures" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2326" label="Commissures" name="Commissures" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2388" label="Commissures" name="Commissures" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="2450" label="Commissures" name="Commissures" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3314" label="Commissures" name="Commissures" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3351" label="Commissures" name="Commissures" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3396" label="Commissures" name="Commissures" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3447" label="Commissures" name="Commissures" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3500" label="Commissures" name="Commissures" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3651" label="Commissures" name="Commissures" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="6120" label="Commissures" name="Commissures" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6166" label="Commissures" name="Commissures" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+</info>

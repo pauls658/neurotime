@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Subthalamic nucleus]]></name>
+<description><![CDATA[<p>The <b>subthalamic nucleus</b> is a bi-convex lens-shaped nucleus located just medial and superior to the junction of the internal capsule and crus cerebri.  The subthalamic nucleus is part of an indirect route through the basal ganglia  whereby it receives input from the external segment of the globus pallidus and returns it output to the internal segment of the globus pallidus.  Damage to the subthalamic nucleus produces hemiballismus on the contralateral side of the body.</p>]]></description>
+<item id="2125" label="Subthalamic nuclei" name="Subthalamic nuclei" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2160" label="Subthalamic nuclei" name="Subthalamic nuclei" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2469" label="Subthalamic nucleus" name="Subthalamic nucleus" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3062" label="Subthalamic nucleus" name="Subthalamic nucleus" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="3585" label="Subthalamic nucleus" name="Subthalamic nuclei" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6018" label="Subthalamic nucleus" name="Subthalamic nucleus" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+<item id="6068" label="Subthalamic nucleus" name="Subthalamic nucleus" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+</info>

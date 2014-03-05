@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Fornix, fimbria]]></name>
+<description><![CDATA[<p>The <b>fimbria of the fornix</b> consist of hippocampal efferents that leave the alveus of the hippocampus and continue into the crus of the fornix.</p>]]></description>
+<item id="1011" label="Fimbria" name="Fimbria" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1991" label="Fimbria" name="Fimbria" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2043" label="Fimbria" name="Fimbria" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2098" label="Fimbria" name="Fimbria" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2148" label="Fimbria" name="Fimbria" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="3609" label="Fimbria" name="Fimbria" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3660" label="Fimbria" name="Fimbria" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3709" label="Fimbria" name="Fimbria" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3756" label="Fimbria" name="Fimbria" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="4367" label="Fimbria" name="Fornix (fimbria)" file_id="250"><![CDATA[/Gross/Cerebrum/Limbic System/2 Fornix]]>
+</item>
+<item id="2197" label="Fornix, fimbria" name="Fornix, fimbria" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2526" label="Fornix, Fimbria" name="Fornix, fimbria" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2561" label="Fornix, Fimbria" name="Fornix, fimbria" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+</info>

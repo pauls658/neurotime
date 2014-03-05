@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, flocculus]]></name>
+<description><![CDATA[<p>The <b>flocculus</b> is the hemispheric portion of the flocculonodular lobe of the <b>cerebellum.&nbsp;</b>&nbsp;It is concerned with balance and equilibrium as well as movements of the eyes.</p>]]></description>
+<item id="1081" label="Flocculi" name="Flocculi" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="4096" label="Flocculi" name="Flocculus" file_id="240"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/5 Pons & Medulla-ventral view]]>
+</item>
+<item id="3819" label="Flocculus" name="Flocculi" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+<item id="3839" label="Flocculus" name="Flocculi" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3860" label="Flocculus" name="Flocculi" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="3984" label="Flocculus" name="Flocculus" file_id="236"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/1 Brain stem & Cerebellum]]>
+</item>
+<item id="4003" label="Flocculus" name="Flocculus" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4045" label="Flocculus" name="Flocculus" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4591" label="Flocculus" name="Flocculus" file_id="267"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/2 Cerebellum - ventral view]]>
+</item>
+<item id="4685" label="Flocculus" name="Flocculus" file_id="273"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/8 Cerebellum - ventral view]]>
+</item>
+</info>

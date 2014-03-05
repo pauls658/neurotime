@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Dura mater]]></name>
+<description><![CDATA[<p>The <b>dura mater</b> is the outermost and thickest collagenous layer of the three layers of meninges.  Within the skull its 'outer' layer adheres tightly to the inside of the skull, constituting the periosteum.  An 'inner' meningeal layer separates out as reflections between parts of the cerebral hemisphere, i.e. cerebral falx or between the cerebral hemispheres and posterior fossa, i.e. tentorium cerebelli.  In the spinal dura mater there is a single layer separated from the vertebral periosteum by the epidural space.</p>]]></description>
+<item id="49" label="Dura" name="Dura" file_id="8"><![CDATA[/Gross/Meninges/1 Spinal dura]]>
+</item>
+<item id="60" label="Dura" name="Dura" file_id="10"><![CDATA[/Gross/Meninges/3 Spinal cord meninges]]>
+</item>
+<item id="63" label="Dura" name="Dura" file_id="11"><![CDATA[/Gross/Meninges/4 Spinal cord meninges]]>
+</item>
+<item id="323" label="Dura" name="Dura" file_id="41"><![CDATA[/Gross/Meninges/5 Cranial dura]]>
+</item>
+<item id="328" label="Dura" name="Dura" file_id="42"><![CDATA[/Gross/Meninges/6 Cranial dura]]>
+</item>
+<item id="335" label="Dura" name="Dura" file_id="43"><![CDATA[/Gross/Meninges/7 Cranial meninges]]>
+</item>
+<item id="339" label="Dura" name="Dura" file_id="44"><![CDATA[/Gross/Meninges/8 Cranial meninges]]>
+</item>
+<item id="344" label="Dura" name="Dura" file_id="45"><![CDATA[/Gross/Meninges/9 Cranial meninges]]>
+</item>
+<item id="348" label="Dura" name="Dura" file_id="46"><![CDATA[/Gross/Meninges/10 Cranial meninges]]>
+</item>
+<item id="351" label="Dura" name="Dura" file_id="47"><![CDATA[/Gross/Meninges/11 Cranial meninges]]>
+</item>
+<item id="369" label="Dura" name="Dura" file_id="51"><![CDATA[/]]>
+</item>
+<item id="372" label="Dura" name="Dura" file_id="52"><![CDATA[/]]>
+</item>
+</info>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Globus pallidus, internal segment]]></name>
+<description><![CDATA[<p>The medial component of the <b>globus pallidus</b> is known as the <b>internal segment</b>. It receives afferents from the striatum and subthalamic nucleus and sends efferents to the thalamus via the ansa lenticularis and lenticular fasciculus.</p>]]></description>
+<item id="1770" label="Internal segment" name="Internal segment" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1795" label="Internal segment" name="Internal segment" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="2009" label="Internal segment" name="Internal segment" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2060" label="Internal segment" name="Internal segment" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2112" label="Internal segment" name="Internal segment" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2502" label="Internal segment" name="Internal segment" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2537" label="Internal segment" name="Internal segment" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2912" label="Internal segment" name="Internum" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="3025" label="Internal segment" name="Internum" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="3367" label="Internal segment" name="Internal segment" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3412" label="Internal segment" name="Internal segment" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3463" label="Internal segment" name="Internal segment" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3516" label="Internal segment" name="Internal segment" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3566" label="Internal segment" name="Internal segment" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6046" label="Internal segment" name="Internal segment" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6091" label="Internal segment" name="Internal segment" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6135" label="Internal segment" name="Internal segment" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6179" label="Internal segment" name="Internal segement" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+</info>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Pituitary gland]]></name>
+<description><![CDATA[<p>The <b>pituitary gland</b> is AKA the hypophysis.  The master gland through which the hypothalamus controls most other endocrine glands.  The posterior lobe and the infundibulum or pituitary stalk that attaches it to the medial eminence of the hypothalamus are collectively termed the neurohypophysis; they arise embryologically as a ventral outgrowth from the diencephalon. The supraoptic and paraventricular nuclei of the hypothalamus release oxytocin and vasopressin into the bloodstream in the neurohypophysis.  The anterior lobe or adenophypophysis secretes a variety of hormones that control other endocrine glands but is itself under the control of releasing and inhibiting hormones secreted by the hypothalamus.  It is formed embryologically from the roof of the oral cavity (Rathke's pouch).</p>]]></description>
+<item id="1493" label="Diencephalon, Pituitary" name="Diencephalon     Pituitary" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1519" label="Diencephalon, Pituitary" name="Diencephalon     Pituitary" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="799" label="Pituitary" name="Pituitary" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="1615" label="Pituitary" name="Pituitary" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1675" label="Pituitary" name="Pituitary" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1717" label="Pituitary" name="Pituitary" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+</info>

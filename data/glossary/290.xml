@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Spinal cord]]></name>
+<description><![CDATA[<p>The <b>spinal cord</b> is that portion of the central nervous system that extends from the medulla to the conus medullaris. It consists of 31 segments (8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal) and has enlargements at the levels serving the limbs (C5 - T1 and L2 - S3).</p>]]></description>
+<item id="65" label="Spinal cord" name="Spinal cord" file_id="12"><![CDATA[/Gross/Spinal Cord/1 Cervical cord-dorsal view]]>
+</item>
+<item id="70" label="Spinal cord" name="Spinal cord" file_id="13"><![CDATA[/Gross/Spinal Cord/2 Cervical cord-ventral view]]>
+</item>
+<item id="92" label="Spinal cord" name="Spinal cord" file_id="17"><![CDATA[/Gross/Spinal Cord/5 Thoracic cord-ventral view]]>
+</item>
+<item id="97" label="Spinal cord" name="Spinal cord" file_id="18"><![CDATA[/Gross/Spinal Cord/6 Lumbar-sacral cord (cauda equina)]]>
+</item>
+<item id="101" label="Spinal cord" name="Spinal cord" file_id="19"><![CDATA[/Gross/Spinal Cord/7 Sacral cord-cauda equina]]>
+</item>
+<item id="374" label="Spinal cord" name="Spinal cord" file_id="54"><![CDATA[/Gross/Cerebrum/Surface Features/1 Lateral View]]>
+</item>
+<item id="476" label="Spinal cord" name="Spinal cord" file_id="57"><![CDATA[/Gross/Cerebrum/Surface Features/4 Lateral View]]>
+</item>
+<item id="672" label="Spinal cord" name="Spinal cord" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1125" label="Spinal cord" name="Spinal cord" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1606" label="Spinal cord" name="Spinal cord" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1665" label="Spinal cord" name="Spinal cord" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1706" label="Spinal cord" name="Spinal cord" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="2309" label="Spinal cord" name="Spinal cord" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2368" label="Spinal cord" name="Spinal cord" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="4000" label="Spinal cord" name="Spinal cord" file_id="236"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/1 Brain stem & Cerebellum]]>
+</item>
+<item id="4042" label="Spinal cord" name="Spinal cord" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4064" label="Spinal cord" name="Spinal cord" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4088" label="Spinal cord" name="Spinal cord" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4172" label="Spinal cord" name="Spinal cord" file_id="242"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/7 Pontocerebellar junction-lateral view]]>
+</item>
+<item id="4203" label="Spinal cord" name="Spinal cord" file_id="243"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/8 Brain stem - dorsal view]]>
+</item>
+<item id="4445" label="Spinal cord" name="Spinal cord" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4499" label="Spinal cord" name="Spinal cord" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4528" label="Spinal cord" name="Spinal cord" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="56" label="Spinal cord regions" name="Spinal cord regions" file_id="9"><![CDATA[/Gross/Meninges/2 Spinal cord meninges]]>
+</item>
+</info>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Commissure, Corpus callosum, Rostrum]]></name>
+<description><![CDATA[<p>The <b>rostrum</b><b>&nbsp;of the corpus callosum</b> is a thin band of nerve fibers beneath the genu containing commissural fibers interconnecting the orbital cortices.</p>]]></description>
+<item id="730" label="Rostrum" name="Rostrum" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="809" label="Rostrum" name="Rostrum" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="1628" label="Rostrum" name="Rostrum" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1687" label="Rostrum" name="Rostrum" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1726" label="Rostrum" name="Rostrum" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="1754" label="Rostrum" name="Rostrum" file_id="99"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 4]]>
+</item>
+<item id="1940" label="Rostrum" name="Rostrum" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2277" label="Rostrum" name="Rostrum" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2329" label="Rostrum" name="Rostrum" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2391" label="Rostrum" name="Rostrum" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="2453" label="Rostrum" name="Rostrum" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="2956" label="Rostrum" name="Rostrum" file_id="157"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/11 Cor: Occ to Fr]]>
+</item>
+<item id="2983" label="Rostrum" name="Rostrum" file_id="164"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/4 Cor: Fr to Occ]]>
+</item>
+<item id="3224" label="Rostrum" name="Rostrum" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="4255" label="Rostrum" name="Rostrum" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4311" label="Rostrum" name="Rostrum" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+</info>

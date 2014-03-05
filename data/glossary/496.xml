@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Tracts, somatosensory]]></name>
+<description><![CDATA[<p>The <b>somatosensory tracts</b> include the dorsal column-medial lemniscal, spinothalamic and trigeminothalamic. &nbsp;They terminate in the ventral posterior nucleus of the thalamus after traveling through the brain stem.</p>]]></description>
+<item id="2173" label="Somatosensory afferents" name="Somatosensory afferents" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="3636" label="Somatosensory afferents" name="Somatosensory afferents" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3684" label="Somatosensory afferents" name="Somatosensory afferents" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3729" label="Somatosensory afferents" name="Somatosensory afferents" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="2474" label="Somatosensory tracts" name="Somatosensory tracts" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3813" label="Somatosensory tracts" name="Somatosensory tracts" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+<item id="5946" label="Somatosensory tracts" name="Somatosensory tracts" file_id="307"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/30 Midbrain+Diencephalon]]>
+</item>
+<item id="3769" label="Tracts, somatosensory" name="Tracts, somatosensory" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+</info>

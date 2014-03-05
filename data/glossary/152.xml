@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Great cerebral vein of Galen]]></name>
+<description><![CDATA[<p>The <b>great cerebral vein of Galen</b> is AKA the vein of Galen or the great vein of Galen. It is a large, unpaired vein formed by the union of the two internal cerebral veins within the superior or quadrigeminal cistern.  It also receives the basal veins of Rosenthal before it curves around the splenium of the corpus callosum and joins the inferior sagittal sinus at its junction with the straight sinus within the tentorium cerebelli.</p>]]></description>
+<item id="1325" label="Deep, great cerebral" name="Deep, great cerebral" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1359" label="Deep, great cerebral" name="Deep, great cerebral" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1396" label="Deep, great cerebral" name="Deep, great cerebral" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1434" label="Deep, great cerebral" name="Deep, great cerebral" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1470" label="Deep, Great cerebral" name="Deep, great cerebral" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1697" label="Deep, Great cerebral" name="Deep, great cerebral" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="1148" label="Great cerebral" name="Great cerebral" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1281" label="Great cerebral" name="Great cerebral" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1589" label="Great cerebral" name="Great cerebral" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1650" label="Great cerebral" name="Great cerebral" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="2320" label="Great cerebral" name="Great cerebral" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2379" label="Great cerebral" name="Great cerebral" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+</info>

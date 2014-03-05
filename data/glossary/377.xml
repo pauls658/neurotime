@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Caudate nucleus, body]]></name>
+<description><![CDATA[<p>The <b>body of the caudate nucleus</b> is the slender mid-portion that is continuous with the head of the caudate nucleus rostrally and with the tail of the caudate nucleus, caudally.</p>]]></description>
+<item id="3" label="Body" name="Body" file_id="3"><![CDATA[/Gross/Ventricles & Choroid Plexus/3 Lateral ventricle, Choroid plexus]]>
+</item>
+<item id="1868" label="Body" name="Body" file_id="109"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/2 Hor Thin Sec]]>
+</item>
+<item id="1889" label="Body" name="Body" file_id="110"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/3 Hor Thin Sec]]>
+</item>
+<item id="2640" label="Body" name="Body_1" file_id="134"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/4 Hor from Superior]]>
+</item>
+<item id="3664" label="Body" name="Body" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3029" label="Caudate nucleus, Body" name="Caudate nucleus (body)" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="3325" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3362" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3407" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3458" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3511" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3561" label="Caudate nucleus, Body" name="Caudate nuclei, body" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6040" label="Caudate nucleus, Body" name="Caudate nucleus, Body" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6085" label="Caudate nucleus, Body" name="Caudate nucleus, Body" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6129" label="Caudate nucleus, Body" name="Caudate nucleus, Body" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6173" label="Caudate nucleus, body" name="Caudate nucleus, body" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="1852" label="Corpus striatum,  Caudate nucl, Body" name="Corpus striatum  Caud nuc" file_id="108"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/1 Hor Thin Sec]]>
+</item>
+</info>

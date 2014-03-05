@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Medial lemniscus]]></name>
+<description><![CDATA[<p>The <b>medial lemniscus</b> is the primary ascending tract carrying tactile, vibratory and proprioceptive information from the body through the brainstem.  Cells of origin are in the contralateral cuneate and gracile nuclei; termination is in the ventral posterior lateral nucleus of the thalamus.  Comparable input from the head is carried in trigeminothalamic tract fibers that accompany the medial lemniscus but terminate in the ventral posterior medial nucleus of the thalamus.</p>]]></description>
+<item id="2251" label="Medial Lemniscus" name="Medial Lemniscus" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2307" label="Medial lemniscus" name="Medial lemniscus" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2363" label="Medial lemniscus" name="Medial lemniscus" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="3770" label="Medial lemniscus" name="Medial lemniscus" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="3794" label="Medial lemniscus" name="Medial lemniscus" file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="5120" label="Medial lemniscus" name="Medial lemniscus" file_id="288"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/11 Medulla]]>
+</item>
+<item id="5167" label="Medial lemniscus" name="Medial lemniscus" file_id="289"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/12 Medulla]]>
+</item>
+<item id="5208" label="Medial lemniscus" name="Medial lemniscus" file_id="290"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/13 Medulla]]>
+</item>
+<item id="5260" label="Medial lemniscus" name="Medial lemniscus" file_id="291"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/14 Medulla]]>
+</item>
+<item id="5320" label="Medial lemniscus" name="Medial lemniscus" file_id="292"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/15 Medulla+Cerebellum]]>
+</item>
+<item id="5377" label="Medial lemniscus" name="Medial lemniscus" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+<item id="5426" label="Medial lemniscus" name="Medial lemniscus" file_id="294"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/17 Medulla+Cerebellum]]>
+</item>
+<item id="5467" label="Medial lemniscus" name="Medial lemniscus" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5523" label="Medial lemniscus" name="Medial lemniscus" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+<item id="5572" label="Medial lemniscus" name="Medial lemniscus" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5627" label="Medial lemniscus" name="Medial lemniscus" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5668" label="Medial lemniscus" name="Medial lemniscus" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5707" label="Medial lemniscus" name="Medial lemniscus" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+<item id="5738" label="Medial lemniscus" name="Medial lemniscus" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5773" label="Medial lemniscus" name="Medial lemniscus" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5804" label="Medial lemniscus" name="Medial lemniscus" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="5835" label="Medial lemniscus" name="Medial lemniscus" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+<item id="5870" label="Medial lemniscus" name="Medial lemniscus" file_id="305"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/28 Midbrain]]>
+</item>
+<item id="5903" label="Medial lemniscus" name="Medial lemniscus" file_id="306"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/29 Midbrain]]>
+</item>
+</info>

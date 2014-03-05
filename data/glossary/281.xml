@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Septal nuclei]]></name>
+<description><![CDATA[<p>The <b>septal nuclei</b>&nbsp;constitute the septal area or region. This is a small area just rostral to the anterior commissure and in the medial wall of the cerebral hemisphere.  These nuclei extend up into the septum pellucidum.  As part of the limbic sytem, they have reciprocal connections with the hippocampus via the fornix, the amygdala via the stria terminalis, etc.</p>]]></description>
+<item id="2283" label="Septal area" name="Septal area" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2336" label="Septal area" name="Septal area" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="801" label="Septal nuclei" name="Septal nuclei" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="832" label="Septal nuclei" name="Septal nuclei" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="1923" label="Septal nuclei" name="Septal nuclei" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1963" label="Septal nuclei" name="Septal nuclei" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="3301" label="Septal nuclei" name="Septal nuclei" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3332" label="Septal nuclei" name="Septal nuclei" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="6208" label="Septal nucleus" name="Septal nucleus" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+</info>

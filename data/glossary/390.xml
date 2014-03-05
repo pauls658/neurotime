@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Midbrain, tectum]]></name>
+<description><![CDATA[<p>The <b>tectum</b> is that portion of the <b>midbrain</b> located above the cerebral aqueduct. &nbsp;It includes the superior and inferior colliculi which are AKA the quadrigeminal bodies.</p>]]></description>
+<item id="5760" label="Midbrain, tectum" name="Midbrain, tectum" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5790" label="Midbrain, tectum" name="Midbrain, tectum" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="5820" label="Midbrain, tectum" name="Midbrain, tectum" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+<item id="5849" label="Midbrain, tectum" name="Midbrain, tectum" file_id="305"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/28 Midbrain]]>
+</item>
+<item id="576" label="Tectum" name="Tectum" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="615" label="Tectum" name="Tectum" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="647" label="Tectum" name="Tectum" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="681" label="Tectum" name="Tectum" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1374" label="Tectum" name="Tectum" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1410" label="Tectum" name="Tectum" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1449" label="Tectum" name="Tectum" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1486" label="Tectum" name="Tectum" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1612" label="Tectum" name="Tectum" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1672" label="Tectum" name="Tectum" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1714" label="Tectum" name="Tectum" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="2166" label="Tectum" name="Tectum" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2212" label="Tectum" name="Tectum" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2296" label="Tectum" name="Tectum" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2350" label="Tectum" name="Tectum" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2410" label="Tectum" name="Tectum" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="3195" label="Tectum" name="Tectum" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="3722" label="Tectum" name="Tectum" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3762" label="Tectum" name="Tectum" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="3786" label="Tectum" name="Tectum" file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="3893" label="Tectum" name="Tectum" file_id="231"><![CDATA[/Gross/Cerebrum/Visual System/1 Optic radiation]]>
+</item>
+<item id="3925" label="Tectum" name="Tectum" file_id="232"><![CDATA[/Gross/Cerebrum/Visual System/2 Optic radiation]]>
+</item>
+<item id="4285" label="Tectum" name="Tectum" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4336" label="Tectum" name="Tectum" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4658" label="Tectum" name="Tectum" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="4672" label="Tectum" name="Tectum" file_id="271"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/6 MCP-SCP]]>
+</item>
+</info>

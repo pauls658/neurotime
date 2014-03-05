@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Internal ear]]></name>
+<description><![CDATA[<p>The <b>internal ear</b> (AKA inner ear) contains the vestibular and cochlear structures responsible for the maintenance of balance and reception of sound. &nbsp;Located within the petrous portion of the temporal bone, it consists of the membranous labyrinth suspended within the bony labyrinth. &nbsp;The membranous labyrinth is filled with endolymph while the bony labyrinth is filled with perilymph. The vestibular portion of the membranous labyrinth consists of the three semicircular ducts plus the utricle and saccule; the cochlear portion of the membranous labyrinth consists of the cochlear duct. &nbsp;It is innervated by the vestibulocochlear nerve.</p>]]></description>
+<item id="993" label="Inner ear" name="Inner ear" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1044" label="Inner ear" name="Inner ear" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+</info>

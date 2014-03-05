@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Fornix]]></name>
+<description><![CDATA[<p>The <b>fornix</b> is a compact bundle of axons, primarily efferents from the hippocampus to the ipsilateral septal nuclei and hypothalamus.  Parts of the fornix from the hippocampus and beyond are the fimbria, crus, body and column.</p>]]></description>
+<item id="10" label="Fornix" name="Fornix" file_id="3"><![CDATA[/Gross/Ventricles & Choroid Plexus/3 Lateral ventricle, Choroid plexus]]>
+</item>
+<item id="205" label="Fornix" name="Fornix" file_id="27"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/2 Lateral ventricle]]>
+</item>
+<item id="222" label="Fornix" name="Fornix" file_id="28"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/3 Caudate & Thalamus]]>
+</item>
+<item id="245" label="Fornix" name="Fornix" file_id="29"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/4 Lateral ventricle]]>
+</item>
+<item id="258" label="Fornix" name="Fornix" file_id="31"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Medial dissections/1 Cingulum]]>
+</item>
+<item id="726" label="Fornix" name="Fornix" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1012" label="Fornix" name="Fornix" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1215" label="Fornix" name="Fornix" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="1257" label="Fornix" name="Fornix" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1623" label="Fornix" name="Fornix" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1683" label="Fornix" name="Fornix" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1943" label="Fornix" name="Fornix" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="1990" label="Fornix" name="Fornix" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2042" label="Fornix" name="Fornix" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2097" label="Fornix" name="Fornix" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2147" label="Fornix" name="Fornix" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2282" label="Fornix" name="Fornix" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2334" label="Fornix" name="Fornix" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2395" label="Fornix" name="Fornix" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="2636" label="Fornix" name="Fornix" file_id="134"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/4 Hor from Superior]]>
+</item>
+<item id="2662" label="Fornix" name="Fornix" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2684" label="Fornix" name="Fornix" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2748" label="Fornix" name="Fornix" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="2774" label="Fornix" name="Fornix" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="2848" label="Fornix" name="Fornix" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="2874" label="Fornix" name="Fornix" file_id="154"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="2916" label="Fornix" name="Fornix" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="2933" label="Fornix" name="Fornix" file_id="156"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/10 Cor: Occ to Fr]]>
+</item>
+<item id="3030" label="Fornix" name="Fornix" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="3057" label="Fornix" name="Fornix" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="3089" label="Fornix" name="Fornix" file_id="168"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/8 Cor: Fr to Occ]]>
+</item>
+<item id="3216" label="Fornix" name="Fornix" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="3317" label="Fornix" name="Fornix" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3354" label="Fornix" name="Fornix" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3399" label="Fornix" name="Fornix" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3450" label="Fornix" name="Fornix" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3503" label="Fornix" name="Fornix" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3608" label="Fornix" name="Fornix" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3659" label="Fornix" name="Fornix" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3708" label="Fornix" name="Fornix" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3755" label="Fornix" name="Fornix" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="4257" label="Fornix" name="Fornix" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4315" label="Fornix" name="Fornix" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4366" label="Fornix" name="Fornix" file_id="250"><![CDATA[/Gross/Cerebrum/Limbic System/2 Fornix]]>
+</item>
+<item id="4381" label="Fornix" name="Fornix" file_id="251"><![CDATA[/Gross/Cerebrum/Limbic System/3 Hippocampus & Fornix]]>
+</item>
+<item id="4393" label="Fornix" name="Fornix" file_id="252"><![CDATA[/Gross/Cerebrum/Limbic System/4 Hippocampus]]>
+</item>
+<item id="4403" label="Fornix" name="Fornix" file_id="253"><![CDATA[/Gross/Cerebrum/Limbic System/5 Fornix]]>
+</item>
+<item id="4413" label="Fornix" name="Fornix" file_id="254"><![CDATA[/Gross/Cerebrum/Limbic System/6 Dentate gyrus & Fornix]]>
+</item>
+<item id="4560" label="Fornix" name="Fornix" file_id="264"><![CDATA[/Gross/Ventricles & Choroid Plexus/2 Lateral ventricle, Choroid plexus]]>
+</item>
+<item id="4633" label="Fornix" name="Fornix" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="5924" label="Fornix" name="Fornix" file_id="307"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/30 Midbrain+Diencephalon]]>
+</item>
+<item id="5968" label="Fornix" name="Fornix" file_id="308"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/31 Midbrain+Diencephalon]]>
+</item>
+<item id="6079" label="Fornix" name="Fornix" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6124" label="Fornix" name="Fornix" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="3241" label="Fornix, Fimbria" name="Fornix" file_id="182"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/2 Parasag: Med to Lat]]>
+</item>
+</info>

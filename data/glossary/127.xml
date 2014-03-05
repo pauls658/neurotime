@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Fastigial nucleus]]></name>
+<description><![CDATA[<p>The <b>fastigial nucleus</b> is the most medially located of the deep nuclei of the cerebellum. Its primary input is from the vermis of the cerebellum and it projects its output bilaterally to the vestibular nuclei and reticular formation.  Through these brainstem connections, the cerebellum can influence lower motor neurons via the vestibulospinal and reticulospinal tracts.</p>]]></description>
+<item id="3889" label="Fastigial" name="Fastigial" file_id="229"><![CDATA[/Sections/Thin, Whole Brain/Coronal/17 Cor Thin Sec]]>
+</item>
+<item id="5301" label="Fastigial nucleus" name="Fastigial nucleus" file_id="292"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/15 Medulla+Cerebellum]]>
+</item>
+<item id="5352" label="Fastigial nucleus" name="Fastigial nucleus" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+<item id="5499" label="Fastigial nucleus" name="Fastigial nucleus" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+</info>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Descending motor tracts]]></name>
+<description><![CDATA[<p>These <b>descending motor tracts</b> originate in the cerebral cortex and then travel through the posterior limb of the internal capsule, the cerebral crus of the midbrain, the basal portion of the pons and the pyramids of the medulla.&nbsp; Sometimes this group of tracts is referred to as the pyramidal tract or system.&nbsp; It includes the corticospinal, corticobulbar and corticopontine tracts.</p>]]></description>
+<item id="4711" label="Descending motor tracts" name="Descending tracts" file_id="154"><![CDATA[/Sections/Thick/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="4710" label="Descending motor tracts" name="Descending Tracts" file_id="167"><![CDATA[/Sections/Thick/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="2892" label="Motor tracts in pons" name="Pyramidal pathway" file_id="154"><![CDATA[/Sections/Thick/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="3076" label="Motor tracts in pons" name="Pyramidal pathway" file_id="167"><![CDATA[/Sections/Thick/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+</info>

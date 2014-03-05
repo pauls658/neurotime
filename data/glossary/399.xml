@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Eyeball]]></name>
+<description><![CDATA[<p>The <b>eyeball</b> is located within the bony orbit of the facial skeleton. &nbsp;The eye contains the optical apparatus of the visual system. &nbsp;The optical path travels from the front to the back of the eye through the following sequence of structures: cornea, anterior chamber, iris,&nbsp;posterior chamber,&nbsp;lens, vitreous body, retina.</p>]]></description>
+<item id="1378" label="Eyes" name="Eyes" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1414" label="Eyes" name="Eyes" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1454" label="Eyes" name="Eyes" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1491" label="Eyes" name="Eyes" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1518" label="Visual pathway, eyes" name="Visual pathway, eyes" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1546" label="Visual pathway, eyes" name="Visual pathway, eyes" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+</info>

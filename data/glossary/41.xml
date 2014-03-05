@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Caudate nucleus, tail]]></name>
+<description><![CDATA[<p>The <b>tail of the caudate nucleus</b> is the long, slender portion that runs posteriorly from the body of the caudate toward the atrium or trigone of the lateral ventricle and then continues into the inferior horn of the lateral ventricle.</p>]]></description>
+<item id="2567" label="Caudate nucleus, Tail" name="Caudate nucleus, tail" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="3147" label="Caudate nucleus, Tail" name="Caudate nucleus (tail)" file_id="178"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/3 Parasag: Lat to Med]]>
+</item>
+<item id="3237" label="Caudate nucleus, Tail" name="Caudate nucleus (tail)" file_id="182"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/2 Parasag: Med to Lat]]>
+</item>
+<item id="1890" label="Tail" name="Tail" file_id="110"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/3 Hor Thin Sec]]>
+</item>
+<item id="1920" label="Tail" name="Tail" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1956" label="Tail" name="Tail" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2004" label="Tail" name="Tail" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2055" label="Tail" name="Tail" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2107" label="Tail" name="Tail" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2657" label="Tail" name="Tail" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2692" label="Tail" name="Tail" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2740" label="Tail" name="Tail" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="2780" label="Tail" name="Tail" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="3665" label="Tail" name="Tail" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+</info>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellar peduncle, superior]]></name>
+<description><![CDATA[<p>The <b>superior cerebellar peduncle</b> is the major efferent path from the cerebellum. It carries information from the deep cerebellar nuclei to the contralateral motor part of thalamus (VL and VA) and to the contralateral red nucleus of the midbrain. It decussates or crosses the midline within the caudal midbrain.&nbsp; While this peduncle is primarily efferent relative to the cerebellum, it does contain a significant afferent pathway, the ventral or anterior spinocerebellar tract.</p>]]></description>
+<item id="3822" label="Superior" name="Superior" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+<item id="3843" label="Superior" name="Superior" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3864" label="Superior" name="Superior" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="2831" label="Superior cerebellar peduncle" name="Sup cerebellar peduncle" file_id="152"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/6 Cor: Occ to Fr]]>
+</item>
+<item id="3115" label="Superior cerebellar peduncle" name="Sup cerebellar peduncle" file_id="169"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/9 Cor: Fr to Occ]]>
+</item>
+<item id="4138" label="Superior cerebellar peduncle" name="Cerebellar peduncle (superior)" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+<item id="4190" label="Superior cerebellar peduncle" name="Cerebellar peduncle (superior)" file_id="243"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/8 Brain stem - dorsal view]]>
+</item>
+<item id="4225" label="Superior cerebellar peduncle" name="Cerebellar peduncle (superior)" file_id="244"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/9 Midbrain-dorsal view]]>
+</item>
+<item id="4346" label="Superior cerebellar peduncle" name="Cerebellar peduncle (superior)" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4699" label="Superior cerebellar peduncle" name="Cerebellar peduncle (superior)" file_id="274"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/9 Dentate nucleus]]>
+</item>
+<item id="5407" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="294"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/17 Medulla+Cerebellum]]>
+</item>
+<item id="5431" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle_1" file_id="294"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/17 Medulla+Cerebellum]]>
+</item>
+<item id="5454" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5473" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle2" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5553" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5578" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle2" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5610" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5630" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle2" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5653" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5674" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle2" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5691" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+<item id="5713" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle2" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+<item id="5725" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5744" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle_1" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5759" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5779" label="Superior cerebellar peduncle" name="Superior cerebellar peduncle_1" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="1120" label="Superior cerebellar peduncles" name="Sup. cerebellar peduncles" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="2259" label="Superior cerebellar peduncles" name="Sup Cerebellar Peduncle" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="4242" label="Superior cerebellar peduncles" name="Cerebellar peduncle (superior)" file_id="245"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/10 Midbrain-dorsal view]]>
+</item>
+<item id="4667" label="Superior cerebellar peduncles" name="Cerebellar peduncles (superior)" file_id="271"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/6 MCP-SCP]]>
+</item>
+<item id="4681" label="Superior cerebellar peduncles" name="Cerebellar peduncle (superior)" file_id="272"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/7 Deep nuclei - dorsal view]]>
+</item>
+</info>

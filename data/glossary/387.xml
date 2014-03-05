@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Fornix, commissure]]></name>
+<description><![CDATA[<p>Beneath the splenium of the corpus callosum, the two crura of the fornix unite to form a <b>commissure</b> prior to proceeding rostrally as the body of the <b>fornix</b>.&nbsp;</p>]]></description>
+<item id="1255" label="Commissure" name="Commissure" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="5969" label="Commissure" name="Commissure" file_id="308"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/31 Midbrain+Diencephalon]]>
+</item>
+<item id="4369" label="Commissure of fornix" name="Fornix (commissure)" file_id="250"><![CDATA[/Gross/Cerebrum/Limbic System/2 Fornix]]>
+</item>
+</info>

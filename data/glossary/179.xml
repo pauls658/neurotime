@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Internal capsule, genu]]></name>
+<description><![CDATA[<p>The <b>genu of the internal capsule </b>is located where the anterior and posterior limbs meet.  It includes connections between the ventral anterior (VA) and ventral lateral (VL) thalamic nuclei with the motor/premotor cerebral cortex as well as corticopontine fibers.</p>]]></description>
+<item id="1210" label="Genu" name="Genu_1" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="1251" label="Genu" name="Genu_1" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1777" label="Genu" name="Genu" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1912" label="Genu" name="Genu_1" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1948" label="Genu" name="Genu_1" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="1996" label="Genu" name="Genu" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2047" label="Genu" name="Genu" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2496" label="Genu" name="Genu" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2650" label="Genu" name="Genu" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2736" label="Genu" name="Genu" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="3175" label="Genu" name="Genu" file_id="179"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/4 Parasag: Lat to Med]]>
+</item>
+<item id="6171" label="Internal capsule,  Genu" name="Internal capsule,  Genu" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="2458" label="Internal capsule, Genu" name="Internal capsule, genu" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3235" label="Internal capsule, Genu" name="Int capsule (genu)" file_id="182"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/2 Parasag: Med to Lat]]>
+</item>
+<item id="3320" label="Internal capsule, Genu" name="Internal capsule, genu" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+</info>

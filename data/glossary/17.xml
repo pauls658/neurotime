@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Anterior perforated substance]]></name>
+<description><![CDATA[<p>The <b>anterior perforated substance </b>is located on the inferior surface of the forebrain between the orbital gyri and the optic chiasm.  Numerous small blood vessels branching from the anterior and middle cerebral arteries (lenticulostriate) penetrate this area to supply adjacent brain structures.  These penetrating vessels are the source of the perforated appearance.</p>]]></description>
+<item id="643" label="Anterior  perforated substance" name="Ant.  perforated substanc" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="608" label="Anterior perforated substance" name="Ant. perforated substance" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="833" label="Anterior perforated substance" name="Ant. perforated substance" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="2153" label="Anterior perforated substance" name="Anterior perforated subst" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2676" label="Anterior perforated substance" name="Ant perforated substance" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2779" label="Anterior perforated substance" name="Ant perforated substance" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="2930" label="Anterior perforated substance" name="Ant perforated substance" file_id="156"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/10 Cor: Occ to Fr]]>
+</item>
+</info>

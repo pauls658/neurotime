@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, hemispheres]]></name>
+<description><![CDATA[<p>The <b>cerebellar hemispheres</b> are the largest portion of the cerebellum located on either side of the midline vermis. They are functionally important relative to coordination of the limbs.</p>]]></description>
+<item id="1766" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1791" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1817" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1834" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="1843" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="104"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 9]]>
+</item>
+<item id="2310" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2369" label="Cerebellum, hemisphere" name="Cerebellum, hemisphere" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2513" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2546" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2570" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2589" label="Cerebellum, Hemisphere" name="Cerebellum, hemisphere" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="2601" label="Cerebellum, Hemisphere" name="Cerebellum, Hemisphere" file_id="128"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/9 Sag Thin Sec]]>
+</item>
+<item id="1082" label="Cerebellum, hemispheres" name="Cerebellum, hemispheres" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="4676" label="Cerebellum, Hemispheres" name="Cerebellar hemisphere" file_id="272"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/7 Deep nuclei - dorsal view]]>
+</item>
+<item id="2809" label="Hemisphere" name="Hemisphere" file_id="150"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/4 Cor: Occ to Fr]]>
+</item>
+<item id="2821" label="Hemisphere" name="Hemisphere" file_id="151"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/5 Cor: Occ to Fr]]>
+</item>
+<item id="3838" label="Hemisphere" name="Hemispheres" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3859" label="Hemisphere" name="Hemispheres" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="3882" label="Hemisphere" name="Hemispheres" file_id="229"><![CDATA[/Sections/Thin, Whole Brain/Coronal/17 Cor Thin Sec]]>
+</item>
+<item id="4306" label="Hemisphere" name="Hemisphere" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="1511" label="Hemispheres" name="Hemispheres" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1539" label="Hemispheres" name="Hemispheres" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1565" label="Hemispheres" name="Hemispheres" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+<item id="3818" label="Hemispheres" name="Hemispheres" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+</info>

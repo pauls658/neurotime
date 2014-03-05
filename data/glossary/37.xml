@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Calcarine fissure or sulcus]]></name>
+<description><![CDATA[<p>The <b>calcarine fissure</b> or <b>sulcus</b> is AKA as Area 17 of Brodmann. It is a prominent sulcus on the medial surface of the occipital lobe consisting of an upper bank (cuneus) and lower bank (lingual gyrus) where the neurons of the primary visual cortex are located.</p>]]></description>
+<item id="713" label="Calcarine fissure" name="Calcarine fissure" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1632" label="Calcarine fissure" name="Calcarine fissure" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="2449" label="Calcarine fissure" name="Calcarine fissure" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="669" label="Calcarine sulci" name="Calcarine sulcus" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="600" label="Calcarine sulcus" name="Calcarine sulcus" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="2491" label="Calcarine sulcus" name="Calcarine sulcus" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="4260" label="Calcarine sulcus" name="Calcarine sulcus" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4319" label="Calcarine sulcus" name="Calcarine sulcus" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4636" label="Calcarine sulcus" name="Calcarine sulcus)" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="3872" label="Cerebral fissure, Calcarine" name="Cerebral fissure   Calcarine" file_id="229"><![CDATA[/Sections/Thin, Whole Brain/Coronal/17 Cor Thin Sec]]>
+</item>
+<item id="2799" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="147"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/1 Cor: Occ to Fr]]>
+</item>
+<item id="2802" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="148"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/2 Cor: Occ to Fr]]>
+</item>
+<item id="2807" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="149"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/3 Cor: Occ to Fr]]>
+</item>
+<item id="2813" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="150"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/4 Cor: Occ to Fr]]>
+</item>
+<item id="2817" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="151"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/5 Cor: Occ to Fr]]>
+</item>
+<item id="3121" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="170"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/10 Cor: Fr to Occ]]>
+</item>
+<item id="3130" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="171"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/11 Cor: Fr to Occ]]>
+</item>
+<item id="3135" label="Cerebral sulci, Calcarine" name="Calcarine sulcus" file_id="173"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/13 Cor: Fr to Occ]]>
+</item>
+<item id="3132" label="Cerebral sulcus, Calcarine" name="Calarine sulcus" file_id="172"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/12 Cor: Fr to Occ]]>
+</item>
+<item id="3152" label="Cerebral sulcus, Calcarine" name="Calcarine sulcus" file_id="178"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/3 Parasag: Lat to Med]]>
+</item>
+<item id="3181" label="Cerebral sulcus, Calcarine" name="Calcarine sulcus" file_id="179"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/4 Parasag: Lat to Med]]>
+</item>
+<item id="3218" label="Cerebral sulcus, Calcarine" name="Calcarine sulcus" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="3247" label="Cerebral sulcus, Calcarine" name="Calcarine sulcus" file_id="183"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/3 Parasag: Med to Lat]]>
+</item>
+</info>

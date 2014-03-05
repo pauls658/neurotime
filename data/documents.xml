@@ -1,0 +1,320 @@
+<root>
+	<folder id="1" label="Gross" path="Gross">
+		<folder id="53" label="Cerebrum" path="Gross/Cerebrum">
+			<folder id="275" label="Surface Features" path="Gross/Cerebrum/Surface Features">
+				<slidecollection id="54" path="Gross/Cerebrum/Surface Features" label="1 Lateral View" data="01-Lateral view_large.xml" image="01-Lateral view_large.swf"/>
+				<slidecollection id="55" path="Gross/Cerebrum/Surface Features" label="2 Anterior Lateral View" data="02-Anterior Lateral View_large.xml" image="02-Anterior Lateral View_large.swf"/>
+				<slidecollection id="56" path="Gross/Cerebrum/Surface Features" label="3 Dorsal Lateral View" data="03-Dorsal Lateral View_large.xml" image="03-Dorsal Lateral View_large.swf"/>
+				<slidecollection id="57" path="Gross/Cerebrum/Surface Features" label="4 Lateral View" data="04-Lateral View_large.xml" image="04-Lateral View_large.swf"/>
+				<slidecollection id="58" path="Gross/Cerebrum/Surface Features" label="5 Dorsal Lateral View-Insula" data="05-Dorsal Lateral View-InsulaLarge.xml" image="05-Dorsal Lateral View-InsulaLarge.swf"/>
+				<slidecollection id="59" path="Gross/Cerebrum/Surface Features" label="6 Dorsal View" data="06-Dorsal View.xml" image="06-Dorsal View.swf"/>
+				<slidecollection id="60" path="Gross/Cerebrum/Surface Features" label="7 Dorsal Lateral View" data="07-Dorsal Lateral View.xml" image="07-Dorsal Lateral View.swf"/>
+				<slidecollection id="61" path="Gross/Cerebrum/Surface Features" label="8 Ventral View" data="08-Ventral View.xml" image="08-Ventral View.swf"/>
+				<slidecollection id="62" path="Gross/Cerebrum/Surface Features" label="9 Ventral View" data="09-Ventral View.xml" image="09-Ventral View.swf"/>
+				<slidecollection id="63" path="Gross/Cerebrum/Surface Features" label="10 Ventral View" data="10-Ventral View.xml" image="10-Ventral View.swf"/>
+				<slidecollection id="64" path="Gross/Cerebrum/Surface Features" label="11 Ventral View" data="11-Ventral View.xml" image="11-Ventral View.swf"/>
+				<slidecollection id="65" path="Gross/Cerebrum/Surface Features" label="12 Medial View" data="12-Medial View.xml" image="12-Medial View.swf"/>
+			</folder>
+			<folder id="276" label="Cerebrum Dissections" path="Gross/Cerebrum/Cerebrum Dissections">
+				<folder id="25" label="Dorsal dissections" path="Gross/Dorsal dissections">
+					<slidecollection id="26" path="Gross/Dorsal dissections" label="1 Corpus callosum" data="01 Corpus callosum.xml" image="01 Corpus callosum.swf"/>
+					<slidecollection id="27" path="Gross/Dorsal dissections" label="2 Lateral ventricle" data="02 Lateral ventricle.xml" image="02 Lateral ventricle.swf"/>
+					<slidecollection id="28" path="Gross/Dorsal dissections" label="3 Caudate &amp; Thalamus" data="03 Caudate nucleus_thalamus.xml" image="03 Caudate nucleus_thalamus.swf"/>
+					<slidecollection id="29" path="Gross/Dorsal dissections" label="4 Lateral ventricle" data="04 Lateral ventricle.xml" image="04 Lateral ventricle.swf"/>
+				</folder>
+				<folder id="30" label="Medial dissections" path="Gross/Medial dissections">
+					<slidecollection id="31" path="Gross/Medial dissections" label="1 Cingulum" data="01 Cingulum.xml" image="01 Cingulum.swf"/>
+					<slidecollection id="32" path="Gross/Medial dissections" label="2 Caudate &amp; Thalamus" data="02 Caudate-thalamus.xml" image="02 Caudate-thalamus.swf"/>
+					<slidecollection id="33" path="Gross/Medial dissections" label="3 Caudate &amp; Lateral ventricle" data="03 Caudate nuc-Lat vent.xml" image="03 Caudate nuc-Lat vent.swf"/>
+					<slidecollection id="34" path="Gross/Medial dissections" label="4 Caudate &amp; Internal capsule" data="04 Caudate nuc-IC.xml" image="04 Caudate nuc-IC.swf"/>
+				</folder>
+				<folder id="35" label="Lateral dissections" path="Gross/Lateral dissections">
+					<slidecollection id="36" path="Gross/Lateral dissections" label="1 Superior longitudinal fasciculus" data="01 Sup long fas.xml" image="01 Sup long fas.swf"/>
+					<slidecollection id="37" path="Gross/Lateral dissections" label="2 Lentiform nucleus" data="02 Lentiform nucleus.xml" image="02 Lentiform nucleus.swf"/>
+					<slidecollection id="38" path="Gross/Lateral dissections" label="3 Globus pallidus" data="03 Globus pallidus.xml" image="03 Globus pallidus.swf"/>
+					<slidecollection id="39" path="Gross/Lateral dissections" label="4 Internal capsule" data="04 Internal capsule.xml" image="04 Internal capsule.swf"/>
+				</folder>
+			</folder>
+			<folder id="230" label="Visual System" path="Gross/Cerebrum/Visual System">
+				<slidecollection id="231" path="Gross/Cerebrum/Visual System" label="1 Optic radiation" data="01 Optic radiation.xml" image="01 Optic radiation.swf"/>
+				<slidecollection id="232" path="Gross/Cerebrum/Visual System" label="2 Optic radiation" data="02 Optic radiation.xml" image="02 Optic radiation.swf"/>
+				<slidecollection id="233" path="Gross/Cerebrum/Visual System" label="3 Optic tract" data="03 Optic tract.xml" image="03 Optic tract.swf"/>
+			</folder>
+			<folder id="248" label="Limbic System" path="Gross/Cerebrum/Limbic System">
+				<slidecollection id="249" path="Gross/Cerebrum/Limbic System" label="1 Hippocampus" data="01 Hippocampus 6.xml" image="01 Hippocampus 6.swf"/>
+				<slidecollection id="250" path="Gross/Cerebrum/Limbic System" label="2 Fornix" data="02 Fornix.xml" image="02 Fornix.swf"/>
+				<slidecollection id="251" path="Gross/Cerebrum/Limbic System" label="3 Hippocampus &amp; Fornix" data="03 Hippocampus-Fornix 2.xml" image="03 Hippocampus-Fornix 2.swf"/>
+				<slidecollection id="252" path="Gross/Cerebrum/Limbic System" label="4 Hippocampus" data="04 Hippocampus 2.xml" image="04 Hippocampus 2.swf"/>
+				<slidecollection id="253" path="Gross/Cerebrum/Limbic System" label="5 Fornix" data="05 Fornix 4.xml" image="05 Fornix 4.swf"/>
+				<slidecollection id="254" path="Gross/Cerebrum/Limbic System" label="6 Dentate gyrus &amp; Fornix" data="06 Dentate-fornix 1.xml" image="06 Dentate-fornix 1.swf"/>
+			</folder>
+		</folder>
+		<folder id="234" label="Brain stem &amp; Cerebellum" path="Gross/Brain Stem and Cerebellum">
+			<folder id="235" label="Brain stem" path="Gross/Brain Stem and Cerebellum/Brain Stem">
+				<slidecollection id="236" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="1 Brain stem &amp; Cerebellum" data="01 Brain stem.xml" image="01 Brain stem.swf"/>
+				<slidecollection id="237" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="2 Cranial nerves-I to X + XII" data="02 Cranial nerves.xml" image="02 Cranial nerves.swf"/>
+				<slidecollection id="238" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="3 Cranial nerves of Pons &amp; Medulla" data="03 Cranial nerves.xml" image="03 Cranial nerves.swf"/>
+				<slidecollection id="239" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="4 Cranial nerves of Pons &amp; Medulla" data="04 Cranial nerves.xml" image="04 Cranial nerves.swf"/>
+				<slidecollection id="240" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="5 Pons &amp; Medulla-ventral view" data="05 Ventral brainstem.xml" image="05 Ventral brainstem.swf"/>
+				<slidecollection id="241" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="6 Brain stem-dissection" data="06 Fourth ventricle.xml" image="06 Fourth ventricle.swf"/>
+				<slidecollection id="242" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="7 Pontocerebellar junction-lateral view" data="07 Pontocerbellar junction.xml" image="07 Pontocerbellar junction.swf"/>
+				<slidecollection id="243" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="8 Brain stem - dorsal view" data="08 Dorsal brainstem.xml" image="08 Dorsal brainstem.swf"/>
+				<slidecollection id="244" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="9 Midbrain-dorsal view" data="09 Midbrain-dorsal.xml" image="09 Midbrain-dorsal.swf"/>
+				<slidecollection id="245" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="10 Midbrain-dorsal view" data="10 Cranial nerve IV.xml" image="10 Cranial nerve IV.swf"/>
+				<slidecollection id="246" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="11 Brain stem - mid-sagittal view" data="11 Brain stem - mid-sagittal view.xml" image="11 Brain stem - mid-sagittal view.swf"/>
+				<slidecollection id="247" path="Gross/Brain Stem and Cerebellum/Brain Stem" label="12 Brain stem - parasagittal view" data="12 Brain stem - parasagittal view.xml" image="12 Brain stem - parasagittal view.swf"/>
+			</folder>
+			<folder id="265" label="Cerebellum" path="Gross/Brain Stem and Cerebellum/Cerebellum">
+				<slidecollection id="266" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="1 Cerebellum - ventral view" data="01 Cerebellum (ventral view).xml" image="01 Cerebellum (ventral view).swf"/>
+				<slidecollection id="267" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="2 Cerebellum - ventral view" data="02 Cerebellum (ventral view).xml" image="02 Cerebellum (ventral view).swf"/>
+				<slidecollection id="268" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="3 Cerebellum - dorsal view" data="03 Cerebellum (dorsal view).xml" image="03 Cerebellum (dorsal view).swf"/>
+				<slidecollection id="269" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="4 Cerebellum - dorsal view" data="04 Cerebellum (dorsal view).xml" image="04 Cerebellum (dorsal view).swf"/>
+				<slidecollection id="270" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="5 Cerebellum - mid-sagittal view" data="05 Cerebellum (mid-sagittal view).xml" image="05 Cerebellum (mid-sagittal view).swf"/>
+				<slidecollection id="271" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="6 MCP-SCP" data="06 MCP-SCP.xml" image="06 MCP-SCP.swf"/>
+				<slidecollection id="272" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="7 Deep nuclei - dorsal view" data="07 Deep nuclei.xml" image="07 Deep nuclei.swf"/>
+				<slidecollection id="273" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="8 Cerebellum - ventral view" data="08 Cerebellum (ventral view).xml" image="08 Cerebellum (ventral view).swf"/>
+				<slidecollection id="274" path="Gross/Brain Stem and Cerebellum/Cerebellum" label="9 Dentate nucleus" data="09 Dentate nucleus.xml" image="09 Dentate nucleus.swf"/>
+			</folder>
+		</folder>
+<folder id="7" label="Spinal Cord" path="Gross/Spinal Cord">
+<slidecollection id="12" path="Gross/Spinal Cord" label="1 Cervical cord-dorsal view" data="05 Cervical cord-dorsal view.xml" image="05 Cervical cord-dorsal view.swf"/>
+<slidecollection id="13" path="Gross/Spinal Cord" label="2 Cervical cord-ventral view" data="06 Cervical cord-ventral view.xml" image="06 Cervical cord-ventral view.swf"/>
+<slidecollection id="14" path="Gross/Spinal Cord" label="3 Cervical cord-dorsal view" data="07 Cervical cord-dorsal view.xml" image="07 Cervical cord-dorsal view.swf"/>
+<slidecollection id="15" path="Gross/Spinal Cord" label="4 Cervical cord-dorsal view" data="08 Cervical cord-dorsal view.xml" image="08 Cervical cord-dorsal view.swf"/>
+<slidecollection id="17" path="Gross/Spinal Cord" label="5 Thoracic cord-ventral view" data="10 Thoracic cord-ventral view.xml" image="10 Thoracic cord-ventral view.swf"/>
+<slidecollection id="18" path="Gross/Spinal Cord" label="6 Lumbar-sacral cord (cauda equina)" data="11 Lumbar-sacral cord (cauda equina).xml" image="11 Lumbar-sacral cord (cauda equina).swf"/>
+<slidecollection id="19" path="Gross/Spinal Cord" label="7 Sacral cord-cauda equina" data="12 Sacral cord-cauda equina.xml" image="12 Sacral cord-cauda equina.swf"/>
+<slidecollection id="20" path="Gross/Spinal Cord" label="8 Cervical cord - upper cross section" data="13 Cervical cord (upper X-section).xml" image="13 Cervical cord (upper X-section).swf"/>
+<slidecollection id="21" path="Gross/Spinal Cord" label="9 Cervical cord - lower cross section" data="14 Cervical cord (lower X-section).xml" image="14 Cervical cord (lower X-section).swf"/>
+<slidecollection id="22" path="Gross/Spinal Cord" label="10 Thoracic cord - cross section" data="15 Thoracic cord.xml" image="15 Thoracic cord.swf"/>
+<slidecollection id="23" path="Gross/Spinal Cord" label="11 Lumbar cord - cross section" data="16 Lumbar cord.xml" image="16 Lumbar cord.swf"/>
+<slidecollection id="24" path="Gross/Spinal Cord" label="12 Sacral cord - cross section" data="17 Sacral cord.xml" image="17 Sacral cord.swf"/>
+</folder>
+<folder id="40" label="Meninges" path="Gross/Dura_Arachnoid">
+<slidecollection id="8" path="Gross/Spinal Cord" label="1 Spinal dura" data="01 Dura.xml" image="01 Dura.swf"/>
+<slidecollection id="9" path="Gross/Spinal Cord" label="2 Spinal cord meninges" data="02 Spinal cord - meninges.xml" image="02 Spinal cord - meninges.swf"/>
+<slidecollection id="10" path="Gross/Spinal Cord" label="3 Spinal cord meninges" data="03 Meninges.xml" image="03 Meninges.swf"/>
+<slidecollection id="11" path="Gross/Spinal Cord" label="4 Spinal cord meninges" data="04 Arachnoid membrane.xml" image="04 Arachnoid membrane.swf"/>
+<slidecollection id="41" path="Gross/Dura_Arachnoid" label="5 Cranial dura" data="01-Dura.xml" image="01-Dura.swf"/>
+<slidecollection id="42" path="Gross/Dura_Arachnoid" label="6 Cranial dura" data="02-Cranial cavity.xml" image="02-Cranial cavity.swf"/>
+<slidecollection id="43" path="Gross/Dura_Arachnoid" label="7 Cranial meninges" data="03-Dura-5.xml" image="03-Dura-5.swf"/>
+<slidecollection id="44" path="Gross/Dura_Arachnoid" label="8 Cranial meninges" data="04-Dura-3.xml" image="04-Dura-3.swf"/>
+<slidecollection id="45" path="Gross/Dura_Arachnoid" label="9 Cranial meninges" data="05-Dura-1.xml" image="05-Dura-1.swf"/>
+<slidecollection id="46" path="Gross/Dura_Arachnoid" label="10 Cranial meninges" data="06-Dura-4.xml" image="06-Dura-4.swf"/>
+<slidecollection id="47" path="Gross/Dura_Arachnoid" label="11 Cranial meninges" data="07-Cerebral veins-1.xml" image="07-Cerebral veins-1.swf"/>
+<slidecollection id="48" path="Gross/Dura_Arachnoid" label="12 Cisterna magna, caudal view" data="08-Arachnoid-2.xml" image="08-Arachnoid-2.swf"/>
+<slidecollection id="49" path="Gross/Dura_Arachnoid" label="13 Cranial arachnoid, inferior view" data="09-Arachnoid-5.xml" image="09-Arachnoid-5.swf"/>
+<slidecollection id="50" path="Gross/Dura_Arachnoid" label="14 Cranial arachnoid, superior view" data="10-Arachnoid villi-1.xml" image="10-Arachnoid villi-1.swf"/>
+</folder>
+<folder id="2" label="Ventricles &amp; Choroid Plexus" path="Gross/Ventricles_Choroid Plexus">
+<slidecollection id="4" path="Gross/Ventricles_Choroid Plexus" label="1 Lateral ventricle" data="02-Vent-1.xml" image="02-Vent-1.swf"/>
+<slidecollection id="264" path="Gross/Meninges and Ventricles/Ventricles" label="2 Lateral ventricle, Choroid plexus" data="05-Choroid plexus (R)(CC)-4.xml" image="05-Choroid plexus (R)(CC)-4.swf"/>
+<slidecollection id="3" path="Gross/Ventricles_Choroid Plexus" label="3 Lateral ventricle, Choroid plexus" data="01-Choroid plexus (R)(CC)-3.xml" image="01-Choroid plexus (R)(CC)-3.swf"/>
+<slidecollection id="5" path="Gross/Ventricles_Choroid Plexus" label="4 Ventricle cast - lateral view" data="03-Vent cast (lat. view).xml" image="03-Vent cast (lat. view).swf"/>
+<slidecollection id="6" path="Gross/Ventricles_Choroid Plexus" label="5 Ventricle cast - dorsal view" data="04-Vent cast (dorsal view).xml" image="04-Vent cast (dorsal view).swf"/>
+</folder>
+<folder id="255" label="Vasculature &amp; Nerves" path="Gross/Vasculature and Nerves">
+<slidecollection id="256" path="Gross/Vasculature and Nerves" label="1 Ventral brain stem" data="01 Arteries Ventral Brain stem.xml" image="01 Arteries Ventral Brain stem.swf"/>
+<slidecollection id="257" path="Gross/Vasculature and Nerves" label="2 Ventral brain stem" data="02 Arteries Ventral Brain stem.xml" image="02 Arteries Ventral Brain stem.swf"/>
+<slidecollection id="258" path="Gross/Vasculature and Nerves" label="3 Ventral brain stem" data="03 Arteries Ventral Brain stem.xml" image="03 Arteries Ventral Brain stem.swf"/>
+<slidecollection id="259" path="Gross/Vasculature and Nerves" label="4 Ventral brain stem" data="04 Anterior cerebral artery.xml" image="04 Anterior cerebral artery.swf"/>
+<slidecollection id="260" path="Gross/Vasculature and Nerves" label="5 Ventral brain stem" data="05 Arteries Ventral Brain stem.xml" image="05 Arteries Ventral Brain stem.swf"/>
+<slidecollection id="261" path="Gross/Vasculature and Nerves" label="6 Ventral brain stem" data="06 Arteries Ventral View.xml" image="06 Arteries Ventral View.swf"/>
+</folder>
+</folder>
+	<folder id="105" label="Sections" path="Sections">
+<folder id="317" label="Thin, Spinal Cord to Cerebrum" path="Sections/Thin, Spinal Cord to Cerebrum">
+<slidecollection id="278" path="Sections/Thin, Spinal Cord to Cerebrum" label="1 Sacral cord, middle" data="1_Sacral_cord_middle.xml" image="1_Sacral_cord_middle.swf"/>
+<slidecollection id="279" path="Sections/Thin, Spinal Cord to Cerebrum" label="2 Lumbar cord, middle" data="2_Lumbar_cord_middle.xml" image="2_Lumbar_cord_middle.swf"/>
+<slidecollection id="280" path="Sections/Thin, Spinal Cord to Cerebrum" label="3 Lumbar cord, upper" data="3_Lumbar_cord_upper.xml" image="3_Lumbar_cord_upper.swf"/>
+<slidecollection id="281" path="Sections/Thin, Spinal Cord to Cerebrum" label="4 Thoracic cord" data="4_Thoracic _cord.xml" image="4_Thoracic _cord.swf"/>
+<slidecollection id="282" path="Sections/Thin, Spinal Cord to Cerebrum" label="5 Cervical cord, lower" data="5_Cervical_cord_lower.xml" image="5_Cervical_cord_lower.swf"/>
+<slidecollection id="283" path="Sections/Thin, Spinal Cord to Cerebrum" label="6 Cervical cord, middle" data="6_Cervical_cord_middle.xml" image="6_Cervical_cord_middle.swf"/>
+<slidecollection id="284" path="Sections/Thin, Spinal Cord to Cerebrum" label="7 Cervical cord, upper" data="7_Cervical_cord_upper.xml" image="7_Cervical_cord_upper.swf"/>
+<slidecollection id="285" path="Sections/Thin, Spinal Cord to Cerebrum" label="8 Cervical cord, C1" data="8_Cervical_cord,_C1.xml" image="8_Cervical_cord,_C1.swf"/>
+<slidecollection id="286" path="Sections/Thin, Spinal Cord to Cerebrum" label="9 Cord-Medulla Junction" data="9_Cord_Medulla_Junction.xml" image="9_Cord_Medulla_Junction.swf"/>
+<slidecollection id="287" path="Sections/Thin, Spinal Cord to Cerebrum" label="10 Medulla" data="10_Medulla.xml" image="10_Medulla.swf"/>
+<slidecollection id="288" path="Sections/Thin, Spinal Cord to Cerebrum" label="11 Medulla" data="11_Medulla.xml" image="11_Medulla.swf"/>
+<slidecollection id="289" path="Sections/Thin, Spinal Cord to Cerebrum" label="12 Medulla" data="12_Medulla.xml" image="12_Medulla.swf"/>
+<slidecollection id="290" path="Sections/Thin, Spinal Cord to Cerebrum" label="13 Medulla" data="13_Medulla.xml" image="13_Medulla.swf"/>
+<slidecollection id="291" path="Sections/Thin, Spinal Cord to Cerebrum" label="14 Medulla" data="14_Medulla.xml" image="14_Medulla.swf"/>
+<slidecollection id="292" path="Sections/Thin, Spinal Cord to Cerebrum" label="15 Medulla+Cerebellum" data="15_Medulla+Cerebellum.xml" image="15_Medulla+Cerebellum.swf"/>
+<slidecollection id="293" path="Sections/Thin, Spinal Cord to Cerebrum" label="16 Medulla+Cerebellum" data="16_Medulla+Cerebellum.xml" image="16_Medulla+Cerebellum.swf"/>
+<slidecollection id="294" path="Sections/Thin, Spinal Cord to Cerebrum" label="17 Medulla+Cerebellum" data="17_Medulla+Cerebellum.xml" image="17_Medulla+Cerebellum.swf"/>
+<slidecollection id="295" path="Sections/Thin, Spinal Cord to Cerebrum" label="18 Medulla,Pons,Cerebellum" data="18_Medulla,Pons,Cerebellum.xml" image="18_Medulla,Pons,Cerebellum.swf"/>
+<slidecollection id="296" path="Sections/Thin, Spinal Cord to Cerebrum" label="19 Pons+Cerebellum" data="19_Pons+Cerebellum.xml" image="19_Pons+Cerebellum.swf"/>
+<slidecollection id="297" path="Sections/Thin, Spinal Cord to Cerebrum" label="20 Pons+Cerebellum" data="20_Pons+Cerebellum.xml" image="20_Pons+Cerebellum.swf"/>
+<slidecollection id="298" path="Sections/Thin, Spinal Cord to Cerebrum" label="21 Pons+Cerebellum" data="21_Pons+Cerebellum.xml" image="21_Pons+Cerebellum.swf"/>
+<slidecollection id="299" path="Sections/Thin, Spinal Cord to Cerebrum" label="22 Pons+Cerebellum" data="22_Pons+Cerebellum.xml" image="22_Pons+Cerebellum.swf"/>
+<slidecollection id="300" path="Sections/Thin, Spinal Cord to Cerebrum" label="23 Pons+Cerebellum" data="23_Pons+Cerebellum.xml" image="23_Pons+Cerebellum.swf"/>
+<slidecollection id="301" path="Sections/Thin, Spinal Cord to Cerebrum" label="24 Pons+Cerebellum" data="24_Pons+Cerebellum.xml" image="24_Pons+Cerebellum.swf"/>
+<slidecollection id="302" path="Sections/Thin, Spinal Cord to Cerebrum" label="25 Pons+Midbrain" data="25_Pons+Midbrain.xml" image="25_Pons+Midbrain.swf"/>
+<slidecollection id="303" path="Sections/Thin, Spinal Cord to Cerebrum" label="26 Pons+Midbrain" data="26_Pons+Midbrain.xml" image="26_Pons+Midbrain.swf"/>
+<slidecollection id="304" path="Sections/Thin, Spinal Cord to Cerebrum" label="27 Pons+Midbrain" data="27_Pons+Midbrain.xml" image="27_Pons+Midbrain.swf"/>
+<slidecollection id="305" path="Sections/Thin, Spinal Cord to Cerebrum" label="28 Midbrain" data="28_Midbrain.xml" image="28_Midbrain.swf"/>
+<slidecollection id="306" path="Sections/Thin, Spinal Cord to Cerebrum" label="29 Midbrain" data="29_Midbrain.xml" image="29_Midbrain.swf"/>
+<slidecollection id="307" path="Sections/Thin, Spinal Cord to Cerebrum" label="30 Midbrain+Diencephalon" data="30_Midbrain+Diencephalon.xml" image="30_Midbrain+Diencephalon.swf"/>
+<slidecollection id="308" path="Sections/Thin, Spinal Cord to Cerebrum" label="31 Midbrain+Diencephalon" data="31_Midbrain+Diencephalon.xml" image="31_Midbrain+Diencephalon.swf"/>
+<slidecollection id="309" path="Sections/Thin, Spinal Cord to Cerebrum" label="32 Midbrain+Diencephalon" data="32_Midbrain+Diencephalon.xml" image="32_Midbrain+Diencephalon.swf"/>
+<slidecollection id="310" path="Sections/Thin, Spinal Cord to Cerebrum" label="33 Diencephalon+Telencephalon" data="33_Diencephalon+Telencephalon.xml" image="33_Diencephalon+Telencephalon.swf"/>
+<slidecollection id="311" path="Sections/Thin, Spinal Cord to Cerebrum" label="34 Diencephalon+Telencephalon" data="34_Diencephalon+Telencephalon.xml" image="34_Diencephalon+Telencephalon.swf"/>
+<slidecollection id="312" path="Sections/Thin, Spinal Cord to Cerebrum" label="35 Diencephalon+Telencephalon" data="35_Diencephalon+Telencephalon.xml" image="35_Diencephalon+Telencephalon.swf"/>
+<slidecollection id="313" path="Sections/Thin, Spinal Cord to Cerebrum" label="36 Diencephalon+Telencephalon" data="36_Diencephalon+Telencephalon.xml" image="36_Diencephalon+Telencephalon.swf"/>
+<slidecollection id="314" path="Sections/Thin, Spinal Cord to Cerebrum" label="37 Telencephalon" data="37_Telencephalon.xml" image="37_Telencephalon.swf"/>
+<slidecollection id="315" path="Sections/Thin, Spinal Cord to Cerebrum" label="38 Telencephalon" data="38_Telencephalon.xml" image="38_Telencephalon.swf"/>
+<slidecollection id="316" path="Sections/Thin, Spinal Cord to Cerebrum" label="39 Telencephalon" data="39_Telencephalon.xml" image="39_Telencephalon.swf"/>
+</folder>
+<folder id="106" label="Thin, Whole Brain" path="Sections/Thin">
+<folder id="212" label="Coronal" path="Sections/Thin/Coronal">
+<slidecollection id="213" path="Sections/Thin/Coronal" label="1 Cor Thin Sec" data="cs1_10.xml" image="cs1_10.swf"/>
+<slidecollection id="214" path="Sections/Thin/Coronal" label="2 Cor Thin Sec" data="cs2_13.xml" image="cs2_13.swf"/>
+<slidecollection id="215" path="Sections/Thin/Coronal" label="3 Cor Thin Sec" data="cs3_18.xml" image="cs3_18.swf"/>
+<slidecollection id="216" path="Sections/Thin/Coronal" label="4 Cor Thin Sec" data="cs4_25.xml" image="cs4_25.swf"/>
+<slidecollection id="217" path="Sections/Thin/Coronal" label="5 Cor Thin Sec" data="cs5_31.xml" image="cs5_31.swf"/>
+<slidecollection id="218" path="Sections/Thin/Coronal" label="6 Cor Thin Sec" data="cs6_41.xml" image="cs6_41.swf"/>
+<slidecollection id="219" path="Sections/Thin/Coronal" label="7 Cor Thin Sec" data="cs7_49.xml" image="cs7_49.swf"/>
+<slidecollection id="220" path="Sections/Thin/Coronal" label="8 Cor Thin Sec" data="cs8_55.xml" image="cs8_55.swf"/>
+<slidecollection id="221" path="Sections/Thin/Coronal" label="9 Cor Thin Sec" data="cs9_67.xml" image="cs9_67.swf"/>
+<slidecollection id="222" path="Sections/Thin/Coronal" label="10 Cor Thin Sec" data="cs10_75.xml" image="cs10_75.swf"/>
+<slidecollection id="223" path="Sections/Thin/Coronal" label="11 Cor Thin Sec" data="cs11_85.xml" image="cs11_85.swf"/>
+<slidecollection id="224" path="Sections/Thin/Coronal" label="12 Cor Thin Sec" data="cs12-91.xml" image="cs12-91.swf"/>
+<slidecollection id="225" path="Sections/Thin/Coronal" label="13 Cor Thin Sec" data="cs13_10(post).xml" image="cs13_10(post).swf"/>
+<slidecollection id="226" path="Sections/Thin/Coronal" label="14 Cor Thin Sec" data="cs14_17(post).xml" image="cs14_17(post).swf"/>
+<slidecollection id="227" path="Sections/Thin/Coronal" label="15 Cor Thin Sec" data="cs15_20(post).xml" image="cs15_20(post).swf"/>
+<slidecollection id="228" path="Sections/Thin/Coronal" label="16 Cor Thin Sec" data="cs16_23(post).xml" image="cs16_23(post).swf"/>
+<slidecollection id="229" path="Sections/Thin/Coronal" label="17 Cor Thin Sec" data="cs17_27(post).xml" image="cs17_27(post).swf"/>
+</folder>
+<folder id="107" label="Horizontal" path="Sections/Thin/Horizontal">
+<slidecollection id="108" path="Sections/Thin/Horizontal" label="1 Hor Thin Sec" data="hor sect 1_06.xml" image="hor sect 1_06.swf"/>
+<slidecollection id="109" path="Sections/Thin/Horizontal" label="2 Hor Thin Sec" data="hor sect 2_11.xml" image="hor sect 2_11.swf"/>
+<slidecollection id="110" path="Sections/Thin/Horizontal" label="3 Hor Thin Sec" data="hor sect 3_16.xml" image="hor sect 3_16.swf"/>
+<slidecollection id="111" path="Sections/Thin/Horizontal" label="4 Hor Thin Sec" data="hor sect 4_20.xml" image="hor sect 4_20.swf"/>
+<slidecollection id="112" path="Sections/Thin/Horizontal" label="5 Hor Thin Sec" data="hor sect 5_24.xml" image="hor sect 5_24.swf"/>
+<slidecollection id="113" path="Sections/Thin/Horizontal" label="6 Hor Thin Sec" data="hor sect 6_34.xml" image="hor sect 6_34.swf"/>
+<slidecollection id="114" path="Sections/Thin/Horizontal" label="7 Hor Thin Sec" data="hor sect 7_45.xml" image="hor sect 7_45.swf"/>
+<slidecollection id="115" path="Sections/Thin/Horizontal" label="8 Hor Thin Sec" data="hor sect 8_51.xml" image="hor sect 8_51.swf"/>
+<slidecollection id="116" path="Sections/Thin/Horizontal" label="9 Hor Thin Sec" data="hor sect 9_59.xml" image="hor sect 9_59.swf"/>
+<slidecollection id="117" path="Sections/Thin/Horizontal" label="10 Hor Thin Sec" data="hor sect 10_65.xml" image="hor sect 10_65.swf"/>
+<slidecollection id="118" path="Sections/Thin/Horizontal" label="11 Hor Thin Sec" data="hor sect 11_75.xml" image="hor sect 11_75.swf"/>
+</folder>
+<folder id="119" label="Sagittal &amp; Parasagittal" path="Sections/Thin/Sagital">
+<slidecollection id="120" path="Sections/Thin/Sagital" label="1 Sag Thin Sec" data="Sag sect 1_47.xml" image="Sag sect 1_47.swf"/>
+<slidecollection id="121" path="Sections/Thin/Sagital" label="2 Sag Thin Sec" data="Sag sect 2_46.xml" image="Sag sect 2_46.swf"/>
+<slidecollection id="122" path="Sections/Thin/Sagital" label="3 Sag Thin Sec" data="Sag sect 3_42.xml" image="Sag sect 3_42.swf"/>
+<slidecollection id="123" path="Sections/Thin/Sagital" label="4 Sag Thin Sec" data="Sag sect 4_33.xml" image="Sag sect 4_33.swf"/>
+<slidecollection id="124" path="Sections/Thin/Sagital" label="5 Sag Thin Sec" data="Sag sect 5_24.xml" image="Sag sect 5_24.swf"/>
+<slidecollection id="125" path="Sections/Thin/Sagital" label="6 Sag Thin Sec" data="Sag sect 6_17.xml" image="Sag sect 6_17.swf"/>
+<slidecollection id="126" path="Sections/Thin/Sagital" label="7 Sag Thin Sec" data="Sag sect 7_10.xml" image="Sag sect 7_10.swf"/>
+<slidecollection id="127" path="Sections/Thin/Sagital" label="8 Sag Thin Sec" data="Sag sect 8_07.xml" image="Sag sect 8_07.swf"/>
+<slidecollection id="128" path="Sections/Thin/Sagital" label="9 Sag Thin Sec" data="Sag sect 9_04.xml" image="Sag sect 9_04.swf"/>
+</folder>
+</folder>
+<folder id="129" label="Thick, Whole Brain" path="Sections/Thick">
+<folder id="145" label="Coronal" path="Sections/Thick/Coronal">
+<folder id="146" label="Occipital to Frontal" path="Sections/Thick/Coronal/(B-F)">
+<slidecollection id="147" path="Sections/Thick/Coronal/(B-F)" label="1 Cor: Occ to Fr" data="001 Brain (B-Coronal-1).xml" image="001 Brain (B-Coronal-1).swf"/>
+<slidecollection id="148" path="Sections/Thick/Coronal/(B-F)" label="2 Cor: Occ to Fr" data="002 Brain (B-Coronal-2).xml" image="002 Brain (B-Coronal-2).swf"/>
+<slidecollection id="149" path="Sections/Thick/Coronal/(B-F)" label="3 Cor: Occ to Fr" data="003 Brain (B-Coronal-3).xml" image="003 Brain (B-Coronal-3).swf"/>
+<slidecollection id="150" path="Sections/Thick/Coronal/(B-F)" label="4 Cor: Occ to Fr" data="004 Brain (B-Coronal-4).xml" image="004 Brain (B-Coronal-4).swf"/>
+<slidecollection id="151" path="Sections/Thick/Coronal/(B-F)" label="5 Cor: Occ to Fr" data="005 Brain (B-Coronal-5).xml" image="005 Brain (B-Coronal-5).swf"/>
+<slidecollection id="152" path="Sections/Thick/Coronal/(B-F)" label="6 Cor: Occ to Fr" data="006 Brain (B-Coronal-6).xml" image="006 Brain (B-Coronal-6).swf"/>
+<slidecollection id="153" path="Sections/Thick/Coronal/(B-F)" label="7 Cor: Occ to Fr" data="007 Brain (B-Coronal-7).xml" image="007 Brain (B-Coronal-7).swf"/>
+<slidecollection id="154" path="Sections/Thick/Coronal/(B-F)" label="8 Cor: Occ to Fr" data="008 Brain (B-Coronal-8).xml" image="008 Brain (B-Coronal-8).swf"/>
+<slidecollection id="155" path="Sections/Thick/Coronal/(B-F)" label="9 Cor: Occ to Fr" data="009 Brain (B-Coronal-9).xml" image="009 Brain (B-Coronal-9).swf"/>
+<slidecollection id="156" path="Sections/Thick/Coronal/(B-F)" label="10 Cor: Occ to Fr" data="010 Brain (B-Coronal-10).xml" image="010 Brain (B-Coronal-10).swf"/>
+<slidecollection id="157" path="Sections/Thick/Coronal/(B-F)" label="11 Cor: Occ to Fr" data="011 Brain (B-Coronal-11).xml" image="011 Brain (B-Coronal-11).swf"/>
+<slidecollection id="158" path="Sections/Thick/Coronal/(B-F)" label="12 Cor: Occ to Fr" data="012 Brain (B-Coronal-12).xml" image="012 Brain (B-Coronal-12).swf"/>
+<slidecollection id="159" path="Sections/Thick/Coronal/(B-F)" label="13 Cor: Occ to Fr" data="013 Brain (B-Coronal-13).xml" image="013 Brain (B-Coronal-13).swf"/>
+</folder>
+<folder id="160" label=" Frontal to Occipital" path="Sections/Thick/Coronal/(F-B)">
+<slidecollection id="161" path="Sections/Thick/Coronal/(F-B)" label="1-Cor: Fr to Occ" data="01-072 Brain (F-coronal).xml" image="01-072 Brain (F-coronal).swf"/>
+<slidecollection id="162" path="Sections/Thick/Coronal/(F-B)" label="2 Cor: Fr to Occ" data="02-073 Brain (F-coronal).xml" image="02-073 Brain (F-coronal).swf"/>
+<slidecollection id="163" path="Sections/Thick/Coronal/(F-B)" label="3 Cor: Fr to Occ" data="03-074 Brain (F-coronal).xml" image="03-074 Brain (F-coronal).swf"/>
+<slidecollection id="164" path="Sections/Thick/Coronal/(F-B)" label="4 Cor: Fr to Occ" data="04-075 Brain (F-coronal).xml" image="04-075 Brain (F-coronal).swf"/>
+<slidecollection id="165" path="Sections/Thick/Coronal/(F-B)" label="5 Cor: Fr to Occ" data="05-076 Brain (F-coronal).xml" image="05-076 Brain (F-coronal).swf"/>
+<slidecollection id="166" path="Sections/Thick/Coronal/(F-B)" label="6 Cor: Fr to Occ" data="06-077 Brain (F-coronal).xml" image="06-077 Brain (F-coronal).swf"/>
+<slidecollection id="167" path="Sections/Thick/Coronal/(F-B)" label="7 Cor: Fr to Occ" data="07-078 Brain (F-coronal).xml" image="07-078 Brain (F-coronal).swf"/>
+<slidecollection id="168" path="Sections/Thick/Coronal/(F-B)" label="8 Cor: Fr to Occ" data="08-079 Brain (F-coronal).xml" image="08-079 Brain (F-coronal).swf"/>
+<slidecollection id="169" path="Sections/Thick/Coronal/(F-B)" label="9 Cor: Fr to Occ" data="09-080 Brain (F-coronal).xml" image="09-080 Brain (F-coronal).swf"/>
+<slidecollection id="170" path="Sections/Thick/Coronal/(F-B)" label="10 Cor: Fr to Occ" data="10-081 Brain (F-coronal).xml" image="10-081 Brain (F-coronal).swf"/>
+<slidecollection id="171" path="Sections/Thick/Coronal/(F-B)" label="11 Cor: Fr to Occ" data="11-082 Brain (F-coronal).xml" image="11-082 Brain (F-coronal).swf"/>
+<slidecollection id="172" path="Sections/Thick/Coronal/(F-B)" label="12 Cor: Fr to Occ" data="12-083 Brain (F-coronal).xml" image="12-083 Brain (F-coronal).swf"/>
+<slidecollection id="173" path="Sections/Thick/Coronal/(F-B)" label="13 Cor: Fr to Occ" data="13-084 Brain (F-coronal).xml" image="13-084 Brain (F-coronal).swf"/>
+</folder>
+</folder>
+<folder id="130" label="Horizontal" path="Sections/Thick/Axial">
+<slidecollection id="131" path="Sections/Thick/Axial" label="1 Hor from Superior" data="001 Brain (axial-1T).xml" image="001 Brain (axial-1T).swf"/>
+<slidecollection id="132" path="Sections/Thick/Axial" label="2 Hor from Superior" data="002 Brain (axial-2T).xml" image="002 Brain (axial-2T).swf"/>
+<slidecollection id="133" path="Sections/Thick/Axial" label="3 Hor from Superior" data="003 Brain (axial-3T).xml" image="003 Brain (axial-3T).swf"/>
+<slidecollection id="134" path="Sections/Thick/Axial" label="4 Hor from Superior" data="004 Brain (axial-4T).xml" image="004 Brain (axial-4T).swf"/>
+<slidecollection id="135" path="Sections/Thick/Axial" label="5 Hor from Superior" data="005 Brain (axial-5T).xml" image="005 Brain (axial-5T).swf"/>
+<slidecollection id="136" path="Sections/Thick/Axial" label="6 Hor from Superior" data="006 Brain (axial-6T).xml" image="006 Brain (axial-6T).swf"/>
+<slidecollection id="137" path="Sections/Thick/Axial" label="7 Hor from Superior" data="007 Brain (axial-7T).xml" image="007 Brain (axial-7T).swf"/>
+<slidecollection id="138" path="Sections/Thick/Axial" label="8 Hor from Inferior" data="008 Brain (axial-1B).xml" image="008 Brain (axial-1B).swf"/>
+<slidecollection id="139" path="Sections/Thick/Axial" label="9 Hor from Inferior" data="009 Brain (axial-2B).xml" image="009 Brain (axial-2B).swf"/>
+<slidecollection id="140" path="Sections/Thick/Axial" label="10 Hor from Inferior" data="010 Brain (axial-3B).xml" image="010 Brain (axial-3B).swf"/>
+<slidecollection id="141" path="Sections/Thick/Axial" label="11 Hor from Inferior" data="011 Brain (axial-4B).xml" image="011 Brain (axial-4B).swf"/>
+<slidecollection id="142" path="Sections/Thick/Axial" label="12 Hor from Inferior" data="012 Brain (axial-5B).xml" image="012 Brain (axial-5B).swf"/>
+<slidecollection id="143" path="Sections/Thick/Axial" label="13 Hor from Inferior" data="013 Brain (axial-6B).xml" image="013 Brain (axial-6B).swf"/>
+<slidecollection id="144" path="Sections/Thick/Axial" label="14 Hor from Inferior" data="014 Brain (axial-7B).xml" image="014 Brain (axial-7B).swf"/>
+</folder>
+<folder id="174" label="Sagittal &amp; Parasagittal" path="Sections/Thick/Parasagittal">
+<folder id="175" label="Lateral to Medial" path="Sections/Thick/Parasagittal/Lat to Medial">
+<slidecollection id="176" path="Sections/Thick/Parasagittal/Lat to Medial" label="1 Parasag: Lat to Med" data="001 Brain (Parasag-L-M 1).xml" image="001 Brain (Parasag-L-M 1).swf"/>
+<slidecollection id="177" path="Sections/Thick/Parasagittal/Lat to Medial" label="2 Parasag: Lat to Med" data="002 Brain (Parasag-L-M 2).xml" image="002 Brain (Parasag-L-M 2).swf"/>
+<slidecollection id="178" path="Sections/Thick/Parasagittal/Lat to Medial" label="3 Parasag: Lat to Med" data="003 Brain (Parasag-L-M 3).xml" image="003 Brain (Parasag-L-M 3).swf"/>
+<slidecollection id="179" path="Sections/Thick/Parasagittal/Lat to Medial" label="4 Parasag: Lat to Med" data="004 Brain (Parasag-L-M 4).xml" image="004 Brain (Parasag-L-M 4).swf"/>
+</folder>
+<folder id="180" label="Medial to Lateral" path="Sections/Thick/Parasagittal/Medial to Lat">
+<slidecollection id="181" path="Sections/Thick/Parasagittal/Medial to Lat" label="1 Parasag: Med to Lat" data="001 Brain (Parasag-M-L 1).xml" image="001 Brain (Parasag-M-L 1).swf"/>
+<slidecollection id="182" path="Sections/Thick/Parasagittal/Medial to Lat" label="2 Parasag: Med to Lat" data="002 Brain (Parasag-M-L 2).xml" image="002 Brain (Parasag-M-L 2).swf"/>
+<slidecollection id="183" path="Sections/Thick/Parasagittal/Medial to Lat" label="3 Parasag: Med to Lat" data="003 Brain (Parasag-M-L 3).xml" image="003 Brain (Parasag-M-L 3).swf"/>
+<slidecollection id="184" path="Sections/Thick/Parasagittal/Medial to Lat" label="4 Parasag: Med to Lat" data="004 Brain (Parasag-M-L 4).xml" image="004 Brain (Parasag-M-L 4).swf"/>
+</folder>
+</folder>
+</folder>
+</folder>
+	<folder id="66" label="MRI" path="MRI">
+<folder id="67" label="Coronal" path="MRI/Coronal">
+<slidecollection id="68" path="MRI/Coronal" label="MRI cor 1" data="MRI cor 1.xml" image="MRI cor 1.swf"/>
+<slidecollection id="69" path="MRI/Coronal" label="MRI cor 2" data="MRI cor 2.xml" image="MRI cor 2.swf"/>
+<slidecollection id="70" path="MRI/Coronal" label="MRI cor 3" data="MRI cor 3.xml" image="MRI cor 3.swf"/>
+<slidecollection id="71" path="MRI/Coronal" label="MRI cor 4" data="MRI cor 4.xml" image="MRI cor 4.swf"/>
+<slidecollection id="72" path="MRI/Coronal" label="MRI cor 5" data="MRI cor 5.xml" image="MRI cor 5.swf"/>
+<slidecollection id="73" path="MRI/Coronal" label="MRI cor 6" data="MRI cor 6.xml" image="MRI cor 6.swf"/>
+<slidecollection id="74" path="MRI/Coronal" label="MRI cor 7" data="MRI cor 7.xml" image="MRI cor 7.swf"/>
+<slidecollection id="75" path="MRI/Coronal" label="MRI cor 8" data="MRI cor 8.xml" image="MRI cor 8.swf"/>
+<slidecollection id="76" path="MRI/Coronal" label="MRI cor 9" data="MRI cor 9.xml" image="MRI cor 9.swf"/>
+<slidecollection id="77" path="MRI/Coronal" label="MRI cor 10" data="MRI cor 10.xml" image="MRI cor 10.swf"/>
+<slidecollection id="78" path="MRI/Coronal" label="MRI cor 11" data="MRI cor 11.xml" image="MRI cor 11.swf"/>
+<slidecollection id="79" path="MRI/Coronal" label="MRI cor 12" data="MRI cor 12.xml" image="MRI cor 12.swf"/>
+<slidecollection id="80" path="MRI/Coronal" label="MRI cor 13" data="MRI cor 13.xml" image="MRI cor 13.swf"/>
+</folder>
+<folder id="81" label="Horizontal or Axial" path="MRI/Horizontal">
+<slidecollection id="82" path="MRI/Horizontal" label="MRI hor 1" data="MRI hor 1.xml" image="MRI hor 1.swf"/>
+<slidecollection id="83" path="MRI/Horizontal" label="MRI hor 2" data="MRI hor 2.xml" image="MRI hor 2.swf"/>
+<slidecollection id="84" path="MRI/Horizontal" label="MRI hor 3" data="MRI hor 3.xml" image="MRI hor 3.swf"/>
+<slidecollection id="85" path="MRI/Horizontal" label="MRI hor 4" data="MRI hor 4.xml" image="MRI hor 4.swf"/>
+<slidecollection id="86" path="MRI/Horizontal" label="MRI hor 5" data="MRI hor 5.xml" image="MRI hor 5.swf"/>
+<slidecollection id="87" path="MRI/Horizontal" label="MRI hor 6" data="MRI hor 6.xml" image="MRI hor 6.swf"/>
+<slidecollection id="88" path="MRI/Horizontal" label="MRI hor 7" data="MRI hor 7.xml" image="MRI hor 7.swf"/>
+<slidecollection id="89" path="MRI/Horizontal" label="MRI hor 8" data="MRI hor 8.xml" image="MRI hor 8.swf"/>
+<slidecollection id="90" path="MRI/Horizontal" label="MRI hor 9" data="MRI hor 9.xml" image="MRI hor 9.swf"/>
+<slidecollection id="91" path="MRI/Horizontal" label="MRI hor 10" data="MRI hor 10.xml" image="MRI hor 10.swf"/>
+<slidecollection id="92" path="MRI/Horizontal" label="MRI hor 11" data="MRI hor 11.xml" image="MRI hor 11.swf"/>
+<slidecollection id="93" path="MRI/Horizontal" label="MRI hor 12" data="MRI hor 12.xml" image="MRI hor 12.swf"/>
+<slidecollection id="94" path="MRI/Horizontal" label="MRI hor 13" data="MRI hor 13.xml" image="MRI hor 13.swf"/>
+</folder>
+<folder id="95" label="Sagittal &amp; Parasagittal" path="MRI/Sagittal">
+<slidecollection id="96" path="MRI/Sagittal" label="MRI sag 1" data="MRI sag 1.xml" image="MRI sag 1.swf"/>
+<slidecollection id="97" path="MRI/Sagittal" label="MRI sag 2" data="MRI sag 2.xml" image="MRI sag 2.swf"/>
+<slidecollection id="98" path="MRI/Sagittal" label="MRI sag 3" data="MRI sag 3.xml" image="MRI sag 3.swf"/>
+<slidecollection id="99" path="MRI/Sagittal" label="MRI sag 4" data="MRI sag 4.xml" image="MRI sag 4.swf"/>
+<slidecollection id="100" path="MRI/Sagittal" label="MRI sag 5" data="MRI sag 5.xml" image="MRI sag 5.swf"/>
+<slidecollection id="101" path="MRI/Sagittal" label="MRI sag 6" data="MRI sag 6.xml" image="MRI sag 6.swf"/>
+<slidecollection id="102" path="MRI/Sagittal" label="MRI sag 7" data="MRI sag 7.xml" image="MRI sag 7.swf"/>
+<slidecollection id="103" path="MRI/Sagittal" label="MRI sag 8" data="MRI sag 8.xml" image="MRI sag 8.swf"/>
+<slidecollection id="104" path="MRI/Sagittal" label="MRI sag 9" data="MRI sag 9.xml" image="MRI sag 9.swf"/>
+</folder>
+</folder>
+</root>

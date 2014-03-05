@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[External capsule]]></name>
+<description><![CDATA[<p>The <b>external capsule</b> is a thin layer of nerve fibers located lateral to the lentiform nucleus and medial to the claustrum. It includes fibers connecting the cerebral cortex with the striatum (putamen and caudate).</p>]]></description>
+<item id="806" label="External capsule" name="External capsule" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="1883" label="External capsule" name="External capsule" file_id="110"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/3 Hor Thin Sec]]>
+</item>
+<item id="1914" label="External capsule" name="External capsule" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1950" label="External capsule" name="External capsule" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="1998" label="External Capsule" name="External Capsule" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2049" label="External capsule" name="External capsule" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2101" label="External capsule" name="External capsule" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2563" label="External capsule" name="External capsule" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2584" label="External Capsule" name="External Capsule" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="2655" label="External capsule" name="External capsule" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2728" label="External capsule" name="External capsule" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="2906" label="External capsule" name="External capsule" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="2993" label="External capsule" name="External capsule" file_id="165"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/5 Cor: Fr to Occ]]>
+</item>
+<item id="3021" label="External capsule" name="External capsule" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="3269" label="External capsule" name="External capsule" file_id="213"><![CDATA[/Sections/Thin, Whole Brain/Coronal/1 Cor Thin Sec]]>
+</item>
+<item id="3290" label="External capsule" name="External capsule" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3321" label="External capsule" name="External capsule" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3358" label="External capsule" name="External capsule" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3403" label="External capsule" name="External capsule" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3454" label="External capsule" name="External capsule" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3507" label="External capsule" name="External capsule" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3557" label="External capsule" name="External capsule" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6213" label="External capsule" name="External capsule" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+<item id="6237" label="External capsule" name="External capsule" file_id="315"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/38 Telencephalon]]>
+</item>
+</info>

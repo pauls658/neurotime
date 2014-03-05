@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebral vein, Internal cerebral]]></name>
+<description><![CDATA[<p>The <b>internal cerebral veins</b> are paired, deep cerebral veins. &nbsp;These major veins drain most of the interior of the brain.  Formed at the level of the interventricular foramen of Monro by the union of the thalamostriate and choroidal veins, they travel posteriorly to the area of the superior or quadrigeminal cistern where they unite and join the Great Vein of Galen.</p>]]></description>
+<item id="3113" label="Cerebral veins, Internal" name="Cerebral veins" file_id="169"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/9 Cor: Fr to Occ]]>
+</item>
+<item id="1976" label="Cerebral veins, Internal cerebral" name="Cerebral veins     Intern" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2026" label="Cerebral veins, Internal cerebral" name="Cerebral veins     Intern" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="1073" label="Deep, Internal cerebral" name="Deep     Internal cerebral" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1116" label="Deep, Internal cerebral" name="Deep     Internal cerebral" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1237" label="Deep, Internal cerebral" name="Deep, internal cerebral" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1033" label="Deep. Internal cerebral" name="Deep     Internal cerebral" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1282" label="Internal" name="Internal" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1590" label="Internal cerebral" name="Internal cerebral" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1651" label="Internal cerebral" name="Internal cerebral" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="2319" label="Internal cerebral" name="Internal cerebral" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2378" label="Internal cerebral" name="Internal cerebral" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2668" label="Internal cerebral veins" name="Internal cerebral v" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2855" label="Internal cerebral veins" name="Internal cerebral veins" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+</info>

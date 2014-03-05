@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Bone]]></name>
+<description><![CDATA[<p>Portions of the <b>bone</b> of the neurocranium (cranial vault or brain case) and the viscerocranium (facial skeleton) are often seen in images of the brain. &nbsp;In some instances, they are intimately involved with the dura, dural venous sinuses, formation of the paranasal air sinuses, etc.&nbsp;</p>]]></description>
+<item id="324" label="Bone" name="Bone" file_id="41"><![CDATA[/Gross/Meninges/5 Cranial dura]]>
+</item>
+<item id="4721" label="Bone" name="Bone" file_id="8"><![CDATA[/Gross/Meninges/1 Spinal dura]]>
+</item>
+<item id="740" label="Bony & other features" name="Bony_other features" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="1497" label="Bony & other features" name="Bony_other features (arrows)" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1524" label="Bony & other features" name="Bony_other features" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1553" label="Bony & other features" name="Bony_other features" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+<item id="1462" label="Bony landmarks" name="Bony landmarks" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+</info>

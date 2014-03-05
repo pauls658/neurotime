@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Superior cerebellar artery]]></name>
+<description><![CDATA[<p>The <b>s</b><b>uperior cerebellar artery</b> is a branch from the basilar artery just caudal to the bifurcation of the basilar to form the two posterior cerebral arteries.  It supplies the superior aspect of the cerebellum plus parts of the caudal midbrain and rostral pons.</p>]]></description>
+<item id="899" label="Superior cerebellar" name="Superior cerebellar" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="940" label="Superior cerebellar" name="Superior cerebellar" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1154" label="Superior cerebellar" name="Superior cerebellar" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1476" label="Superior cerebellar" name="Superior cerebellar" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1505" label="Superior cerebellar" name="Superior cerebellar" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1593" label="Superior cerebellar" name="Superior cerebellar" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1654" label="Superior cerebellar" name="Superior cerebellar" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="4427" label="Superior cerebellar" name="Superior cerebellar artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4458" label="Superior cerebellar" name="Superior cerebellar artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4483" label="Superior cerebellar" name="Superior cerebellar artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4509" label="Superior cerebellar" name="Superior cerebral artery" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="4520" label="Superior cerebellar" name="Superior cerebellar artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4536" label="Superior cerebellar" name="Superior cerebrellar artery" file_id="261"><![CDATA[/Gross/Vasculature & Nerves/6 Ventral brain stem]]>
+</item>
+<item id="2753" label="Superior cerebellar artery" name="Superior cerebellar a" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="3047" label="Superior cerebellar artery" name="Sup cerebellar a" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="4093" label="Superior cerebellar artery" name="Superior cerebellar artery" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4151" label="Superior cerebellar artery" name="Superior cerebellar artery" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+<item id="4302" label="Superior cerebellar artery" name="Superior cerebellar artery" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4357" label="Superior cerebellar artery" name="Superior cerebellar artery" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+</info>

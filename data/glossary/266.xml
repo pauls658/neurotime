@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Precuneus]]></name>
+<description><![CDATA[<p>The <b>precuneus</b> is that portion of the medial surface of the parietal cerebral cortex, located between the paracentral lobule and the cuneus.</p>]]></description>
+<item id="715" label="Precuneus" name="Precuneus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1637" label="Precuneus" name="Precuneus" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="2269" label="Precuneus" name="Precuneus" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="4264" label="Precuneus" name="Precuneus" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4322" label="Precuneus" name="Precuneus" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+</info>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Paranasal air sinus]]></name>
+<description><![CDATA[<p>The air or <b>paranasal sinuses</b> are extensions of the respiratory part of the nasal cavity that extend into the cranial bones: &nbsp;frontal, ethmoid, sphenoid and maxillary.</p>]]></description>
+<item id="1522" label="Air sinuses" name="Air sinuses" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1551" label="Air sinuses" name="Air sinuses" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+</info>

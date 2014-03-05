@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebrum, frontal lobe]]></name>
+<description><![CDATA[<p>The <b>frontal lobe</b> is the most anterior lobe of the cerebral hemisphere. It includes primary motor cortex, premotor cortex, supplementary motor cortex, frontal eye fields, prefrontal cortex and orbital cortex. Via connections with the dorsomedial nucleus of thalamus and elsewhere, it is associated with the limbic system.</p>]]></description>
+<item id="750" label="Cerebral lobes, Frontal" name="Cerebral lobes     Frontal" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="1173" label="Frontal" name="Frontal  - arrow" file_id="82"><![CDATA[/MRI/Horizontal or Axial/MRI hor 1]]>
+</item>
+<item id="1190" label="Frontal" name="Frontal - arrow" file_id="83"><![CDATA[/MRI/Horizontal or Axial/MRI hor 2]]>
+</item>
+<item id="1223" label="Frontal" name="Frontal - arrows" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="1268" label="Frontal" name="Frontal - arrow" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1310" label="Frontal" name="Frontal  arrow" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="406" label="Frontal lobe" name="Frontal lobe" file_id="54"><![CDATA[/Gross/Cerebrum/Surface Features/1 Lateral View]]>
+</item>
+<item id="433" label="Frontal lobe" name="Frontal lobe" file_id="55"><![CDATA[/Gross/Cerebrum/Surface Features/2 Anterior Lateral View]]>
+</item>
+<item id="447" label="Frontal lobe" name="Frontal lobe" file_id="56"><![CDATA[/Gross/Cerebrum/Surface Features/3 Dorsal Lateral View]]>
+</item>
+<item id="464" label="Frontal lobe" name="Frontal lobe" file_id="57"><![CDATA[/Gross/Cerebrum/Surface Features/4 Lateral View]]>
+</item>
+<item id="501" label="Frontal lobe" name="Frontal lobe" file_id="58"><![CDATA[/Gross/Cerebrum/Surface Features/5 Dorsal Lateral View-Insula]]>
+</item>
+<item id="556" label="Frontal lobe" name="Frontal lobe" file_id="60"><![CDATA[/Gross/Cerebrum/Surface Features/7 Dorsal Lateral View]]>
+</item>
+<item id="572" label="Frontal lobe" name="Frontal lobe" file_id="61"><![CDATA[/Gross/Cerebrum/Surface Features/8 Ventral View]]>
+</item>
+<item id="609" label="Frontal lobe" name="Frontal lobe" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="644" label="Frontal lobe" name="Frontal lobe" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="722" label="Frontal lobe" name="Frontal lobe" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="2611" label="Frontal lobe" name="Frontal lobe" file_id="131"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/1 Hor from Superior]]>
+</item>
+<item id="2616" label="Frontal lobe" name="Frontal lobe" file_id="132"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/2 Hor from Superior]]>
+</item>
+<item id="2622" label="Frontal lobe" name="Frontal lobe" file_id="133"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/3 Hor from Superior]]>
+</item>
+<item id="2630" label="Frontal lobe" name="Frontal lobe" file_id="134"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/4 Hor from Superior]]>
+</item>
+<item id="2707" label="Frontal lobe" name="Frontal lobe" file_id="138"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/8 Hor from Inferior]]>
+</item>
+<item id="2712" label="Frontal lobe" name="Frontal lobe" file_id="139"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/9 Hor from Inferior]]>
+</item>
+<item id="2795" label="Frontal lobe" name="Frontal lobe" file_id="143"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/13 Hor from Inferior]]>
+</item>
+<item id="2960" label="Frontal lobe" name="Frontal lobe" file_id="157"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/11 Cor: Occ to Fr]]>
+</item>
+<item id="2963" label="Frontal lobe" name="Frontal lobe" file_id="158"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/12 Cor: Occ to Fr]]>
+</item>
+<item id="2964" label="Frontal lobe" name="Frontal lobe" file_id="159"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/13 Cor: Occ to Fr]]>
+</item>
+<item id="2965" label="Frontal lobe" name="Frontal lobe" file_id="161"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/1-Cor: Fr to Occ]]>
+</item>
+<item id="2967" label="Frontal lobe" name="Frontal lobe" file_id="162"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/2 Cor: Fr to Occ]]>
+</item>
+<item id="2973" label="Frontal lobe" name="Frontal lobe" file_id="163"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/3 Cor: Fr to Occ]]>
+</item>
+<item id="2990" label="Frontal lobe" name="Frontal lobe" file_id="164"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/4 Cor: Fr to Occ]]>
+</item>
+<item id="3228" label="Frontal lobe" name="Frontal lobe" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="3912" label="Frontal lobe" name="Frontal lobe" file_id="231"><![CDATA[/Gross/Cerebrum/Visual System/1 Optic radiation]]>
+</item>
+<item id="4374" label="Frontal lobe" name="Frontal lobe" file_id="250"><![CDATA[/Gross/Cerebrum/Limbic System/2 Fornix]]>
+</item>
+<item id="4386" label="Frontal lobe" name="Frontal lobe" file_id="251"><![CDATA[/Gross/Cerebrum/Limbic System/3 Hippocampus & Fornix]]>
+</item>
+<item id="530" label="Frontal lobes" name="Frontal lobe" file_id="59"><![CDATA[/Gross/Cerebrum/Surface Features/6 Dorsal View]]>
+</item>
+<item id="762" label="Frontal lobes" name="Frontal lobes" file_id="69"><![CDATA[/MRI/Coronal/MRI cor 2]]>
+</item>
+<item id="4007" label="Frontal lobes" name="Frontal lobe" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+</info>

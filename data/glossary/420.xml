@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Eye, lens]]></name>
+<description><![CDATA[<p>The <b>lens</b> is a transparent, biconvex structure located in the anterior segment of the <b>eye</b>. &nbsp;Along with the cornea, the lens refracts light so that it is focused on the retina.</p>]]></description>
+<item id="1490" label="Lens" name="Lens" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1517" label="Lens" name="Lens" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1545" label="Lens" name="Lens" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+</info>

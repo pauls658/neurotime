@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Ventricular system]]></name>
+<description><![CDATA[<p>The<b> ventricular system</b> is a series of interconnected cerebrospinal-filled chambers within the cerebral hemispheres. Cerebrospinal fluid is formed in the choroid plexus located in the lateral, third and fourth ventricles.</p>]]></description>
+<item id="819" label="Ventricular system" name="Ventricular system" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="854" label="Ventricular system" name="Ventricular system" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="890" label="Ventricular system" name="Ventricular system" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="931" label="Ventricular system" name="Ventricular system" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="975" label="Ventricular system" name="Ventricular system" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1027" label="Ventricular system" name="Ventricular system" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1067" label="Ventricular system" name="Ventricular system" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1110" label="Ventricular system" name="Ventricular system" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1142" label="Ventricular system" name="Ventricular system" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1232" label="Ventricular system" name="Ventricular system" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1276" label="Ventricular system" name="Ventricular system" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1318" label="Ventricular system" name="Ventricular system" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1352" label="Ventricular system" name="Ventricular system" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1391" label="Ventricular system" name="Ventricular system" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1429" label="Ventricular system" name="Ventricular system" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1583" label="Ventricular system" name="Ventricular system" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1649" label="Ventricular system" name="Ventricular system" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1696" label="Ventricular system" name="Ventricular system" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="1977" label="Ventricular system" name="Ventricular system" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2027" label="Ventricular system" name="Ventricular system" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2077" label="Ventricular system" name="Ventricular system" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2131" label="Ventricular system" name="Ventricular system" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2180" label="Ventricular system" name="Ventricular system" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2227" label="Ventricular system" name="Ventricular system" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2263" label="Ventricular system" name="Ventricular system" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2321" label="Ventricular system" name="Ventricular system" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2380" label="Ventricular system" name="Ventricular system" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2442" label="Ventricular system" name="Ventricular system" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="3340" label="Ventricular system" name="Ventricular system" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3387" label="Ventricular system" name="Ventricular system" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3434" label="Ventricular system" name="Ventricular system" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3487" label="Ventricular system" name="Ventricular system" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3540" label="Ventricular system" name="Ventricular system" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3592" label="Ventricular system" name="Ventricular system" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3641" label="Ventricular system" name="Ventricular system" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3692" label="Ventricular system" name="Ventricular system" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3740" label="Ventricular system" name="Ventricular system" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3779" label="Ventricular system" name="Ventricular system" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="3805" label="Ventricular system" name="Ventricular system" file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="3825" label="Ventricular system" name="Ventricular system" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+<item id="3846" label="Ventricular system" name="Ventricular system" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3868" label="Ventricular system" name="Ventricular system" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="5962" label="Ventricular system" name="Ventricular system" file_id="307"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/30 Midbrain+Diencephalon]]>
+</item>
+<item id="5999" label="Ventricular system" name="Ventricular system" file_id="308"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/31 Midbrain+Diencephalon]]>
+</item>
+<item id="6031" label="Ventricular system" name="Ventricular system" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+<item id="6074" label="Ventricular system" name="Ventricular system" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6115" label="Ventricular system" name="Ventricular system" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6159" label="Ventricular system" name="Ventricular system" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6198" label="Ventricular system" name="Ventricular system" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+</info>

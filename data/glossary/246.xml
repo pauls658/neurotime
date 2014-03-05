@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebrum, Parietal lobe]]></name>
+<description><![CDATA[<p>The <b>parietal lobe </b>is the most centrally located lobe of the cerebral hemisphere, bounded by the frontal, occipital and temporal lobes. The parietal lobe is noted for functionally important areas:  the post-central gyrus is primary somatosensory cortex, the inferior parietal lobule is important for language comprehension and areas of association cortex are involved with complex aspects of spatial orientation and perception.</p>]]></description>
+<item id="1172" label="Parietal" name="Parietal - arrow" file_id="82"><![CDATA[/MRI/Horizontal or Axial/MRI hor 1]]>
+</item>
+<item id="1189" label="Parietal" name="Parietal - arrow" file_id="83"><![CDATA[/MRI/Horizontal or Axial/MRI hor 2]]>
+</item>
+<item id="4734" label="Parietal" name="_ADDParietal" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="392" label="Parietal lobe" name="Parietal lobe" file_id="54"><![CDATA[/Gross/Cerebrum/Surface Features/1 Lateral View]]>
+</item>
+<item id="432" label="Parietal lobe" name="Parietal lobe" file_id="55"><![CDATA[/Gross/Cerebrum/Surface Features/2 Anterior Lateral View]]>
+</item>
+<item id="449" label="Parietal lobe" name="Parietal lobe" file_id="56"><![CDATA[/Gross/Cerebrum/Surface Features/3 Dorsal Lateral View]]>
+</item>
+<item id="480" label="Parietal lobe" name="Parietal lobe" file_id="57"><![CDATA[/Gross/Cerebrum/Surface Features/4 Lateral View]]>
+</item>
+<item id="496" label="Parietal lobe" name="Parietal lobe" file_id="58"><![CDATA[/Gross/Cerebrum/Surface Features/5 Dorsal Lateral View-Insula]]>
+</item>
+<item id="546" label="Parietal lobe" name="Parietal lobe" file_id="60"><![CDATA[/Gross/Cerebrum/Surface Features/7 Dorsal Lateral View]]>
+</item>
+<item id="717" label="Parietal lobe" name="Parietal lobe" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="2607" label="Parietal lobe" name="Parietal lobe" file_id="131"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/1 Hor from Superior]]>
+</item>
+<item id="2615" label="Parietal lobe" name="Parietal lobe" file_id="132"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/2 Hor from Superior]]>
+</item>
+<item id="2621" label="Parietal lobe" name="Parietal lobe" file_id="133"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/3 Hor from Superior]]>
+</item>
+<item id="2629" label="Parietal lobe" name="Parietal lobe" file_id="134"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/4 Hor from Superior]]>
+</item>
+<item id="2706" label="Parietal lobe" name="Parietal lobe" file_id="138"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/8 Hor from Inferior]]>
+</item>
+<item id="2711" label="Parietal lobe" name="Parietal lobe" file_id="139"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/9 Hor from Inferior]]>
+</item>
+<item id="2791" label="Parietal lobe" name="Parietal lobe" file_id="143"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/13 Hor from Inferior]]>
+</item>
+<item id="3227" label="Parietal lobe" name="Parietal lobe" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="4639" label="Parietal lobe" name="Parietal lobe" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="522" label="Parietal lobes" name="Parietal lobe" file_id="59"><![CDATA[/Gross/Cerebrum/Surface Features/6 Dorsal View]]>
+</item>
+</info>

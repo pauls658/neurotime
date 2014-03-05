@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Nucleus accumbens]]></name>
+<description><![CDATA[<p>The <b>nucleus accumbens</b> is the ventromedial component of the ventral striatum that has extensive limbic system connections.</p>]]></description>
+<item id="802" label="Nucleus accumbens" name="Nucleus accumbens" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="2012" label="Nucleus accumbens" name="Nucleus accumbens" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="3298" label="Nucleus accumbens" name="Nucleus accumbens" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3329" label="Nucleus accumbens" name="Nucleus accumbens" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3370" label="Nucleus accumbens" name="Nucleus accumbens" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="6181" label="Nucleus accumbens" name="Nucleus accumbens" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="6222" label="Nucleus accumbens" name="Nucleus accumbens" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+</info>

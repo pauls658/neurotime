@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info title="MRI hor 12">
+<item id="1546" label="Visual pathway, eyes" zorder="26" name="Visual pathway, eyes" x="79" y="44" tabs="0"><description><![CDATA[<p>The <b>eyeball</b> is located within the bony orbit of the facial skeleton. &nbsp;The eye contains the optical apparatus of the visual system. &nbsp;The optical path travels from the front to the back of the eye through the following sequence of structures: cornea, anterior chamber, iris,&nbsp;posterior chamber,&nbsp;lens, vitreous body, retina.</p>]]></description><shape>
+<vertex x="550" y="140" cx="547" cy="140"/>
+<vertex x="550" y="138" cx="550" cy="138"/>
+<vertex x="550" y="120" cx="550" cy="129"/>
+<vertex x="547" y="118" cx="547" cy="120"/>
+<vertex x="509" y="94" cx="532" cy="101"/>
+<vertex x="506" y="94" cx="506" cy="94"/>
+<vertex x="481" y="94" cx="494" cy="94"/>
+<vertex x="478" y="94" cx="481" cy="94"/>
+<vertex x="450" y="131" cx="453" cy="101"/>
+<vertex x="463" y="163" cx="450" cy="153"/>
+<vertex x="465" y="166" cx="465" cy="163"/>
+<vertex x="526" y="170" cx="491" cy="179"/>
+<vertex x="528" y="170" cx="526" cy="170"/>
+<vertex x="547" y="140" cx="541" cy="159"/>
+</shape><shape>
+<vertex x="261" y="161" cx="261" cy="161"/>
+<vertex x="265" y="122" cx="265" cy="144"/>
+<vertex x="263" y="120" cx="265" cy="120"/>
+<vertex x="198" y="107" cx="241" cy="101"/>
+<vertex x="196" y="107" cx="196" cy="107"/>
+<vertex x="170" y="133" cx="179" cy="116"/>
+<vertex x="170" y="151" cx="170" cy="142"/>
+<vertex x="170" y="153" cx="170" cy="151"/>
+<vertex x="207" y="181" cx="176" cy="176"/>
+<vertex x="209" y="183" cx="209" cy="181"/>
+<vertex x="215" y="183" cx="211" cy="183"/>
+<vertex x="217" y="183" cx="215" cy="183"/>
+<vertex x="217" y="181" cx="217" cy="181"/>
+<vertex x="261" y="163" cx="243" cy="176"/>
+</shape></item>
+<item id="1545" label="Lens" zorder="25" name="Lens" x="90" y="46" tabs="1"><description><![CDATA[<p>The <b>lens</b> is a transparent, biconvex structure located in the anterior segment of the <b>eye</b>. &nbsp;Along with the cornea, the lens refracts light so that it is focused on the retina.</p>]]></description><shape>
+<vertex x="487" y="99" cx="489" cy="99"/>
+<vertex x="481" y="103" cx="485" cy="101"/>
+<vertex x="491" y="101" cx="485" cy="112"/>
+<vertex x="494" y="101" cx="491" cy="101"/>
+<vertex x="491" y="99" cx="494" cy="99"/>
+<vertex x="489" y="99" cx="491" cy="99"/>
+</shape><shape>
+<vertex x="200" y="120" cx="200" cy="120"/>
+<vertex x="194" y="118" cx="217" cy="103"/>
+<vertex x="198" y="122" cx="192" cy="122"/>
+<vertex x="200" y="122" cx="198" cy="122"/>
+</shape></item>
+<item id="1544" label="Vitreous" zorder="24" name="Vitreous" x="81" y="49" tabs="1"><description><![CDATA[<p>The <b>viteous of the eye</b> is the gelatinous material filling the large space between the lens and the retina.</p>]]></description><shape>
+<vertex x="545" y="140" cx="545" cy="140"/>
+<vertex x="545" y="122" cx="545" cy="131"/>
+<vertex x="543" y="120" cx="543" cy="122"/>
+<vertex x="524" y="105" cx="535" cy="110"/>
+<vertex x="522" y="105" cx="522" cy="105"/>
+<vertex x="498" y="105" cx="509" cy="105"/>
+<vertex x="498" y="105" cx="498" cy="105"/>
+<vertex x="455" y="120" cx="468" cy="105"/>
+<vertex x="455" y="140" cx="455" cy="129"/>
+<vertex x="455" y="142" cx="455" cy="140"/>
+<vertex x="463" y="159" cx="459" cy="151"/>
+<vertex x="465" y="161" cx="465" cy="159"/>
+<vertex x="485" y="168" cx="476" cy="163"/>
+<vertex x="487" y="170" cx="487" cy="168"/>
+<vertex x="517" y="170" cx="502" cy="170"/>
+<vertex x="519" y="170" cx="517" cy="170"/>
+<vertex x="543" y="142" cx="537" cy="161"/>
+<vertex x="545" y="142" cx="543" cy="142"/>
+</shape><shape>
+<vertex x="224" y="112" cx="226" cy="112"/>
+<vertex x="174" y="138" cx="196" cy="122"/>
+<vertex x="174" y="151" cx="174" cy="144"/>
+<vertex x="174" y="153" cx="174" cy="151"/>
+<vertex x="198" y="176" cx="181" cy="170"/>
+<vertex x="200" y="179" cx="200" cy="176"/>
+<vertex x="222" y="179" cx="211" cy="179"/>
+<vertex x="224" y="179" cx="222" cy="179"/>
+<vertex x="224" y="176" cx="224" cy="176"/>
+<vertex x="261" y="157" cx="248" cy="172"/>
+<vertex x="261" y="155" cx="261" cy="155"/>
+<vertex x="254" y="116" cx="267" cy="129"/>
+<vertex x="252" y="114" cx="252" cy="116"/>
+<vertex x="226" y="112" cx="243" cy="107"/>
+</shape></item>
+<item id="1543" label="Pons" zorder="23" name="Pons" x="139" y="195" tabs="0"><description><![CDATA[<p>The <b>pons</b> is that portion of the brainstem between the midbrain and medulla. It consists of a basilar or basal portion that contains structures primarily associated with motor control and a tegmental portion that contains cranial nerve nuclei and important sensory tracts. The cerebellum overlies the pons and medulla. The rostral aspect of the fourth ventricle is located on the dorsal surface of the pons. The pons and cerebellum originate embryologically from the metencephalon of the hindbrain.</p>]]></description><shape>
+<vertex x="353" y="420" cx="360" cy="422"/>
+<vertex x="351" y="420" cx="351" cy="420"/>
+<vertex x="334" y="420" cx="343" cy="420"/>
+<vertex x="332" y="420" cx="334" cy="420"/>
+<vertex x="299" y="450" cx="308" cy="427"/>
+<vertex x="299" y="491" cx="299" cy="470"/>
+<vertex x="299" y="494" cx="299" cy="491"/>
+<vertex x="345" y="543" cx="323" cy="515"/>
+<vertex x="347" y="545" cx="347" cy="543"/>
+<vertex x="384" y="545" cx="364" cy="545"/>
+<vertex x="386" y="545" cx="384" cy="545"/>
+<vertex x="386" y="543" cx="386" cy="543"/>
+<vertex x="429" y="487" cx="409" cy="517"/>
+<vertex x="431" y="487" cx="429" cy="487"/>
+<vertex x="431" y="485" cx="431" cy="485"/>
+<vertex x="431" y="457" cx="431" cy="470"/>
+<vertex x="429" y="455" cx="429" cy="457"/>
+<vertex x="405" y="420" cx="420" cy="433"/>
+<vertex x="403" y="420" cx="403" cy="420"/>
+<vertex x="375" y="420" cx="388" cy="420"/>
+<vertex x="373" y="420" cx="375" cy="420"/>
+</shape></item>
+<item id="1542" label="Tegmentum" zorder="22" name="Tegmentum" x="146" y="229" tabs="1"><description><![CDATA[<p>The <b>tegmentum</b> or <b>tegmental pons </b>forms&nbsp;the dorsal aspect of the pons. &nbsp;It is continuous with the tegmental portions of both the midbrain and medulla. Includes cranial nerve nuclei and clinically important sensory tracts [medial lemniscal, spinothalamic, lateral lemniscal]. The rostral aspect of the fourth ventricle is located on it dorsal surface.</p>]]></description><shape>
+<vertex x="334" y="494" cx="336" cy="494"/>
+<vertex x="314" y="504" cx="321" cy="496"/>
+<vertex x="314" y="506" cx="314" cy="504"/>
+<vertex x="345" y="543" cx="327" cy="526"/>
+<vertex x="347" y="545" cx="347" cy="543"/>
+<vertex x="384" y="545" cx="364" cy="545"/>
+<vertex x="386" y="545" cx="384" cy="545"/>
+<vertex x="386" y="543" cx="386" cy="543"/>
+<vertex x="412" y="509" cx="403" cy="530"/>
+<vertex x="414" y="509" cx="412" cy="509"/>
+<vertex x="414" y="506" cx="414" cy="506"/>
+<vertex x="414" y="504" cx="414" cy="504"/>
+<vertex x="412" y="502" cx="412" cy="504"/>
+<vertex x="379" y="494" cx="394" cy="498"/>
+<vertex x="377" y="494" cx="377" cy="494"/>
+<vertex x="336" y="494" cx="355" cy="494"/>
+</shape></item>
+<item id="1541" label="Basilar" zorder="21" name="Basilar" x="139" y="195" tabs="1"><description><![CDATA[<p>The <b>basilar pons</b> is AKA the <b>basal pons</b>. It is the ventral portion of the pons that includes the following important elements that are primarily involved in motor control:  corticospinal, corticobulbar, corticospinal and pontocerebellar tracts plus the pontine nuclei.  Thus, it serves as a conduit for descending motor pathways from cerebral cortex to the pons, medulla and spinal cord.  In addition, it connects the cerebral cortex with the cerebellum via synapses of the corticopontine fibers on pontine nuclei that then give origin to the pontocerebellar fibers which terminate in cerebellum.</p>]]></description><shape>
+<vertex x="353" y="420" cx="360" cy="422"/>
+<vertex x="351" y="420" cx="351" cy="420"/>
+<vertex x="334" y="420" cx="343" cy="420"/>
+<vertex x="332" y="420" cx="334" cy="420"/>
+<vertex x="299" y="450" cx="308" cy="427"/>
+<vertex x="299" y="491" cx="299" cy="470"/>
+<vertex x="299" y="494" cx="299" cy="491"/>
+<vertex x="330" y="496" cx="310" cy="509"/>
+<vertex x="332" y="496" cx="332" cy="496"/>
+<vertex x="409" y="506" cx="379" cy="489"/>
+<vertex x="412" y="509" cx="412" cy="506"/>
+<vertex x="414" y="509" cx="412" cy="509"/>
+<vertex x="416" y="509" cx="414" cy="509"/>
+<vertex x="416" y="506" cx="416" cy="506"/>
+<vertex x="429" y="487" cx="427" cy="500"/>
+<vertex x="431" y="487" cx="429" cy="487"/>
+<vertex x="431" y="485" cx="431" cy="485"/>
+<vertex x="431" y="457" cx="431" cy="470"/>
+<vertex x="429" y="455" cx="429" cy="457"/>
+<vertex x="405" y="420" cx="420" cy="433"/>
+<vertex x="403" y="420" cx="403" cy="420"/>
+<vertex x="375" y="420" cx="388" cy="420"/>
+<vertex x="373" y="420" cx="375" cy="420"/>
+</shape></item>
+<item id="1540" label="Cerebellum" zorder="20" name="Cerebellum" x="99" y="219" tabs="0"><description><![CDATA[<p>The <b>cerebellum</b> is sometimes referred to as the 'small' brain. &nbsp;It is located within the posterior fossa, superior to the brain stem.  It consists of a finely convoluted cortical surface of folia, a central core of white matter (AKA medullary center) and four paired deep nuclei (dentate, emboliform, fastigial and globose) embedded within the white matter core.  The cerebellum functions in the planning and coordination of movement.</p>]]></description><shape>
+<vertex x="271" y="472" cx="271" cy="472"/>
+<vertex x="267" y="472" cx="269" cy="472"/>
+<vertex x="254" y="485" cx="265" cy="483"/>
+<vertex x="228" y="530" cx="228" cy="496"/>
+<vertex x="226" y="530" cx="228" cy="530"/>
+<vertex x="213" y="560" cx="220" cy="545"/>
+<vertex x="213" y="571" cx="213" cy="565"/>
+<vertex x="213" y="573" cx="213" cy="571"/>
+<vertex x="220" y="606" cx="228" cy="586"/>
+<vertex x="220" y="608" cx="220" cy="608"/>
+<vertex x="243" y="651" cx="226" cy="634"/>
+<vertex x="282" y="686" cx="263" cy="668"/>
+<vertex x="293" y="686" cx="286" cy="686"/>
+<vertex x="295" y="686" cx="293" cy="686"/>
+<vertex x="295" y="683" cx="295" cy="683"/>
+<vertex x="319" y="670" cx="306" cy="677"/>
+<vertex x="325" y="668" cx="321" cy="670"/>
+<vertex x="330" y="668" cx="327" cy="668"/>
+<vertex x="371" y="668" cx="347" cy="679"/>
+<vertex x="373" y="668" cx="373" cy="668"/>
+<vertex x="403" y="675" cx="384" cy="675"/>
+<vertex x="405" y="675" cx="403" cy="675"/>
+<vertex x="485" y="606" cx="453" cy="647"/>
+<vertex x="487" y="606" cx="485" cy="606"/>
+<vertex x="496" y="554" cx="489" cy="578"/>
+<vertex x="498" y="554" cx="496" cy="554"/>
+<vertex x="498" y="552" cx="498" cy="552"/>
+<vertex x="498" y="522" cx="498" cy="537"/>
+<vertex x="496" y="519" cx="496" cy="522"/>
+<vertex x="476" y="485" cx="487" cy="500"/>
+<vertex x="474" y="485" cx="474" cy="485"/>
+<vertex x="442" y="491" cx="457" cy="487"/>
+<vertex x="440" y="491" cx="442" cy="491"/>
+<vertex x="388" y="543" cx="412" cy="515"/>
+<vertex x="386" y="543" cx="386" cy="543"/>
+<vertex x="355" y="547" cx="371" cy="545"/>
+<vertex x="353" y="541" cx="355" cy="543"/>
+<vertex x="273" y="472" cx="312" cy="509"/>
+</shape></item>
+<item id="1539" label="Hemispheres" zorder="19" name="Hemispheres" x="99" y="219" tabs="1"><description><![CDATA[<p>The <b>cerebellar hemispheres</b> are the largest portion of the cerebellum located on either side of the midline vermis. They are functionally important relative to coordination of the limbs.</p>]]></description><shape>
+<vertex x="271" y="472" cx="271" cy="472"/>
+<vertex x="267" y="472" cx="269" cy="472"/>
+<vertex x="254" y="485" cx="265" cy="483"/>
+<vertex x="228" y="530" cx="228" cy="496"/>
+<vertex x="226" y="530" cx="228" cy="530"/>
+<vertex x="213" y="560" cx="220" cy="545"/>
+<vertex x="213" y="571" cx="213" cy="565"/>
+<vertex x="213" y="573" cx="213" cy="571"/>
+<vertex x="220" y="606" cx="228" cy="586"/>
+<vertex x="220" y="608" cx="220" cy="608"/>
+<vertex x="243" y="651" cx="226" cy="634"/>
+<vertex x="282" y="686" cx="263" cy="668"/>
+<vertex x="293" y="686" cx="286" cy="686"/>
+<vertex x="295" y="686" cx="293" cy="686"/>
+<vertex x="304" y="679" cx="297" cy="679"/>
+<vertex x="310" y="677" cx="306" cy="679"/>
+<vertex x="332" y="670" cx="321" cy="668"/>
+<vertex x="336" y="668" cx="336" cy="670"/>
+<vertex x="349" y="547" cx="338" cy="604"/>
+<vertex x="347" y="545" cx="349" cy="545"/>
+<vertex x="273" y="472" cx="312" cy="506"/>
+</shape><shape>
+<vertex x="442" y="491" cx="457" cy="487"/>
+<vertex x="440" y="491" cx="442" cy="491"/>
+<vertex x="392" y="541" cx="412" cy="513"/>
+<vertex x="392" y="543" cx="392" cy="541"/>
+<vertex x="379" y="668" cx="392" cy="612"/>
+<vertex x="412" y="670" cx="394" cy="681"/>
+<vertex x="487" y="606" cx="457" cy="645"/>
+<vertex x="496" y="554" cx="489" cy="578"/>
+<vertex x="498" y="554" cx="496" cy="554"/>
+<vertex x="498" y="552" cx="498" cy="552"/>
+<vertex x="498" y="522" cx="498" cy="537"/>
+<vertex x="496" y="519" cx="496" cy="522"/>
+<vertex x="476" y="485" cx="487" cy="500"/>
+<vertex x="474" y="485" cx="474" cy="485"/>
+</shape></item>
+<item id="1538" label="Vermis" zorder="18" name="Vermis" x="156" y="251" tabs="1"><description><![CDATA[<p>The <b>vermis</b> of the cerebellum is the most medial region, i.e. the narrow midline section associated with the anterior, posterior and flocculonodular lobes of the cerebellum.</p>]]></description><shape>
+<vertex x="351" y="547" cx="366" cy="545"/>
+<vertex x="349" y="547" cx="349" cy="547"/>
+<vertex x="336" y="668" cx="338" cy="604"/>
+<vertex x="358" y="675" cx="338" cy="677"/>
+<vertex x="360" y="675" cx="358" cy="675"/>
+<vertex x="360" y="673" cx="360" cy="673"/>
+<vertex x="379" y="668" cx="373" cy="670"/>
+<vertex x="381" y="668" cx="379" cy="668"/>
+<vertex x="390" y="569" cx="390" cy="623"/>
+<vertex x="392" y="569" cx="390" cy="569"/>
+<vertex x="392" y="567" cx="392" cy="567"/>
+<vertex x="390" y="541" cx="392" cy="550"/>
+<vertex x="388" y="541" cx="390" cy="541"/>
+</shape></item>
+<item id="1537" label="Arteries, branches of" zorder="17" name="Arteries_branches of" x="127" y="147" tabs="0"><description><![CDATA[<p>The <b>arterial supply to the brain</b> is via the paired internal carotid and vertebral arteries. The terminal branches of the internal carotid arteries are the paired anterior and middle cerebral arteries which supply supratentorial structures. &nbsp;The two vertebral arteries enter the cranial cavity via the foramen magnum; they join one another at the junction of the medulla with the pons to form the basilar artery. &nbsp;Together the vertebral-basilar system of arteries supplies the structures of the posterior fossa as well as those supratentorial structures supplied by its terminal branches -- the posterior cerebral arteries.</p>]]></description><shape>
+<vertex x="437" y="317" cx="437" cy="317"/>
+<vertex x="435" y="317" cx="435" cy="317"/>
+<vertex x="425" y="317" cx="429" cy="317"/>
+<vertex x="427" y="334" cx="405" cy="327"/>
+<vertex x="427" y="336" cx="429" cy="336"/>
+<vertex x="396" y="347" cx="412" cy="343"/>
+<vertex x="412" y="377" cx="401" cy="364"/>
+<vertex x="414" y="379" cx="412" cy="379"/>
+<vertex x="429" y="351" cx="427" cy="371"/>
+<vertex x="437" y="345" cx="429" cy="345"/>
+<vertex x="437" y="317" cx="442" cy="330"/>
+</shape><shape>
+<vertex x="366" y="416" cx="362" cy="420"/>
+<vertex x="360" y="405" cx="384" cy="401"/>
+<vertex x="362" y="416" cx="360" cy="412"/>
+</shape><shape>
+<vertex x="403" y="416" cx="416" cy="399"/>
+<vertex x="431" y="446" cx="414" cy="433"/>
+<vertex x="433" y="448" cx="433" cy="446"/>
+<vertex x="433" y="470" cx="433" cy="461"/>
+<vertex x="446" y="494" cx="431" cy="487"/>
+<vertex x="448" y="494" cx="446" cy="494"/>
+<vertex x="450" y="494" cx="448" cy="494"/>
+<vertex x="450" y="491" cx="450" cy="491"/>
+<vertex x="457" y="474" cx="455" cy="481"/>
+<vertex x="459" y="474" cx="457" cy="474"/>
+<vertex x="459" y="472" cx="459" cy="472"/>
+<vertex x="459" y="470" cx="459" cy="470"/>
+<vertex x="457" y="468" cx="457" cy="470"/>
+<vertex x="442" y="448" cx="435" cy="465"/>
+<vertex x="425" y="416" cx="433" cy="433"/>
+</shape><shape>
+<vertex x="308" y="345" cx="317" cy="349"/>
+<vertex x="304" y="347" cx="306" cy="345"/>
+<vertex x="293" y="366" cx="297" cy="353"/>
+<vertex x="293" y="377" cx="291" cy="373"/>
+<vertex x="304" y="377" cx="295" cy="381"/>
+<vertex x="325" y="355" cx="314" cy="368"/>
+</shape><shape>
+<vertex x="295" y="334" cx="280" cy="338"/>
+<vertex x="299" y="330" cx="299" cy="332"/>
+<vertex x="280" y="323" cx="297" cy="310"/>
+</shape><shape>
+<vertex x="308" y="412" cx="317" cy="416"/>
+<vertex x="295" y="420" cx="297" cy="412"/>
+<vertex x="273" y="465" cx="289" cy="448"/>
+<vertex x="273" y="468" cx="273" cy="465"/>
+<vertex x="273" y="470" cx="273" cy="468"/>
+<vertex x="273" y="470" cx="273" cy="470"/>
+<vertex x="297" y="476" cx="289" cy="487"/>
+<vertex x="297" y="476" cx="297" cy="476"/>
+<vertex x="317" y="425" cx="291" cy="442"/>
+<vertex x="317" y="422" cx="317" cy="422"/>
+</shape></item>
+<item id="1536" label="Internal carotid" zorder="16" name="Internal carotid" x="130" y="147" tabs="1"><description><![CDATA[<p>With the verbebral arteries, the <b>internal carotid arteries</b> provide the blood supply to the brain.  The internal carotid branches from the common carotid in the neck and enters the base of the skull via the carotid canal.  As it enters the Circle of Willis, it divides into its two terminal branches:  the middle and anterior cerebral arteries.</p>]]></description><shape>
+<vertex x="427" y="336" cx="429" cy="336"/>
+<vertex x="396" y="347" cx="412" cy="343"/>
+<vertex x="412" y="377" cx="401" cy="364"/>
+<vertex x="414" y="379" cx="412" cy="379"/>
+<vertex x="429" y="353" cx="427" cy="373"/>
+<vertex x="435" y="340" cx="429" cy="345"/>
+<vertex x="440" y="340" cx="437" cy="340"/>
+<vertex x="440" y="338" cx="440" cy="338"/>
+<vertex x="425" y="317" cx="444" cy="312"/>
+<vertex x="427" y="334" cx="405" cy="327"/>
+</shape><shape>
+<vertex x="323" y="358" cx="323" cy="358"/>
+<vertex x="293" y="340" cx="312" cy="343"/>
+<vertex x="295" y="379" cx="293" cy="362"/>
+<vertex x="297" y="381" cx="297" cy="379"/>
+<vertex x="310" y="381" cx="304" cy="381"/>
+<vertex x="312" y="381" cx="310" cy="381"/>
+<vertex x="312" y="379" cx="312" cy="379"/>
+<vertex x="323" y="358" cx="314" cy="364"/>
+</shape><shape>
+<vertex x="299" y="330" cx="299" cy="332"/>
+<vertex x="280" y="323" cx="302" cy="310"/>
+<vertex x="280" y="327" cx="280" cy="325"/>
+<vertex x="280" y="330" cx="280" cy="327"/>
+<vertex x="297" y="332" cx="286" cy="336"/>
+</shape></item>
+<item id="1535" label="Basilar" zorder="15" name="Basilar_1" x="167" y="187" tabs="1"><description><![CDATA[<p>The two vertebral arteries fuse at the junction of the medulla and pons to form the <b>basilar artery</b>.  At the junction of the pons and midbrain, the basilar bifurcates into two terminal branches, the posterior cerebral arteries.  Branches of the basilar &amp; posterior cerebral arteries supply parts of the brain stem, cerebellum, posterior aspects of the diencephalon, choroid plexus in the third and lateral ventricles and the medial and inferior surfaces of the occipital and temporal lobes of the cerebral hemispheres.</p>]]></description><shape>
+<vertex x="371" y="418" cx="371" cy="420"/>
+<vertex x="360" y="403" cx="384" cy="399"/>
+<vertex x="366" y="418" cx="355" cy="418"/>
+</shape></item>
+<item id="1534" label="Anterior inferior cerebellar" zorder="14" name="Ant. inf. cerebellar" x="127" y="189" tabs="1"><description><![CDATA[<p>The <b>anterior inferior cerebellar artery</b> [AICA] is a branch from the basilar artery just rostral to where the two vertebral arteries unite to form the basilar.  It supplies the more anterior portions of the inferior surface of the cerebellum such as the flocculus plus parts of the caudal pons.</p>]]></description><shape>
+<vertex x="407" y="407" cx="409" cy="407"/>
+<vertex x="403" y="416" cx="405" cy="412"/>
+<vertex x="431" y="446" cx="414" cy="433"/>
+<vertex x="433" y="448" cx="433" cy="446"/>
+<vertex x="433" y="470" cx="433" cy="461"/>
+<vertex x="446" y="494" cx="431" cy="487"/>
+<vertex x="448" y="494" cx="446" cy="494"/>
+<vertex x="450" y="494" cx="448" cy="494"/>
+<vertex x="450" y="491" cx="450" cy="491"/>
+<vertex x="457" y="474" cx="455" cy="481"/>
+<vertex x="459" y="474" cx="457" cy="474"/>
+<vertex x="459" y="472" cx="459" cy="472"/>
+<vertex x="459" y="470" cx="459" cy="470"/>
+<vertex x="457" y="468" cx="457" cy="470"/>
+<vertex x="442" y="448" cx="435" cy="465"/>
+<vertex x="440" y="446" cx="442" cy="446"/>
+<vertex x="425" y="407" cx="431" cy="427"/>
+<vertex x="422" y="407" cx="422" cy="407"/>
+<vertex x="409" y="407" cx="416" cy="407"/>
+</shape><shape>
+<vertex x="308" y="412" cx="317" cy="416"/>
+<vertex x="295" y="420" cx="297" cy="412"/>
+<vertex x="273" y="465" cx="289" cy="448"/>
+<vertex x="273" y="468" cx="273" cy="465"/>
+<vertex x="273" y="470" cx="273" cy="468"/>
+<vertex x="273" y="470" cx="273" cy="470"/>
+<vertex x="289" y="481" cx="278" cy="476"/>
+<vertex x="289" y="481" cx="289" cy="481"/>
+<vertex x="297" y="476" cx="297" cy="487"/>
+<vertex x="297" y="476" cx="297" cy="476"/>
+<vertex x="317" y="425" cx="291" cy="442"/>
+<vertex x="317" y="422" cx="317" cy="422"/>
+</shape></item>
+<item id="1533" label="Cerebral veins, Superficial" zorder="13" name="Cerebral veins     Superficial" x="62" y="122" tabs="0"><description><![CDATA[<p><b>Cerebral veins</b> are described as <b>superficial</b> or deep, depending on whether they drain the superficial or deep aspects of the brain. &nbsp;In general, the superficial veins lie on the surface of the cerebral hemispheres, where most empty into the superior sagittal sinus.</p>]]></description><shape>
+<vertex x="513" y="263" cx="515" cy="263"/>
+<vertex x="491" y="276" cx="498" cy="265"/>
+<vertex x="509" y="271" cx="496" cy="280"/>
+<vertex x="511" y="271" cx="511" cy="271"/>
+<vertex x="537" y="265" cx="530" cy="273"/>
+<vertex x="535" y="263" cx="537" cy="265"/>
+<vertex x="532" y="263" cx="532" cy="263"/>
+<vertex x="530" y="263" cx="530" cy="263"/>
+<vertex x="515" y="263" cx="522" cy="263"/>
+</shape><shape>
+<vertex x="474" y="295" cx="474" cy="295"/>
+<vertex x="489" y="269" cx="489" cy="291"/>
+<vertex x="489" y="267" cx="489" cy="267"/>
+<vertex x="474" y="295" cx="478" cy="278"/>
+</shape><shape>
+<vertex x="159" y="284" cx="159" cy="284"/>
+<vertex x="133" y="306" cx="142" cy="291"/>
+<vertex x="133" y="314" cx="133" cy="310"/>
+<vertex x="133" y="317" cx="133" cy="314"/>
+<vertex x="133" y="314" cx="133" cy="317"/>
+<vertex x="161" y="284" cx="151" cy="308"/>
+</shape><shape>
+<vertex x="645" y="465" cx="645" cy="476"/>
+<vertex x="642" y="463" cx="642" cy="463"/>
+<vertex x="606" y="530" cx="634" cy="509"/>
+<vertex x="636" y="511" cx="627" cy="532"/>
+<vertex x="638" y="511" cx="636" cy="511"/>
+<vertex x="642" y="489" cx="640" cy="500"/>
+<vertex x="645" y="489" cx="642" cy="489"/>
+<vertex x="645" y="487" cx="645" cy="487"/>
+</shape><shape>
+<vertex x="597" y="653" cx="597" cy="653"/>
+<vertex x="586" y="645" cx="601" cy="638"/>
+<vertex x="588" y="653" cx="584" cy="651"/>
+<vertex x="591" y="655" cx="591" cy="653"/>
+<vertex x="595" y="655" cx="593" cy="655"/>
+<vertex x="597" y="655" cx="595" cy="655"/>
+</shape></item>
+<item id="1532" label="Dural venous sinuses" zorder="12" name="Dural venous sinuses" x="72" y="116" tabs="0"><description><![CDATA[<p>The<b> dural venous sinuses</b> are endothelial-lined spaces between the periosteal and meningeal layers of the dura. &nbsp;They form where the meningeal layer of the dura is reflected away from the surface of the skull and into the spaces between parts of the brain such as the longitudinal fissure. &nbsp;Included are the superior sagittal, inferior sagittal, straight, transverse, occipital, sigmoid, cavernous, superior petrosal, and inferior petrosal sinuses. &nbsp;Most of the blood from the brain empties into these sinuses before draining into the internal jugular veins and leaving the cranium.</p>]]></description><shape>
+<vertex x="500" y="258" cx="500" cy="258"/>
+<vertex x="550" y="258" cx="526" cy="256"/>
+<vertex x="552" y="261" cx="550" cy="261"/>
+<vertex x="550" y="256" cx="552" cy="256"/>
+<vertex x="509" y="250" cx="535" cy="245"/>
+<vertex x="455" y="293" cx="470" cy="258"/>
+<vertex x="427" y="362" cx="442" cy="327"/>
+<vertex x="433" y="388" cx="425" cy="379"/>
+<vertex x="435" y="390" cx="435" cy="388"/>
+<vertex x="444" y="364" cx="444" cy="381"/>
+<vertex x="455" y="312" cx="446" cy="336"/>
+<vertex x="483" y="265" cx="468" cy="289"/>
+<vertex x="485" y="265" cx="485" cy="265"/>
+<vertex x="498" y="258" cx="491" cy="261"/>
+</shape><shape>
+<vertex x="405" y="392" cx="401" cy="390"/>
+<vertex x="442" y="431" cx="435" cy="399"/>
+<vertex x="476" y="483" cx="448" cy="465"/>
+<vertex x="472" y="463" cx="476" cy="470"/>
+<vertex x="465" y="448" cx="468" cy="457"/>
+<vertex x="403" y="384" cx="455" cy="394"/>
+</shape><shape>
+<vertex x="155" y="284" cx="155" cy="282"/>
+<vertex x="159" y="282" cx="157" cy="284"/>
+<vertex x="222" y="267" cx="183" cy="267"/>
+<vertex x="222" y="267" cx="222" cy="267"/>
+<vertex x="248" y="284" cx="235" cy="273"/>
+<vertex x="278" y="364" cx="269" cy="317"/>
+<vertex x="286" y="386" cx="280" cy="381"/>
+<vertex x="286" y="386" cx="286" cy="386"/>
+<vertex x="224" y="258" cx="286" cy="297"/>
+<vertex x="222" y="258" cx="222" cy="258"/>
+<vertex x="192" y="258" cx="207" cy="258"/>
+<vertex x="189" y="258" cx="192" cy="258"/>
+<vertex x="155" y="282" cx="168" cy="267"/>
+</shape><shape>
+<vertex x="304" y="392" cx="304" cy="401"/>
+<vertex x="302" y="392" cx="302" cy="392"/>
+<vertex x="252" y="453" cx="267" cy="414"/>
+<vertex x="250" y="459" cx="252" cy="455"/>
+<vertex x="252" y="459" cx="250" cy="461"/>
+<vertex x="291" y="412" cx="269" cy="431"/>
+</shape><shape>
+<vertex x="340" y="768" cx="338" cy="768"/>
+<vertex x="401" y="778" cx="368" cy="774"/>
+<vertex x="403" y="780" cx="403" cy="778"/>
+<vertex x="431" y="780" cx="416" cy="780"/>
+<vertex x="433" y="780" cx="431" cy="780"/>
+<vertex x="431" y="778" cx="433" cy="778"/>
+<vertex x="355" y="742" cx="379" cy="774"/>
+<vertex x="355" y="739" cx="355" cy="739"/>
+<vertex x="353" y="707" cx="358" cy="716"/>
+<vertex x="351" y="707" cx="351" cy="707"/>
+<vertex x="314" y="720" cx="338" cy="718"/>
+<vertex x="321" y="752" cx="317" cy="735"/>
+<vertex x="323" y="755" cx="323" cy="752"/>
+<vertex x="358" y="755" cx="343" cy="757"/>
+<vertex x="355" y="757" cx="355" cy="755"/>
+<vertex x="338" y="765" cx="336" cy="757"/>
+</shape><shape>
+<vertex x="379" y="677" cx="379" cy="679"/>
+<vertex x="349" y="686" cx="360" cy="675"/>
+<vertex x="351" y="692" cx="347" cy="690"/>
+<vertex x="381" y="679" cx="377" cy="707"/>
+</shape></item>
+<item id="1531" label="Straight" zorder="11" name="Straight" x="162" y="314" tabs="1"><description><![CDATA[<p>The <b>straight sinus </b>of the dural venous sinus system that is located in the midline region of the tentorium cerebelli.  The great cerebral vein of Galen and the basal vein empty into it and the straight sinus, in turn, drains into the confluence of the venous sinuses.</p>]]></description><shape>
+<vertex x="349" y="692" cx="349" cy="690"/>
+<vertex x="355" y="698" cx="353" cy="694"/>
+<vertex x="358" y="701" cx="358" cy="698"/>
+<vertex x="366" y="701" cx="362" cy="701"/>
+<vertex x="368" y="701" cx="366" cy="701"/>
+<vertex x="368" y="698" cx="368" cy="698"/>
+<vertex x="381" y="688" cx="377" cy="694"/>
+<vertex x="384" y="688" cx="381" cy="688"/>
+<vertex x="384" y="686" cx="384" cy="686"/>
+<vertex x="364" y="677" cx="381" cy="670"/>
+<vertex x="362" y="677" cx="364" cy="677"/>
+<vertex x="349" y="686" cx="355" cy="681"/>
+<vertex x="349" y="690" cx="349" cy="688"/>
+</shape></item>
+<item id="1530" label="Sphenoparietal" zorder="10" name="Sphenoparietal" x="72" y="116" tabs="1"><description><![CDATA[<p>The<b> sphenoparietal dural venous sinus </b>is located along the under surface of the small wing of the sphenoid bone. It drains into the cavernous sinus.</p>]]></description><shape>
+<vertex x="500" y="258" cx="500" cy="258"/>
+<vertex x="550" y="258" cx="526" cy="256"/>
+<vertex x="552" y="261" cx="550" cy="261"/>
+<vertex x="550" y="256" cx="552" cy="256"/>
+<vertex x="509" y="250" cx="535" cy="245"/>
+<vertex x="455" y="293" cx="470" cy="258"/>
+<vertex x="427" y="362" cx="442" cy="327"/>
+<vertex x="433" y="388" cx="425" cy="379"/>
+<vertex x="435" y="390" cx="435" cy="388"/>
+<vertex x="440" y="390" cx="437" cy="390"/>
+<vertex x="442" y="390" cx="440" cy="390"/>
+<vertex x="442" y="388" cx="442" cy="388"/>
+<vertex x="442" y="364" cx="442" cy="375"/>
+<vertex x="453" y="312" cx="448" cy="338"/>
+<vertex x="455" y="312" cx="455" cy="312"/>
+<vertex x="498" y="258" cx="468" cy="276"/>
+</shape><shape>
+<vertex x="155" y="284" cx="155" cy="282"/>
+<vertex x="159" y="282" cx="157" cy="284"/>
+<vertex x="222" y="267" cx="183" cy="267"/>
+<vertex x="278" y="362" cx="269" cy="295"/>
+<vertex x="286" y="386" cx="280" cy="381"/>
+<vertex x="286" y="386" cx="286" cy="386"/>
+<vertex x="224" y="258" cx="284" cy="297"/>
+<vertex x="222" y="258" cx="222" cy="258"/>
+<vertex x="192" y="258" cx="207" cy="258"/>
+<vertex x="189" y="258" cx="192" cy="258"/>
+<vertex x="155" y="282" cx="168" cy="267"/>
+</shape></item>
+<item id="1529" label="Superior petrosal" zorder="9" name="Superior petrosal" x="61" y="141" tabs="1"><description><![CDATA[<p>Each of the paired <b>s</b><b>uperior petrosal dural venous sinuses</b> runs from the cavernous sinus to join the ipsilateral transverse sinus at the junction of the transverse sinus with the sigmoid sinus. &nbsp;The superior petrosal sinus lies in the anterolateral attached margin of the cerebellar tentorium where it attaches to the superior border of the petrous portion of the temporal bone.</p>]]></description><shape>
+<vertex x="425" y="403" cx="414" cy="392"/>
+<vertex x="440" y="435" cx="435" cy="416"/>
+<vertex x="476" y="483" cx="448" cy="468"/>
+<vertex x="476" y="481" cx="476" cy="481"/>
+<vertex x="476" y="470" cx="476" cy="474"/>
+<vertex x="463" y="442" cx="465" cy="457"/>
+<vertex x="403" y="384" cx="450" cy="392"/>
+</shape><shape>
+<vertex x="304" y="392" cx="299" cy="405"/>
+<vertex x="302" y="392" cx="302" cy="392"/>
+<vertex x="252" y="453" cx="267" cy="414"/>
+<vertex x="252" y="455" cx="252" cy="455"/>
+<vertex x="267" y="444" cx="263" cy="459"/>
+<vertex x="284" y="418" cx="273" cy="429"/>
+</shape></item>
+<item id="1528" label="Transverse" zorder="8" name="Transverse" x="156" y="349" tabs="1"><description><![CDATA[<p>The <b>transverse dural venous sinuses</b> pass laterally from the confluence of the sinuses at the occipital protuberance. They travel along the posterolateral attached margins of the cerebellar tentorium and empty into or become the sigmoid sinuses as they approach the petrous portion of the temporal bone. &nbsp;Often the left transverse sinus is larger than its counterpart of the right.</p>]]></description><shape>
+<vertex x="336" y="765" cx="336" cy="763"/>
+<vertex x="401" y="778" cx="366" cy="774"/>
+<vertex x="403" y="780" cx="403" cy="778"/>
+<vertex x="431" y="778" cx="418" cy="780"/>
+<vertex x="433" y="778" cx="433" cy="778"/>
+<vertex x="431" y="776" cx="431" cy="778"/>
+<vertex x="364" y="752" cx="388" cy="774"/>
+<vertex x="362" y="752" cx="362" cy="752"/>
+<vertex x="360" y="752" cx="360" cy="752"/>
+<vertex x="358" y="752" cx="360" cy="752"/>
+<vertex x="336" y="761" cx="349" cy="759"/>
+<vertex x="336" y="763" cx="336" cy="761"/>
+</shape></item>
+<item id="1527" label="Confluence" zorder="7" name="Confluence" x="146" y="328" tabs="1"><description><![CDATA[<p>The <b>c</b><b>onfluence of the dural sinuses</b> is the convergence point of the superior sagittal, straight, occipital and transverse sinuses near the occipital protuberance.</p>]]></description><shape>
+<vertex x="314" y="724" cx="314" cy="722"/>
+<vertex x="321" y="755" cx="319" cy="737"/>
+<vertex x="323" y="757" cx="323" cy="755"/>
+<vertex x="345" y="757" cx="334" cy="757"/>
+<vertex x="347" y="757" cx="345" cy="757"/>
+<vertex x="347" y="755" cx="347" cy="755"/>
+<vertex x="360" y="752" cx="353" cy="755"/>
+<vertex x="362" y="752" cx="360" cy="752"/>
+<vertex x="362" y="750" cx="362" cy="750"/>
+<vertex x="360" y="748" cx="360" cy="750"/>
+<vertex x="355" y="714" cx="353" cy="735"/>
+<vertex x="358" y="707" cx="358" cy="714"/>
+<vertex x="358" y="707" cx="358" cy="707"/>
+<vertex x="355" y="707" cx="355" cy="707"/>
+<vertex x="349" y="707" cx="351" cy="707"/>
+<vertex x="347" y="707" cx="349" cy="707"/>
+<vertex x="314" y="720" cx="336" cy="718"/>
+<vertex x="314" y="722" cx="314" cy="720"/>
+</shape></item>
+<item id="1526" label="Ventricular system, Cerebral aqueduct" zorder="6" name="Ventricular system     Cerebral aqueduct" x="162" y="239" tabs="0"><description><![CDATA[<p>The <b>cerebral aqueduct</b> is AKA the cerebral aqueduct of Sylvius. &nbsp;It is a narrow channel within the midbrain through which cerebrospinal fluid flows from the third ventricle into the fourth ventricle.</p>]]></description><shape>
+<vertex x="379" y="522" cx="379" cy="524"/>
+<vertex x="366" y="515" cx="373" cy="519"/>
+<vertex x="364" y="515" cx="364" cy="515"/>
+<vertex x="362" y="515" cx="362" cy="515"/>
+<vertex x="360" y="515" cx="362" cy="515"/>
+<vertex x="349" y="524" cx="355" cy="519"/>
+<vertex x="377" y="535" cx="347" cy="545"/>
+<vertex x="381" y="524" cx="381" cy="532"/>
+</shape></item>
+<item id="1525" label="CSF flow artifact" zorder="5" name="CSF flow artifact" x="164" y="241" tabs="1"><description><![CDATA[<p><b>CSF flow artifact</b> appears as a bright area in narrowed regions of the ventricular system on the MRI images. &nbsp;It is due to the flow of the cerebrospinal fluid (CSF) through these narrowed areas.</p>]]></description><shape>
+<vertex x="364" y="519" cx="364" cy="519"/>
+<vertex x="353" y="519" cx="358" cy="519"/>
+<vertex x="375" y="528" cx="351" cy="543"/>
+<vertex x="377" y="526" cx="377" cy="528"/>
+<vertex x="375" y="524" cx="375" cy="526"/>
+<vertex x="366" y="519" cx="368" cy="524"/>
+</shape></item>
+<item id="1524" label="Bony &amp; other features" zorder="4" name="Bony_other features" x="133" y="30" tabs="0"><description><![CDATA[<p>Portions of the <b>bone</b> of the neurocranium (cranial vault or brain case) and the viscerocranium (facial skeleton) are often seen in images of the brain. &nbsp;In some instances, they are intimately involved with the dura, dural venous sinuses, formation of the paranasal air sinuses, etc.&nbsp;</p>]]></description><shape>
+<vertex x="366" y="64" cx="366" cy="64"/>
+<vertex x="366" y="66" cx="366" cy="64"/>
+<vertex x="353" y="192" cx="368" cy="138"/>
+<vertex x="373" y="267" cx="349" cy="243"/>
+<vertex x="375" y="269" cx="373" cy="269"/>
+<vertex x="360" y="226" cx="373" cy="248"/>
+<vertex x="360" y="226" cx="360" cy="226"/>
+<vertex x="371" y="105" cx="364" cy="166"/>
+<vertex x="371" y="64" cx="373" cy="81"/>
+<vertex x="368" y="64" cx="368" cy="64"/>
+</shape><shape>
+<vertex x="425" y="151" cx="425" cy="153"/>
+<vertex x="392" y="155" cx="409" cy="140"/>
+<vertex x="396" y="176" cx="399" cy="166"/>
+<vertex x="401" y="176" cx="399" cy="176"/>
+<vertex x="407" y="176" cx="403" cy="176"/>
+<vertex x="425" y="161" cx="416" cy="170"/>
+<vertex x="427" y="161" cx="425" cy="161"/>
+<vertex x="427" y="159" cx="427" cy="159"/>
+<vertex x="427" y="153" cx="427" cy="155"/>
+</shape><shape>
+<vertex x="416" y="179" cx="418" cy="181"/>
+<vertex x="396" y="183" cx="412" cy="174"/>
+<vertex x="396" y="183" cx="396" cy="183"/>
+<vertex x="418" y="185" cx="412" cy="202"/>
+</shape><shape>
+<vertex x="418" y="207" cx="420" cy="207"/>
+<vertex x="409" y="200" cx="416" cy="200"/>
+<vertex x="399" y="222" cx="405" cy="211"/>
+<vertex x="394" y="222" cx="396" cy="226"/>
+<vertex x="375" y="215" cx="386" cy="213"/>
+<vertex x="381" y="224" cx="375" cy="222"/>
+<vertex x="388" y="250" cx="401" cy="232"/>
+<vertex x="388" y="250" cx="388" cy="250"/>
+<vertex x="414" y="271" cx="394" cy="271"/>
+<vertex x="414" y="271" cx="414" cy="271"/>
+<vertex x="420" y="209" cx="414" cy="239"/>
+</shape><shape>
+<vertex x="364" y="280" cx="366" cy="278"/>
+<vertex x="349" y="319" cx="360" cy="302"/>
+<vertex x="349" y="317" cx="349" cy="317"/>
+<vertex x="362" y="280" cx="353" cy="295"/>
+<vertex x="360" y="278" cx="362" cy="278"/>
+<vertex x="338" y="282" cx="347" cy="271"/>
+<vertex x="327" y="280" cx="332" cy="282"/>
+<vertex x="286" y="291" cx="299" cy="265"/>
+<vertex x="286" y="299" cx="286" cy="295"/>
+<vertex x="286" y="302" cx="286" cy="299"/>
+<vertex x="312" y="319" cx="299" cy="310"/>
+<vertex x="314" y="321" cx="314" cy="319"/>
+<vertex x="330" y="323" cx="323" cy="321"/>
+<vertex x="332" y="325" cx="332" cy="323"/>
+<vertex x="347" y="325" cx="338" cy="325"/>
+<vertex x="349" y="325" cx="347" cy="325"/>
+<vertex x="362" y="325" cx="355" cy="325"/>
+<vertex x="364" y="325" cx="362" cy="325"/>
+<vertex x="364" y="323" cx="364" cy="323"/>
+<vertex x="405" y="323" cx="381" cy="319"/>
+<vertex x="405" y="321" cx="405" cy="321"/>
+<vertex x="420" y="299" cx="420" cy="312"/>
+<vertex x="416" y="295" cx="418" cy="297"/>
+<vertex x="366" y="278" cx="390" cy="286"/>
+</shape><shape>
+<vertex x="302" y="153" cx="302" cy="153"/>
+<vertex x="293" y="207" cx="293" cy="176"/>
+<vertex x="293" y="220" cx="293" cy="213"/>
+<vertex x="302" y="222" cx="293" cy="230"/>
+<vertex x="314" y="185" cx="312" cy="207"/>
+<vertex x="304" y="153" cx="317" cy="161"/>
+</shape><shape>
+<vertex x="323" y="202" cx="323" cy="202"/>
+<vertex x="293" y="248" cx="314" cy="230"/>
+<vertex x="293" y="248" cx="293" cy="248"/>
+<vertex x="312" y="263" cx="299" cy="258"/>
+<vertex x="314" y="261" cx="312" cy="263"/>
+<vertex x="336" y="261" cx="325" cy="261"/>
+<vertex x="336" y="258" cx="336" cy="261"/>
+<vertex x="340" y="230" cx="338" cy="243"/>
+<vertex x="338" y="228" cx="338" cy="230"/>
+<vertex x="325" y="202" cx="334" cy="213"/>
+</shape></item>
+<item id="1523" label="Nasal septum" zorder="3" name="Nasal septum" x="164" y="30" tabs="1"><description><![CDATA[<p>The nasal cavity is divided into right and left halves by the <b>nasal septum</b>. &nbsp;It is composed of the septal cartilage,&nbsp;the vomer,&nbsp;the perpendicular plate of the ethmoid bone, the maxillary crest and the premaxilla.</p>]]></description><shape>
+<vertex x="366" y="64" cx="366" cy="64"/>
+<vertex x="366" y="66" cx="366" cy="64"/>
+<vertex x="353" y="192" cx="368" cy="138"/>
+<vertex x="353" y="228" cx="353" cy="209"/>
+<vertex x="353" y="230" cx="353" cy="228"/>
+<vertex x="371" y="267" cx="358" cy="252"/>
+<vertex x="373" y="269" cx="373" cy="267"/>
+<vertex x="377" y="265" cx="377" cy="269"/>
+<vertex x="377" y="263" cx="377" cy="263"/>
+<vertex x="375" y="261" cx="375" cy="263"/>
+<vertex x="360" y="226" cx="368" cy="241"/>
+<vertex x="360" y="224" cx="360" cy="224"/>
+<vertex x="360" y="196" cx="360" cy="209"/>
+<vertex x="371" y="66" cx="375" cy="135"/>
+<vertex x="371" y="64" cx="371" cy="64"/>
+<vertex x="368" y="64" cx="368" cy="64"/>
+</shape></item>
+<item id="1522" label="Air sinuses" zorder="2" name="Air sinuses" x="133" y="68" tabs="1"><description><![CDATA[<p>The air or <b>paranasal sinuses</b> are extensions of the respiratory part of the nasal cavity that extend into the cranial bones: &nbsp;frontal, ethmoid, sphenoid and maxillary.</p>]]></description><shape>
+<vertex x="414" y="146" cx="414" cy="146"/>
+<vertex x="392" y="155" cx="396" cy="146"/>
+<vertex x="396" y="176" cx="399" cy="166"/>
+<vertex x="401" y="176" cx="399" cy="176"/>
+<vertex x="407" y="176" cx="403" cy="176"/>
+<vertex x="425" y="161" cx="416" cy="170"/>
+<vertex x="427" y="161" cx="425" cy="161"/>
+<vertex x="427" y="159" cx="427" cy="159"/>
+<vertex x="414" y="146" cx="429" cy="142"/>
+</shape><shape>
+<vertex x="416" y="179" cx="418" cy="181"/>
+<vertex x="396" y="183" cx="412" cy="174"/>
+<vertex x="396" y="183" cx="396" cy="183"/>
+<vertex x="418" y="185" cx="412" cy="202"/>
+</shape><shape>
+<vertex x="418" y="207" cx="420" cy="207"/>
+<vertex x="409" y="200" cx="416" cy="200"/>
+<vertex x="399" y="222" cx="405" cy="211"/>
+<vertex x="394" y="222" cx="396" cy="226"/>
+<vertex x="375" y="215" cx="386" cy="213"/>
+<vertex x="381" y="224" cx="375" cy="222"/>
+<vertex x="388" y="250" cx="401" cy="232"/>
+<vertex x="388" y="250" cx="388" cy="250"/>
+<vertex x="414" y="271" cx="394" cy="271"/>
+<vertex x="414" y="271" cx="414" cy="271"/>
+<vertex x="420" y="209" cx="414" cy="239"/>
+</shape><shape>
+<vertex x="364" y="280" cx="366" cy="278"/>
+<vertex x="349" y="319" cx="360" cy="302"/>
+<vertex x="349" y="317" cx="349" cy="317"/>
+<vertex x="362" y="280" cx="353" cy="295"/>
+<vertex x="360" y="278" cx="362" cy="278"/>
+<vertex x="338" y="282" cx="347" cy="271"/>
+<vertex x="327" y="280" cx="332" cy="282"/>
+<vertex x="286" y="291" cx="299" cy="265"/>
+<vertex x="286" y="299" cx="286" cy="295"/>
+<vertex x="286" y="302" cx="286" cy="299"/>
+<vertex x="312" y="319" cx="299" cy="310"/>
+<vertex x="314" y="321" cx="314" cy="319"/>
+<vertex x="330" y="323" cx="323" cy="321"/>
+<vertex x="332" y="325" cx="332" cy="323"/>
+<vertex x="347" y="325" cx="338" cy="325"/>
+<vertex x="349" y="325" cx="347" cy="325"/>
+<vertex x="362" y="325" cx="355" cy="325"/>
+<vertex x="364" y="325" cx="362" cy="325"/>
+<vertex x="364" y="323" cx="364" cy="323"/>
+<vertex x="405" y="323" cx="381" cy="319"/>
+<vertex x="405" y="321" cx="405" cy="321"/>
+<vertex x="420" y="299" cx="420" cy="312"/>
+<vertex x="416" y="295" cx="418" cy="297"/>
+<vertex x="366" y="278" cx="390" cy="286"/>
+</shape><shape>
+<vertex x="302" y="153" cx="302" cy="153"/>
+<vertex x="293" y="207" cx="293" cy="176"/>
+<vertex x="293" y="220" cx="293" cy="213"/>
+<vertex x="302" y="222" cx="293" cy="230"/>
+<vertex x="314" y="185" cx="312" cy="207"/>
+<vertex x="304" y="153" cx="317" cy="161"/>
+</shape><shape>
+<vertex x="323" y="202" cx="323" cy="202"/>
+<vertex x="293" y="248" cx="314" cy="230"/>
+<vertex x="293" y="248" cx="293" cy="248"/>
+<vertex x="312" y="263" cx="299" cy="258"/>
+<vertex x="314" y="261" cx="312" cy="263"/>
+<vertex x="336" y="261" cx="325" cy="261"/>
+<vertex x="336" y="258" cx="336" cy="261"/>
+<vertex x="340" y="230" cx="338" cy="243"/>
+<vertex x="338" y="228" cx="338" cy="230"/>
+<vertex x="325" y="202" cx="334" cy="213"/>
+</shape></item>
+<item id="1521" label="Ethmoidal" zorder="1" name="Ethmoidal" x="136" y="68" tabs="2"><description><![CDATA[<p>The <b>ethmoidal air sinuses </b>(or cells) are small invaginations of the mucous membrane of the middle and superior nasal meatus into the ethmoid bone between the nasal cavity and orbit. &nbsp;Usually not visible on plain radiographs before age 2 but detectable on CT scans. &nbsp;The anterior and middle ethmoidal cells drain into the middle nasal meatus while the posterior ethmoidal cells drain into the superiror meatus.</p>]]></description><shape>
+<vertex x="414" y="146" cx="414" cy="146"/>
+<vertex x="392" y="155" cx="396" cy="146"/>
+<vertex x="396" y="176" cx="399" cy="166"/>
+<vertex x="401" y="176" cx="399" cy="176"/>
+<vertex x="407" y="176" cx="403" cy="176"/>
+<vertex x="425" y="161" cx="416" cy="170"/>
+<vertex x="427" y="161" cx="425" cy="161"/>
+<vertex x="427" y="159" cx="427" cy="159"/>
+<vertex x="414" y="146" cx="429" cy="142"/>
+</shape><shape>
+<vertex x="416" y="179" cx="418" cy="181"/>
+<vertex x="396" y="183" cx="412" cy="174"/>
+<vertex x="396" y="183" cx="396" cy="183"/>
+<vertex x="418" y="185" cx="412" cy="202"/>
+</shape><shape>
+<vertex x="418" y="207" cx="420" cy="207"/>
+<vertex x="409" y="200" cx="416" cy="200"/>
+<vertex x="399" y="222" cx="405" cy="211"/>
+<vertex x="394" y="222" cx="396" cy="226"/>
+<vertex x="375" y="215" cx="386" cy="213"/>
+<vertex x="390" y="239" cx="384" cy="230"/>
+<vertex x="388" y="243" cx="392" cy="241"/>
+<vertex x="388" y="254" cx="386" cy="248"/>
+<vertex x="407" y="271" cx="392" cy="267"/>
+<vertex x="409" y="273" cx="409" cy="271"/>
+<vertex x="412" y="273" cx="409" cy="273"/>
+<vertex x="414" y="273" cx="412" cy="273"/>
+<vertex x="414" y="271" cx="414" cy="271"/>
+<vertex x="420" y="209" cx="416" cy="241"/>
+</shape><shape>
+<vertex x="302" y="153" cx="302" cy="153"/>
+<vertex x="293" y="207" cx="293" cy="176"/>
+<vertex x="293" y="224" cx="293" cy="215"/>
+<vertex x="293" y="226" cx="293" cy="224"/>
+<vertex x="299" y="224" cx="297" cy="226"/>
+<vertex x="317" y="192" cx="312" cy="213"/>
+<vertex x="304" y="153" cx="321" cy="166"/>
+</shape><shape>
+<vertex x="323" y="202" cx="323" cy="202"/>
+<vertex x="293" y="248" cx="314" cy="230"/>
+<vertex x="293" y="252" cx="293" cy="250"/>
+<vertex x="293" y="254" cx="293" cy="252"/>
+<vertex x="293" y="254" cx="293" cy="254"/>
+<vertex x="312" y="263" cx="304" cy="256"/>
+<vertex x="314" y="261" cx="312" cy="263"/>
+<vertex x="336" y="261" cx="325" cy="261"/>
+<vertex x="336" y="258" cx="336" cy="261"/>
+<vertex x="340" y="230" cx="338" cy="243"/>
+<vertex x="338" y="228" cx="338" cy="230"/>
+<vertex x="325" y="202" cx="334" cy="213"/>
+</shape></item>
+<item id="1520" label="Sphenoidal" zorder="0" name="Sphenoidal" x="133" y="128" tabs="2"><description><![CDATA[<p>The <b>sphenoidal air sinuses </b>are located in the body of the sphenoid bone and may extend into the wings of this bone. &nbsp;They are unevenly divided and separated by a bony septum. &nbsp;Very thin plates of bone separate these fragile sinuses from many important structures: &nbsp;the optic nerves and chiasm, the pituitary gland, the internal carotid arteries and the cavernous sinuses.</p>]]></description><shape>
+<vertex x="360" y="276" cx="360" cy="276"/>
+<vertex x="347" y="276" cx="353" cy="276"/>
+<vertex x="345" y="276" cx="347" cy="276"/>
+<vertex x="310" y="276" cx="325" cy="289"/>
+<vertex x="308" y="276" cx="308" cy="276"/>
+<vertex x="299" y="276" cx="304" cy="276"/>
+<vertex x="297" y="276" cx="299" cy="276"/>
+<vertex x="286" y="291" cx="289" cy="280"/>
+<vertex x="286" y="299" cx="286" cy="295"/>
+<vertex x="286" y="302" cx="286" cy="299"/>
+<vertex x="312" y="319" cx="299" cy="310"/>
+<vertex x="314" y="321" cx="314" cy="319"/>
+<vertex x="330" y="323" cx="323" cy="321"/>
+<vertex x="332" y="325" cx="332" cy="323"/>
+<vertex x="340" y="325" cx="336" cy="325"/>
+<vertex x="343" y="325" cx="340" cy="325"/>
+<vertex x="362" y="325" cx="351" cy="325"/>
+<vertex x="364" y="325" cx="362" cy="325"/>
+<vertex x="364" y="323" cx="364" cy="323"/>
+<vertex x="401" y="321" cx="379" cy="319"/>
+<vertex x="403" y="323" cx="401" cy="323"/>
+<vertex x="420" y="308" cx="412" cy="314"/>
+<vertex x="422" y="308" cx="420" cy="308"/>
+<vertex x="422" y="306" cx="422" cy="306"/>
+<vertex x="422" y="299" cx="422" cy="302"/>
+<vertex x="414" y="295" cx="418" cy="295"/>
+<vertex x="366" y="278" cx="388" cy="286"/>
+<vertex x="364" y="280" cx="366" cy="278"/>
+<vertex x="349" y="319" cx="360" cy="302"/>
+<vertex x="349" y="317" cx="349" cy="317"/>
+<vertex x="349" y="312" cx="349" cy="314"/>
+<vertex x="360" y="276" cx="355" cy="295"/>
+<vertex x="362" y="276" cx="362" cy="276"/>
+</shape></item>
+</info>

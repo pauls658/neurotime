@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hippocampus, fimbria]]></name>
+<description><![CDATA[<p>The <b>fimbria</b> is a band&nbsp;of white matter along the medial edge of the hippocampus. &nbsp;It consists of the myelinated axons that formed the alveus on the ventricular surface of the hippocampus. &nbsp;Near the splenium of the corpus callosum, the fimbria separate from the hippocampus and become the crus of the fornix.</p>]]></description>
+<item id="2682" label="Fimbriae" name="Fimbriae" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="2773" label="Fimbriae" name="Fimbriae" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="1821" label="Fornix, fimbria" name="Fornix,fimbria" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+</info>

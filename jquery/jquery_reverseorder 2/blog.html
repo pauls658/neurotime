@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <title><!-- Insert your title here --></title>
+</head>
+<body>
+<ul class="contents">
+	<li><a href="#what">What is this?</a>
+	<li><a href="#how">How do I use it?</a>
+	<li><a href="#examples">Examples</a>
+	<li><a href="#browsers">Supported Browsers</a>
+	<li><a href="#licensing">Licensing</a>
+	<li><a href="#blog">Discuss jQuery Reverse Order</a> </li>
+</ul>
+
+<h4 id="what">What is this?</h4>
+<p>jQuery Reverse Order uses jQuery to reverse the order of DOM elements on your page.</p>
+
+<h4 id="how">How Do I Use It?</h4>
+<p>To use jQuery Reverse Order on your site or blog, just follow these simple steps:</p>
+
+<h5 id="one">Download The Code</h5>
+<div class="howtouse">
+	<p>Click on the icon below to download the source code:</p>
+	<a href="http://lab.arc90.com/tools/jquery_reverseorder.zip"><img alt="Download" src="http://arc90.com/_img/download.gif" /></a>
+	<p>The file, jquery_reverseorder.zip, contains the script, an example page, and the jQuery library. Once downloaded, unzip and upload the script to a relevant location on your hosted site.</p>
+</div><!-- howtouse -->
+
+<h5 id="two">Link To The Javascript</h5>
+<div class="howtouse">
+	<p>Add a link to the jQuery library and to the javascript file in the page(s) you'd like jQuery Reverse Order implemented. Remember to adjust the path to properly point to the location of the javascript file:</p>
+	<textarea class="xml" name="code" rows="10" cols="60">
+<script language="JavaScript" type="Text/JavaScript" src="/path/to/javascript/jquery-1.2.3.min.js"></script>
+<script language="JavaScript" type="Text/JavaScript" src="/path/to/javascript/jquery_reverseorder.js"></script>
+	</textarea>
+	<p>A packed version is also included in the .zip called &quot;jquery_reverseorder.packed.js&quot;.</p>
+</div><!-- howtouse -->
+
+<h5 id="three">Choosing which elements to reverse</h5>
+<div class="howtouse">
+	<p>Create a collection of DOM elements inside a common parent. Here's an example:</p>
+	<textarea class="xml" name="code" rows="10" cols="60">
+<div id="items">
+	<p class="item">item 1</p>
+	<p class="item">item 2</p>
+	<p class="item">item 3</p>
+	<p class="item">item 4</p>
+</div><!-- items -->
+	</textarea>
+	<p>Then add a single line of javascript, referencing the items to be reversed, to reverse the order:</p>
+	<textarea class="xml" name="code" rows="10" cols="60">
+$('#items .item').reverseOrder();
+	</textarea>
+	<p>You could also use:</p>
+	<textarea class="xml" name="code" rows="10" cols="60">
+$('#items p').reverseOrder();
+	</textarea>
+</div>
+
+<h4 id="examples">Examples</h4>
+<p>Here's another example using the native unordered list as a collection:</p>
+<textarea class="xml" name="code" rows="10" cols="60">
+<ul>
+	<li>item 1</li>
+	<li>item 2</li>
+	<li>item 3</li>
+	<li>item 4</li>
+</ul>
+</textarea>
+<p>Then add a single line of javascript to reverse the order:</p>
+<textarea class="xml" name="code" rows="10" cols="60">
+$('ul li').reverseOrder();
+</textarea>
+<p>You can see more examples and uses of jQuery Reverse Order <a href="http://lab.arc90.com/tools/jquery_reverseorder/">by clicking here</a>.</p>
+
+<h4 id="browsers">Supported Browsers</h4>
+<p>Currently, the jQuery Reverse Order script has been tested and confirmed on the following browsers:</p>
+<ul>
+	<li>Internet Explorer 6.0+</li>
+	<li>Mozilla Firefox 2.0+</li>
+	<li>Apple Safari 2.0+</li>
+	<li>Opera Version 9.0</li>
+</ul>
+
+<h4 id="licensing">Licensing</h4>
+<p>This arc90 tool is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0</a> license. </p>
+
+<h4 id="blog">Discuss jQuery Reverse Order</h4>
+<p>You can send feedback on jQuery Reverse Order at the <a href="http://blog.arc90.com/">arc90 blog</a>.</p>
+</body>
+</html>

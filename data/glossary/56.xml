@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, nodule or nodulus of the vermis]]></name>
+<description><![CDATA[<p>The <b>nodule or nodulus of the cerebellum</b> is a small portion of the ventral and anterior vermis that is attached to the flocculus to form the flocculonodular lobe.  Functionally, the flocculonodular lobe is associated with balance as well as movements of the eyes.</p>]]></description>
+<item id="700" label="Nodule" name="Nodule" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1157" label="Nodule" name="Nodule" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1600" label="Nodule" name="Nodule" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="2316" label="Nodule" name="Nodule" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2375" label="Nodule" name="Nodule" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2440" label="Nodule" name="Nodule" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="4626" label="Nodule" name="Nodule" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+</info>

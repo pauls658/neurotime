@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Posterior communicating artery]]></name>
+<description><![CDATA[<p>The <b>posterior communicating arteries</b>&nbsp;are short arteries in the circle of Willis that connect the anterior circulation from the internal carotid with the posterior circulation from the basilar artery.  May become important if one of the supplying arteries becomes occluded since it may allow circulation through the circle to supply the tissue that might otherwise lose its arterial supply.  It should be noted that there are frequent congenital malformations of this vessel, so it may be absent or non-patent in some individuals.</p>]]></description>
+<item id="1437" label="Posterior communicating" name="Posterior communicating" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1474" label="Posterior communicating" name="Post. communicating" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="4425" label="Posterior communicating" name="Posterior comminicating artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4456" label="Posterior communicating" name="Posterior communicating artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4508" label="Posterior communicating" name="Posterior communicating artery" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="4518" label="Posterior communicating" name="Posterior communicating artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4535" label="Posterior communicating" name="Posterior communicating artery" file_id="261"><![CDATA[/Gross/Vasculature & Nerves/6 Ventral brain stem]]>
+</item>
+<item id="4150" label="Posterior communicating artery" name="Posterior communicating artery" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+</info>

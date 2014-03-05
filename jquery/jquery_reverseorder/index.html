@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Reverse Order</title>
+<script type="text/javascript" src="jquery-1.2.3.min.js"></script>
+<script type="text/javascript" src="jquery.reverseorder.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.item').reverseOrder();
+		
+		$('#checkboxToggle').click(function(){
+			$('#checkboxes .item').reverseOrder();
+		});
+		
+		$('#multiselectToggle').click(function(){
+			$('#multiselect .item').reverseOrder();
+		});		
+	});
+</script>
+</head>
+
+<body>
+	<h1>jQuery Reverse Order plugin</h1>
+	<p>Reverse the order of any group of elements contained within a parent element.</p>
+	<p>Written by Corey H Maass for Arc90</p>
+
+	<hr />
+
+	<h2>Examples:</h2>
+	<p>Three examples below all use the class of &quot;item&quot; to specify the items that should be reordered. Look at the source code to see how it's being used.</p>
+	<h3>A div containing paragraphs.</h3>
+	<div id="items">
+	<p class="item">item 1</p>
+	<p class="item">item 2</p>
+	<p class="item">item 3</p>
+	<p class="item">item 4</p>
+	</div><!-- items -->
+	
+	<h3>An unordered list containing list items.</h3>
+	<ul>
+	<li class="item">item 1</li>
+	<li class="item">item 2</li>
+	<li class="item">item 3</li>
+	<li class="item">item 4</li>
+	</ul>
+	
+	<h3>A select with option groups.</h3>
+	<select>
+		<optgroup label="This is group one" class="item">
+			<option> item 1</option>
+			<option> item 2</option>
+		</optgroup>
+		<optgroup label="This is group two" class="item">
+			<option> item 3</option>
+			<option> item 4</option>
+		</optgroup>
+	</select>
+
+	<h3>Checkboxes with the option to reverse the order.</h3>
+	<ul id="checkboxes">
+	<li class="item"><label><input type="checkbox" /> item 1</label></li>
+	<li class="item"><label><input type="checkbox" /> item 2</label></li>
+	<li class="item"><label><input type="checkbox" /> item 3</label></li>
+	<li class="item"><label><input type="checkbox" /> item 4</label></li>
+	</ul>
+	<p><input type="button" id="checkboxToggle" value="Reverse order" /></p>
+
+	<h3>Multiselect with the option to reverse the order.</h3>
+	<select id="multiselect" size="4" multiple="multiple">
+		<option class="item">item 1</option>
+		<option class="item">item 2</option>
+		<option class="item">item 3</option>
+		<option class="item">item 4</option>
+	</select>
+	<p><input type="button" id="multiselectToggle" value="Reverse order" /></p>
+
+	<hr />
+
+	<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png"/></a><br/><span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">jQuery Reverse Order plugin</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://lab.arc90.com" property="cc:attributionName" rel="cc:attributionURL">Corey H Maass</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</body>
+</html>

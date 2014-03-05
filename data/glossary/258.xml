@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Pontocerebellar tract]]></name>
+<description><![CDATA[<p>The pontine nuclei in the basal or basilar portion of the pons are the origin of the <b>pontocerebellar tract</b>.  The tract crosses the midline at the level of the pons to travel as the middle cerebellar peduncle to terminate in the cerebellum contralateral to the cell bodies of origin.</p>]]></description>
+<item id="3738" label="Pontocerebellar" name="Pontocerebellar" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3802" label="Pontocerebellar" name="Pontocerebellar" file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="3777" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="4608" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="268"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/3 Cerebellum - dorsal view]]>
+</item>
+<item id="5470" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5526" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+<item id="5575" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5741" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5776" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5807" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="5838" label="Pontocerebellar fibers" name="Pontocerebellar fibers" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+<item id="5628" label="Pontocerebellar tract" name="Pontocerebellar tract" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5671" label="Pontocerebellar tract" name="Pontocerebellar tract" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5709" label="Pontocerebellar tract" name="Pontocerebellar tract" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+</info>

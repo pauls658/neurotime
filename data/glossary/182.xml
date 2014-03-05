@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Internal carotid artery]]></name>
+<description><![CDATA[<p>With the verbebral arteries, the <b>internal carotid arteries</b> provide the blood supply to the brain.  The internal carotid branches from the common carotid in the neck and enters the base of the skull via the carotid canal.  As it enters the Circle of Willis, it divides into its two terminal branches:  the middle and anterior cerebral arteries.</p>]]></description>
+<item id="1736" label="Artery, Internal carotid" name="Artery, internal carotid" file_id="99"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 4]]>
+</item>
+<item id="774" label="Internal carotid" name="Internal carotid" file_id="70"><![CDATA[/MRI/Coronal/MRI cor 3]]>
+</item>
+<item id="796" label="Internal carotid" name="Internal carotid" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="827" label="Internal carotid" name="Internal carotid" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="862" label="Internal carotid" name="Internal carotid" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="1402" label="Internal carotid" name="Internal carotid" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1442" label="Internal carotid" name="Internal carotid" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1479" label="Internal carotid" name="Internal carotid" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1508" label="Internal carotid" name="Internal carotid" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1536" label="Internal carotid" name="Internal carotid" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1561" label="Internal carotid" name="Internal carotid" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+<item id="1762" label="Internal carotid" name="Internal carotid" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="2261" label="Internal carotid" name="Internal Carotid" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="3485" label="Internal Carotid" name="Internal Carotid" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="4421" label="Internal carotid" name="Internal carotid artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4452" label="Internal carotid" name="Internal carotid artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4504" label="Internal carotid" name="Internal carotid artery" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="4515" label="Internal carotid" name="Internal carotid artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4532" label="Internal carotid" name="Internal carotid artery" file_id="261"><![CDATA[/Gross/Vasculature & Nerves/6 Ventral brain stem]]>
+</item>
+<item id="362" label="Internal carotid artery" name="Internal carotid a." file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+<item id="2941" label="Internal carotid artery" name="Int carotid a" file_id="156"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/10 Cor: Occ to Fr]]>
+</item>
+<item id="3002" label="Internal carotid artery" name="Internal carotid" file_id="165"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/5 Cor: Fr to Occ]]>
+</item>
+<item id="4147" label="Internal carotid artery" name="Internal carotid artery" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+</info>

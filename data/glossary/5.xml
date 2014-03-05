@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hippocampus, alveus]]></name>
+<description><![CDATA[<p>The <b>alveus</b> of the hippocampus is a thin sheet of nerve fibers located on the ventricular surface of the hippocampus.  Cell bodies of origin are pyramidal neurons in the hippocampus; these nerve fibers aggregate to form the fimbria prior to entering the fornix.</p>]]></description>
+<item id="1339" label="Alveus" name="Alveus" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1383" label="Alveus" name="Alveus" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="2094" label="Alveus" name="Alveus" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2144" label="Alveus" name="Alveus" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2194" label="Alveus" name="Alveus" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2240" label="Alveus" name="Alveus" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2685" label="Alveus" name="Alveus" file_id="136"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/6 Hor from Superior]]>
+</item>
+<item id="3605" label="Alveus" name="Alveus" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3656" label="Alveus" name="Alveus" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3705" label="Alveus" name="Alveus" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3752" label="Alveus" name="Alveus" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+</info>

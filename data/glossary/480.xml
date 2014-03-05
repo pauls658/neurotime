@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hypothalamus, tuberal region]]></name>
+<description><![CDATA[<p>The&nbsp;<b>hypothalamus</b>&nbsp;is the most inferior of the four divisions of the diencephalon. While quite small, it has multiple important functions. It is the central control center for the autonomic nervous system, part of the limbic system, exerts a powerful influence on pituitary function and generally is responsible for maintaining homeostasis. It consists of multiple nuclei organized into three regions: anterior (suprachiasmatic, supraoptic and paraventricular), <b>t</b><b>uberal (dorsomedial, ventromedial and arcuate)</b> and posterior (mammillary and posterior).</p>]]></description>
+<item id="1381" label="Tuberal region" name="Tuberal region" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="2205" label="Tuberal region" name="Tuberal region" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2341" label="Tuberal region" name="Tuberal region" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="3481" label="Tuberal region" name="Tuberal region" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3534" label="Tuberal region" name="Tuberal region" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+</info>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Epithalamus]]></name>
+<description><![CDATA[<p>The <b>epithalamus</b> is one of the four divisions of the diencephalon, it includes the habenular nuclei and the pineal gland.</p>]]></description>
+<item id="2071" label="Epithalamus" name="Epithalamus" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2121" label="Epithalamus" name="Epithalamus" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2291" label="Epithalamus" name="Epithalamus" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2345" label="Epithalamus" name="Epithalamus" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="3675" label="Epithalamus" name="Epithalamus" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="4643" label="Epithalamus" name="Epithalamus" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="5928" label="Epithalamus" name="Epithalamus" file_id="307"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/30 Midbrain+Diencephalon]]>
+</item>
+</info>

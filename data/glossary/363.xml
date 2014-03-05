@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Spinal cord, ventral root]]></name>
+<description><![CDATA[<p><b>Ventral roots</b> of the spinal cord contain the axons of lower motor neurons whose cell bodies are located in motor regions of the spinal cord.  Those axons originating in the ventral or anterior horns will terminate on skeletal muscles, while those originating in the lateral horns will terminate on post-ganglionic neurons in autonomic ganglia.  Upon exiting the spinal cord and prior to joining the dorsal root to form the spinal nerve, the roots are subdivided into rootlets.</p>]]></description>
+<item id="4748" label="Ventral root (rootlets)" name="Ventral root (rootlets)" file_id="278"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/1 Sacral cord, middle]]>
+</item>
+<item id="4779" label="Ventral root (rootlets)" name="Ventral root (rootlets)" file_id="279"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/2 Lumbar cord, middle]]>
+</item>
+<item id="4813" label="Ventral root (rootlets)" name="Ventral root (rootlets)" file_id="280"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/3 Lumbar cord, upper]]>
+</item>
+<item id="4849" label="Ventral root (rootlets)" name="Ventral root (rootlets)" file_id="281"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/4 Thoracic cord]]>
+</item>
+<item id="72" label="Ventral roots" name="Dorsal roots" file_id="13"><![CDATA[/Gross/Spinal Cord/2 Cervical cord-ventral view]]>
+</item>
+<item id="172" label="Ventral roots" name="Ventral roots" file_id="24"><![CDATA[/Gross/Spinal Cord/12 Sacral cord - cross section]]>
+</item>
+</info>

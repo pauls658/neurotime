@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Thalamic fasciculus]]></name>
+<description><![CDATA[<p>The <b>thalamic fasciculus</b> (AKA H1 Field of Forel) is a bundle of nerve fibers located beneath the ventral anterior and ventral lateral thalamic nuclei. It includes output from the cerebellum via the superior cerebellar peduncle and from the basal ganglia via the ansa lenticularis and lenticular fasciculus (AKA H2 Field of Forel).</p>]]></description>
+<item id="6063" label="" name="Thalamic fasciculus" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="3569" label="Thalamic fasciculus" name="Thalamic fasciculus" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6020" label="Thalamic fasciculus (H1 of Forel)" name="Thalamic fasciculus (H1 of Forel)" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+<item id="6070" label="Thalamic fasciculus (H1 of Forel)" name="Thalamic fasciculus (H1 of Forel)" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6108" label="Thalamic fasciculus (H1 of Forel)" name="Thalamic fasciculus (H1 of Forel)" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+</info>

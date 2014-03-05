@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Gyrus rectus]]></name>
+<description><![CDATA[<p>The <b>gyrus rectus</b> is a slender, straight gyrus on the orbital surface of the frontal lobe. &nbsp;It is located just medial to the position of the olfactory bulb and olfactory tract. It is involved in limbic system circuits.</p>]]></description>
+<item id="760" label="Cerebral gyri, Gyrus rectus" name="Cerebral gyri     Gyrus rectus" file_id="69"><![CDATA[/MRI/Coronal/MRI cor 2]]>
+</item>
+<item id="1387" label="Cerebral gyri, Gyrus rectus" name="Cerebral gyri     Gyrus rectus" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="2948" label="Cerebral gyri, Recti" name="Gyrus recti" file_id="157"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/11 Cor: Occ to Fr]]>
+</item>
+<item id="571" label="Gyrus rectus" name="Gyrus rectus" file_id="61"><![CDATA[/Gross/Cerebrum/Surface Features/8 Ventral View]]>
+</item>
+<item id="602" label="Gyrus rectus" name="Gyrus rectus" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="637" label="Gyrus rectus" name="Gyrus rectus" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="721" label="Gyrus rectus" name="Gyrus rectus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="748" label="Gyrus rectus" name="Gyrus rectus" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="1423" label="Gyrus rectus" name="Gyrus rectus" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="2188" label="Gyrus rectus" name="Gyrus rectus" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2233" label="Gyrus rectus" name="Gyrus rectus" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="3260" label="Gyrus rectus" name="Gyrus rectus" file_id="213"><![CDATA[/Sections/Thin, Whole Brain/Coronal/1 Cor Thin Sec]]>
+</item>
+<item id="3282" label="Gyrus rectus" name="Gyrus rectus" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="4008" label="Gyrus rectus" name="Gyrus rectus" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+</info>

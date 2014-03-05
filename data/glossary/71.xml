@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cisterna magna]]></name>
+<description><![CDATA[<p>The <b>cisterna magna</b> is AKA the cerebellomedullary cistern. It is a very large subarachnoid cistern located between the medulla and the inferior aspect of the cerebellum.</p>]]></description>
+<item id="355" label="Cisterna magna" name="Cisterna magna" file_id="48"><![CDATA[/Gross/Meninges/12 Cisterna magna, caudal view]]>
+</item>
+<item id="1137" label="Cisterna magna" name="Cisterna magna" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1576" label="Cisterna magna" name="Cisterna magna" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1643" label="Cisterna magna" name="Cisterna magna" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1692" label="Cisterna magna" name="Cisterna magna" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+</info>

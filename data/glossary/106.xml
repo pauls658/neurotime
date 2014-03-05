@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Spinal cord, dorsal column]]></name>
+<description><![CDATA[<p>The <b>dorsal column or funiculus</b> is AKA the <b>posterior column or funiculus.</b> It is that portion of the white matter of the spinal cord that is located between the dorsal median sulcus/septum and the dorsal lateral sulcus, i.e. the point of entry of the dorsal roots. Present bilaterally, each side includes two sub-parts, the fasciculus gracilis (located medially, closest to the midline; at all levels of the spinal cord; carries input from the lower extremity and body) and the fasciculus cuneatus (located laterally, closest to the dorsal root entry; present only above approximately T6; carries input from the upper extremity and body). The dorsal columns are composed of ascending tracts that carry tactile (discriminative touch), vibratory and proprioceptive sensory input.</p>]]></description>
+<item id="78" label="Dorsal column" name="Dorsal columns" file_id="14"><![CDATA[/Gross/Spinal Cord/3 Cervical cord-dorsal view]]>
+</item>
+<item id="86" label="Dorsal column" name="Dorsal columns" file_id="15"><![CDATA[/Gross/Spinal Cord/4 Cervical cord-dorsal view]]>
+</item>
+<item id="109" label="Dorsal column" name="Dorsal columns" file_id="20"><![CDATA[/Gross/Spinal Cord/8 Cervical cord - upper cross section]]>
+</item>
+<item id="4750" label="Dorsal column" name="Dorsal column" file_id="278"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/1 Sacral cord, middle]]>
+</item>
+<item id="4781" label="Dorsal column" name="Dorsal column" file_id="279"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/2 Lumbar cord, middle]]>
+</item>
+<item id="4815" label="Dorsal column" name="Dorsal column" file_id="280"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/3 Lumbar cord, upper]]>
+</item>
+<item id="4851" label="Dorsal column" name="Dorsal column" file_id="281"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/4 Thoracic cord]]>
+</item>
+<item id="4887" label="Dorsal column" name="Dorsal column" file_id="282"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/5 Cervical cord, lower]]>
+</item>
+<item id="4924" label="Dorsal column" name="Dorsal column" file_id="283"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/6 Cervical cord, middle]]>
+</item>
+<item id="4959" label="Dorsal column" name="Dorsal columns" file_id="284"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/7 Cervical cord, upper]]>
+</item>
+<item id="4993" label="Dorsal column" name="Dorsal column" file_id="285"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/8 Cervical cord, C1]]>
+</item>
+<item id="5028" label="Dorsal column" name="Dorsal column" file_id="286"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/9 Cord-Medulla Junction]]>
+</item>
+<item id="5075" label="Dorsal column" name="Dorsal column" file_id="287"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/10 Medulla]]>
+</item>
+<item id="5116" label="Dorsal column" name="Dorsal column" file_id="288"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/11 Medulla]]>
+</item>
+<item id="5162" label="Dorsal Column" name="Dorsal Column" file_id="289"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/12 Medulla]]>
+</item>
+<item id="89" label="Dorsal columns" name="Ventral columns" file_id="16"><![CDATA[/]]>
+</item>
+<item id="125" label="Dorsal columns" name="Dorsal columns" file_id="21"><![CDATA[/Gross/Spinal Cord/9 Cervical cord - lower cross section]]>
+</item>
+<item id="141" label="Dorsal columns" name="Dorsal columns" file_id="22"><![CDATA[/Gross/Spinal Cord/10 Thoracic cord - cross section]]>
+</item>
+<item id="157" label="Dorsal columns" name="Dorsal columns" file_id="23"><![CDATA[/Gross/Spinal Cord/11 Lumbar cord - cross section]]>
+</item>
+<item id="179" label="Dorsal columns" name="Dorsal columns" file_id="24"><![CDATA[/Gross/Spinal Cord/12 Sacral cord - cross section]]>
+</item>
+</info>

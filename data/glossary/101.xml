@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Dentate nucleus]]></name>
+<description><![CDATA[<p>The <b>dentate nucleus</b> is the largest and most lateral of the deep cerebellar nuclei.  It appears as a highly-convoluted draw-string purse with a small opening or hilus from which its efferent fibers exit on their way to the superior cerebellar peduncle.  Afferents to the dentate nucleus are primarily from the neocerbellar cortex or lateral aspects of the hemispheres.  Efferents terminate primarily in the ventral lateral nucleus of thalamus.  Because of a similar shape, it can be confused with the inferior olivary nucleus found in the medulla.</p>]]></description>
+<item id="3886" label="Dentate" name="Dentate" file_id="229"><![CDATA[/Sections/Thin, Whole Brain/Coronal/17 Cor Thin Sec]]>
+</item>
+<item id="2516" label="Dentate nucleus" name="Dentate nucleus" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2549" label="Dentate nucleus" name="Dentate nucleus" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2820" label="Dentate nucleus" name="Dentate nucleus" file_id="151"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/5 Cor: Occ to Fr]]>
+</item>
+<item id="2833" label="Dentate nucleus" name="Dentate nucleus" file_id="152"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/6 Cor: Occ to Fr]]>
+</item>
+<item id="3116" label="Dentate nucleus" name="Dentate nucleus" file_id="169"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/9 Cor: Fr to Occ]]>
+</item>
+<item id="3124" label="Dentate nucleus" name="Dentate nucleus" file_id="170"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/10 Cor: Fr to Occ]]>
+</item>
+<item id="4684" label="Dentate nucleus" name="Dentate nucleus" file_id="273"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/8 Cerebellum - ventral view]]>
+</item>
+<item id="4698" label="Dentate nucleus" name="Dentate nucleus" file_id="274"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/9 Dentate nucleus]]>
+</item>
+<item id="5299" label="Dentate nucleus" name="Dentate nucleus" file_id="292"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/15 Medulla+Cerebellum]]>
+</item>
+<item id="5350" label="Dentate nucleus" name="Dentate nucleus" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+<item id="5497" label="Dentate nucleus" name="Dentate nucleus" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+</info>

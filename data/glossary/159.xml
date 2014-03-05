@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Hippocampus, dentate gyrus]]></name>
+<description><![CDATA[<p>The <b>dentate gyrus of the hippocampus</b> is one of two interlocking C-shaped gyri constituting the hippocampus.  Ammon's horn or the hippocampus proper is the other.  The dentate gyrus receives input from the entorhinal cortex and projects to the hippocampus proper.</p>]]></description>
+<item id="2093" label="Dentate gyri" name="Dentate gyri" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2143" label="Dentate gyri" name="Dentate gyri" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2193" label="Dentate gyri" name="Dentate gyri" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2525" label="Dentate gyrus" name="Dentate gyrus" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2560" label="Dentate gyrus" name="Dentate gyrus" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+<item id="2583" label="Dentate Gyrus" name="Dentate Gyrus" file_id="127"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/8 Sag Thin Sec]]>
+</item>
+<item id="2599" label="Dentate Gyrus" name="Dentate Gyrus" file_id="128"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/9 Sag Thin Sec]]>
+</item>
+<item id="3604" label="Dentate gyrus" name="Dentate gyri" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3655" label="Dentate gyrus" name="Dentate gyri" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3704" label="Dentate gyrus" name="Dentate gyri" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3751" label="Dentate gyrus" name="Dentate gyri" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="4412" label="Dentate gyrus" name="Dentate gyrus" file_id="254"><![CDATA[/Gross/Cerebrum/Limbic System/6 Dentate gyrus & Fornix]]>
+</item>
+</info>

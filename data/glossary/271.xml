@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Pyramid]]></name>
+<description><![CDATA[<p>The <b>pyramid</b> is a large fiber bundle located on the medial and ventral aspect of the medulla.  It consists of corticospinal (and some corticobulbar) fibers that originate in the ipsilateral cerebral cortex (precentral gyrus and elsewhere).  These upper motor neuron fibers terminate on lower motor neurons in the ventral horn of the spinal cord (corticospinal) and on cranial nerve motor neurons in the medulla (corticobulbar).  Often referred to as the pyramidal tract.</p>]]></description>
+<item id="1041" label="Medulla, Pyramids" name="Medulla    Pyramids" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="2308" label="Pyramid" name="Pyramid" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2364" label="Pyramid" name="Pyramid" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="3082" label="Pyramid" name="Pyramid" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="3857" label="Pyramid" name="Pyramids" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="3992" label="Pyramid" name="Pyramid" file_id="236"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/1 Brain stem & Cerebellum]]>
+</item>
+<item id="4040" label="Pyramid" name="Pyramid" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4116" label="Pyramid" name="Pyramid" file_id="240"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/5 Pons & Medulla-ventral view]]>
+</item>
+<item id="4171" label="Pyramid" name="Pyramid" file_id="242"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/7 Pontocerebellar junction-lateral view]]>
+</item>
+<item id="4579" label="Pyramid" name="Pyramid" file_id="266"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/1 Cerebellum - ventral view]]>
+</item>
+<item id="5078" label="Pyramid" name="Pyramid" file_id="287"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/10 Medulla]]>
+</item>
+<item id="1083" label="Pyramids" name="Pyramids" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="2868" label="Pyramids" name="Pyramids" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="3102" label="Pyramids" name="Pyramid" file_id="168"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/8 Cor: Fr to Occ]]>
+</item>
+<item id="3834" label="Pyramids" name="Pyramids" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="4058" label="Pyramids" name="Pyramid" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4083" label="Pyramids" name="Pyramid" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+</info>

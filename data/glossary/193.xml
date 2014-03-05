@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Spinal cord, lateral column]]></name>
+<description><![CDATA[<p>The <b>lateral column or funiculus of the spinal cord</b> is that portion of the white matter that is located between the dorsal lateral sulcus (point of entry of the dorsal roots) and the ventral lateral sulcus (point of exit of the ventral roots).  Present bilaterally, it contains both ascending and descending tracts including the clinically important corticospinal tract and part of the spinothalamic tract.</p>]]></description>
+<item id="75" label="Lateral column" name="Lateral columns" file_id="14"><![CDATA[/Gross/Spinal Cord/3 Cervical cord-dorsal view]]>
+</item>
+<item id="79" label="Lateral column" name="Lateral columns" file_id="15"><![CDATA[/Gross/Spinal Cord/4 Cervical cord-dorsal view]]>
+</item>
+<item id="107" label="Lateral column" name="Lateral columns" file_id="20"><![CDATA[/Gross/Spinal Cord/8 Cervical cord - upper cross section]]>
+</item>
+<item id="155" label="Lateral column" name="Lateral columns" file_id="23"><![CDATA[/Gross/Spinal Cord/11 Lumbar cord - cross section]]>
+</item>
+<item id="4752" label="Lateral column" name="Lateral column" file_id="278"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/1 Sacral cord, middle]]>
+</item>
+<item id="4783" label="Lateral column" name="Lateral column" file_id="279"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/2 Lumbar cord, middle]]>
+</item>
+<item id="4817" label="Lateral column" name="Lateral column" file_id="280"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/3 Lumbar cord, upper]]>
+</item>
+<item id="4853" label="Lateral column" name="Lateral column" file_id="281"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/4 Thoracic cord]]>
+</item>
+<item id="4889" label="Lateral column" name="Lateral column" file_id="282"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/5 Cervical cord, lower]]>
+</item>
+<item id="4925" label="Lateral column" name="Lateral column" file_id="283"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/6 Cervical cord, middle]]>
+</item>
+<item id="4961" label="Lateral column" name="Lateral column" file_id="284"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/7 Cervical cord, upper]]>
+</item>
+<item id="4995" label="Lateral column" name="Lateral column" file_id="285"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/8 Cervical cord, C1]]>
+</item>
+<item id="5029" label="Lateral column" name="Lateral column" file_id="286"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/9 Cord-Medulla Junction]]>
+</item>
+<item id="90" label="Lateral columns" name="Lateral columns" file_id="16"><![CDATA[/]]>
+</item>
+<item id="124" label="Lateral columns" name="Lateral columns" file_id="21"><![CDATA[/Gross/Spinal Cord/9 Cervical cord - lower cross section]]>
+</item>
+<item id="140" label="Lateral columns" name="Lateral columns" file_id="22"><![CDATA[/Gross/Spinal Cord/10 Thoracic cord - cross section]]>
+</item>
+<item id="177" label="Lateral columns" name="Lateral columns" file_id="24"><![CDATA[/Gross/Spinal Cord/12 Sacral cord - cross section]]>
+</item>
+</info>

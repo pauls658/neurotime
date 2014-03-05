@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Lingual gyrus]]></name>
+<description><![CDATA[<p>The<b> lingual gyrus</b> forms the inferior bank of the calcarine sulcus.  It receives visual input from upper visual fields.</p>]]></description>
+<item id="667" label="Lingual gyri" name="Lingual gyrus" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="598" label="Lingual gyrus" name="Lingual gyrus" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="711" label="Lingual gyrus" name="Lingual gyrus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1635" label="Lingual gyrus" name="Lingual gyrus" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="4262" label="Lingual gyrus" name="Lingual gyrus" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4321" label="Lingual gyrus" name="Lingual gyrus" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4638" label="Lingual gyrus" name="Lingual gyrus" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+</info>

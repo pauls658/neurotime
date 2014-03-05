@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Globus pallidus, external segment]]></name>
+<description><![CDATA[<p>The lateral component of the <b>globus pallidus</b> is known as the <b>external segment</b>. &nbsp;It receives afferents from the striatum and subthalamic nucleus and sends efferents to the subthalamic nucleus via the subthalamic fasciculus.</p>]]></description>
+<item id="1771" label="External segment" name="External segment" file_id="100"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 5]]>
+</item>
+<item id="1796" label="External segment" name="External segment" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1959" label="External segment" name="External segment" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2007" label="External segment" name="External segment" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2058" label="External segment" name="External segment" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2110" label="External segment" name="External segment" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2501" label="External segment" name="External segment" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="2535" label="External segment" name="External segment" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2911" label="External segment" name="Externum" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="3024" label="External segment" name="Externum" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="3365" label="External segment" name="External segment" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3410" label="External segment" name="External segment" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3461" label="External segment" name="External segment" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3514" label="External segment" name="External segment" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3564" label="External segment" name="External segment" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6044" label="External segment" name="External segment" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6089" label="External segment" name="External segment" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6133" label="External segment" name="External segment" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6177" label="External segment" name="External segment" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="6220" label="External segment" name="External segment" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+<item id="3296" label="Globus pallidus, External segment" name="Globus pallidus External segmen" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3327" label="Globus pallidus, External segment" name="Globus pallidus     External segment" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+</info>

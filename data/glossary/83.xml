@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Commissure, Corpus callosum, Body]]></name>
+<description><![CDATA[<p>The <b>body</b> is the main portion of the <b>corpus callosum</b> containing commissural fibers which distribute extensively between the two hemispheres.</p>]]></description>
+<item id="225" label="Body" name="Body_1" file_id="28"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/3 Caudate & Thalamus]]>
+</item>
+<item id="248" label="Body" name="Body_1" file_id="29"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/4 Lateral ventricle]]>
+</item>
+<item id="728" label="Body" name="Body" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="808" label="Body" name="Body" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="1184" label="Body" name="Body" file_id="83"><![CDATA[/MRI/Horizontal or Axial/MRI hor 2]]>
+</item>
+<item id="1626" label="Body" name="Body" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1685" label="Body" name="Body" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1724" label="Body" name="Body" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="1752" label="Body" name="Body" file_id="99"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 4]]>
+</item>
+<item id="2279" label="Body" name="Body" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="2331" label="Body" name="Body" file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2393" label="Body" name="Body" file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="2719" label="Body" name="Body" file_id="140"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/10 Hor from Inferior]]>
+</item>
+<item id="2957" label="Body" name="Body" file_id="157"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/11 Cor: Occ to Fr]]>
+</item>
+<item id="2982" label="Body" name="Body" file_id="164"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/4 Cor: Fr to Occ]]>
+</item>
+<item id="3222" label="Body" name="Body" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="4313" label="Body" name="Body" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="877" label="Commissure, Corpus callosum, Body" name="Commissure    Corpus callosum, body" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="918" label="Commissure, Corpus callosum, Body" name="CommissureCorpus callosum, body" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="962" label="Commissure, Corpus callosum, Body" name="Commissure    Corpus callosum, body" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1014" label="Commissure, Corpus callosum, Body" name="Commissure     Corpus callosum, body" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1056" label="Commissure, Corpus callosum, Body" name="Commissure    Corpus callosum, body" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="2852" label="Commissure, Corpus callosum, Body" name="Corpus callosum (body)" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="6003" label="Commissure, Corpus callosum, Body" name="Commissure, Corpus callosum, Body" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+<item id="6078" label="Commissure, Corpus callosum, Body" name="Commissure, Corpus callosum, Body" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+<item id="6209" label="Commissure, Corpus callosum, Body" name="Commissure, Corpus callosum, Body" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+<item id="841" label="Corpus callosum, body" name="Corpus callosum, body" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="3316" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3353" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3398" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3449" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3502" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3652" label="Corpus callosum, Body" name="Corpus callosum, body" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="6121" label="Corpus callosum, Body" name="Corpus callosum, Body" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6167" label="Corpus callosum, Body" name="Corpus callosum, Body" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+</info>

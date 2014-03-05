@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Uncus]]></name>
+<description><![CDATA[<p>The <b>uncus</b> is a bulge on the anterior aspect of the parahippocampal gyrus caused by the underlying amygdala. it can herniate through the tentorial notch in the event of increased intracranial pressure due to a supratentorial space-occupying lesion.</p>]]></description>
+<item id="3013" label="Cerebral gyri, Uncus" name="Uncus" file_id="165"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/5 Cor: Fr to Occ]]>
+</item>
+<item id="2488" label="Cerebral gyrus, Uncus" name="Cerebral gyrus     Uncus" file_id="124"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/5 Sag Thin Sec]]>
+</item>
+<item id="591" label="Uncus" name="Uncus" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="630" label="Uncus" name="Uncus" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="660" label="Uncus" name="Uncus" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="706" label="Uncus" name="Uncus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1422" label="Uncus" name="Uncus" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="2190" label="Uncus" name="Uncus" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2235" label="Uncus" name="Uncus" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="3495" label="Uncus" name="Uncus" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3548" label="Uncus" name="Uncus" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="4014" label="Uncus" name="Uncus" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4409" label="Uncus" name="Uncus" file_id="253"><![CDATA[/Gross/Cerebrum/Limbic System/5 Fornix]]>
+</item>
+</info>

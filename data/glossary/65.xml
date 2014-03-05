@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Choroid fissure]]></name>
+<description><![CDATA[<p>The <b>choroid fissure</b> is C-shaped. &nbsp;It is located on the medial aspect of each cerebral hemisphere, adjacent to the choroid plexus of the inferior horn of the lateral ventricle.</p>]]></description>
+<item id="1804" label="Choroidal fissure" name="Choroidal fissure" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="2522" label="Choroidal fissure" name="Choroidal fissure" file_id="125"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/6 Sag Thin Sec]]>
+</item>
+<item id="2557" label="Choroidal fissure" name="Choroidal fissure" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+</info>

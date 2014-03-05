@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cuneus gyrus]]></name>
+<description><![CDATA[<p>The <b>cuneus gyrus</b> is a wedge-shaped area of occipital cerebral cortex between the parieto-occipital and calcarine sulci. It forms the superior bank of the calcarine sulcus which receives visual input from lower visual fields.</p>]]></description>
+<item id="599" label="Cuneus" name="Cuneus" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="668" label="Cuneus" name="Cuneus" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="712" label="Cuneus" name="Cuneus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1636" label="Cuneus" name="Cuneus" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="4261" label="Cuneus" name="Cuneus" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4320" label="Cuneus" name="Cuneus" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="4637" label="Cuneus" name="Cuneus" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+</info>

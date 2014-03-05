@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Visual pathway]]></name>
+<description><![CDATA[<p>The entire <b>visual pathway</b> begins in the retina and terminates in the calcarine cortex of the occipital lobe. &nbsp;The components of the pathway are the optic nerve, optic chiasm, optic tract, lateral geniculate nucleus and optic radiations.</p>]]></description>
+<item id="585" label="Visual pathway" name="Visual pathway" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="624" label="Visual pathway" name="Visual pathway" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="1379" label="Visual pathway" name="Visual pathway" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1415" label="Visual pathway" name="Visual pathway" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1455" label="Visual pathway" name="Visual pathway" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1492" label="Visual pathway" name="Visual pathway" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="2074" label="Visual pathway" name="Visual pathway" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2126" label="Visual pathway" name="Visual pathway" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2161" label="Visual pathway" name="Visual pathway" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2207" label="Visual pathway" name="Visual pathway" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2244" label="Visual pathway" name="Visual pathway" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="2470" label="Visual pathway" name="Visual pathway" file_id="123"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/4 Sag Thin Sec]]>
+</item>
+<item id="3428" label="Visual pathway" name="Visual pathway" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3829" label="Visual pathway" name="Visual pathway" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3850" label="Visual pathway" name="Visual pathway" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="3924" label="Visual pathway" name="Visual pathway" file_id="231"><![CDATA[/Gross/Cerebrum/Visual System/1 Optic radiation]]>
+</item>
+<item id="3954" label="Visual Pathway" name="Visual Pathway" file_id="232"><![CDATA[/Gross/Cerebrum/Visual System/2 Optic radiation]]>
+</item>
+<item id="3982" label="Visual Pathway" name="Visual Pathway" file_id="233"><![CDATA[/Gross/Cerebrum/Visual System/3 Optic tract]]>
+</item>
+</info>

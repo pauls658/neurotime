@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Longitudinal cerebral fissure]]></name>
+<description><![CDATA[<p>The <b>longitudinal cerebral fissure</b> is AKA the median longitudinal fissure. it is a deep midline fissure located between the two cerebral hemispheres. &nbsp;The cerebral falx (a dural reflection) extends into this fissure.</p>]]></description>
+<item id="531" label="Cerebral fissure, Longitudinal" name="Longitudinal cerebral fis" file_id="59"><![CDATA[/Gross/Cerebrum/Surface Features/6 Dorsal View]]>
+</item>
+<item id="610" label="Cerebral fissure, Longitudinal" name="Med. longitudinal fissure" file_id="62"><![CDATA[/Gross/Cerebrum/Surface Features/9 Ventral View]]>
+</item>
+<item id="645" label="Cerebral fissure, Longitudinal" name="Med. longitudinal fissure" file_id="63"><![CDATA[/Gross/Cerebrum/Surface Features/10 Ventral View]]>
+</item>
+<item id="671" label="Cerebral fissure, Longitudinal" name="Med. longitudinal fissure" file_id="64"><![CDATA[/Gross/Cerebrum/Surface Features/11 Ventral View]]>
+</item>
+<item id="746" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="68"><![CDATA[/MRI/Coronal/MRI cor 1]]>
+</item>
+<item id="759" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="69"><![CDATA[/MRI/Coronal/MRI cor 2]]>
+</item>
+<item id="1135" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1163" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudin" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1170" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="82"><![CDATA[/MRI/Horizontal or Axial/MRI hor 1]]>
+</item>
+<item id="1187" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="83"><![CDATA[/MRI/Horizontal or Axial/MRI hor 2]]>
+</item>
+<item id="1219" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Longitudinal" file_id="84"><![CDATA[/MRI/Horizontal or Axial/MRI hor 3]]>
+</item>
+<item id="1847" label="Cerebral fissure, Longitudinal" name="Cerebral fissure     Long" file_id="108"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/1 Hor Thin Sec]]>
+</item>
+<item id="1859" label="Cerebral fissure, Longitudinal" name="Cerebral fissure Longitud" file_id="109"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/2 Hor Thin Sec]]>
+</item>
+<item id="2613" label="Cerebral fissure, Longitudinal" name="Median longitudinal fissu" file_id="131"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/1 Hor from Superior]]>
+</item>
+<item id="2618" label="Cerebral fissure, Longitudinal" name="Median longitudinal fissu" file_id="132"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/2 Hor from Superior]]>
+</item>
+<item id="2624" label="Cerebral fissure, Longitudinal" name="Median longitudinal fissu" file_id="133"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/3 Hor from Superior]]>
+</item>
+<item id="2970" label="Cerebral fissure, Longitudinal" name="Median longitudinal fissure" file_id="163"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/3 Cor: Fr to Occ]]>
+</item>
+<item id="3395" label="Cerebral fissure, Longitudinal" name="Cerebral fissure   Longitudinal" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="4597" label="Cerebral fissure, Longitudinal" name="Median longitudinal fissure" file_id="267"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/2 Cerebellum - ventral view]]>
+</item>
+<item id="6163" label="Cerebral fissure, Longitudinal" name="Cerebral fissure, Longitudinal" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="6203" label="Cerebral fissure, Longitudinal" name="Cerebral fissure, Longitudinal" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+<item id="6227" label="Cerebral fissure, Longitudinal" name="Cerebral fissure, Longitudinal" file_id="315"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/38 Telencephalon]]>
+</item>
+<item id="6246" label="Cerebral fissure, Longitudinal" name="Cerebral fissure, Longitudinal" file_id="316"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/39 Telencephalon]]>
+</item>
+<item id="783" label="Longitudinal fissure" name="Longitudinal fissure" file_id="70"><![CDATA[/MRI/Coronal/MRI cor 3]]>
+</item>
+<item id="812" label="Longitudinal fissure" name="Longitudinal fissure" file_id="71"><![CDATA[/MRI/Coronal/MRI cor 4]]>
+</item>
+<item id="845" label="Longitudinal fissure" name="Longitudinal fissure" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="879" label="Longitudinal fissure" name="Longitudinal fissure" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="920" label="Longitudinal fissure" name="Longitudinal fissure" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="964" label="Longitudinal fissure" name="Longitudinal fissure" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1016" label="Longitudinal fissure" name="Longitudinal fissure" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1059" label="Longitudinal fissure" name="Longitudinal fissure" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1098" label="Longitudinal fissure" name="Longitudinal fissure" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1263" label="Longitudinal fissure" name="Longitudinal fissure" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1305" label="Longitudinal fissure" name="Longitudinal fissure" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1343" label="Longitudinal fissure" name="Longitudinal fissure" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1877" label="Longitudinal fissure" name="Longitudinal fissure" file_id="110"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/3 Hor Thin Sec]]>
+</item>
+<item id="1903" label="Longitudinal fissure" name="Longitudinal fissure" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1936" label="Longitudinal fissure" name="Longitudinal fissure" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="1986" label="Longitudinal Fissure" name="Longitudinal Fissure" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2035" label="Longitudinal fissure" name="Longitudinal fissure" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="3264" label="Longitudinal fissure" name="Longitudinal fissure" file_id="213"><![CDATA[/Sections/Thin, Whole Brain/Coronal/1 Cor Thin Sec]]>
+</item>
+<item id="3285" label="Longitudinal fissure" name="Longitudinal fissure" file_id="214"><![CDATA[/Sections/Thin, Whole Brain/Coronal/2 Cor Thin Sec]]>
+</item>
+<item id="3312" label="Longitudinal fissure" name="Longitudinal fissure" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3349" label="Longitudinal fissure" name="Longitudinal fissure" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3444" label="Longitudinal fissure" name="Longitudinal fissure" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3497" label="Longitudinal fissure" name="Longitudinal fissure" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3550" label="Longitudinal fissure" name="Longitudinal fissure" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3600" label="Longitudinal Fissure" name="Longitudinal Fissure" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3649" label="Longitudinal fissure" name="Longitudinal fissure" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3700" label="Longitudinal fissure" name="Longitudinal fissure" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3747" label="Longitudinal fissure" name="Longitudinal fissure" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+</info>

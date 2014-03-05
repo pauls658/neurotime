@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebellum, tonsil]]></name>
+<description><![CDATA[<p>The <b>tonsils of the cerebellum</b>&nbsp;are the medial, inferior part of the posterior lobe of each cerebellar hemisphere, adjacent to the medulla and near the foramen magnum. The tonsils are of clinical significance since they may herniate through the foramen magnum with increased intracranial pressure.</p>]]></description>
+<item id="1599" label="Cerebellum, Hemisphere, Tonsil" name="Cerebellum, tonsil" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1660" label="Cerebellum, Hemisphere, Tonsil" name="Cerebellum, tonsil" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="2810" label="Tonsil" name="Tonsil" file_id="150"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/4 Cor: Occ to Fr]]>
+</item>
+<item id="3125" label="Tonsil" name="Tonsil" file_id="170"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/10 Cor: Fr to Occ]]>
+</item>
+<item id="4005" label="Tonsil" name="Tonsil" file_id="237"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/2 Cranial nerves-I to X + XII]]>
+</item>
+<item id="4046" label="Tonsil" name="Tonsil" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4576" label="Tonsil" name="Tonsil" file_id="266"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/1 Cerebellum - ventral view]]>
+</item>
+<item id="4629" label="Tonsil" name="Tonsil" file_id="270"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/5 Cerebellum - mid-sagittal view]]>
+</item>
+<item id="4688" label="Tonsil" name="Tonsil" file_id="273"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/8 Cerebellum - ventral view]]>
+</item>
+<item id="4700" label="Tonsil" name="Tonsil" file_id="274"><![CDATA[/Gross/Brain stem & Cerebellum/Cerebellum/9 Dentate nucleus]]>
+</item>
+<item id="1121" label="Tonsils" name="Tonsils" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+</info>

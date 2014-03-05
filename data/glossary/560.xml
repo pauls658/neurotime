@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Basilar sulcus]]></name>
+<description><![CDATA[<p>The <b>basilar sulcus</b> is a midline groove on the ventral or anterior aspect of the basilar portion of the pons. The basilar artery lies within this sulcus.</p>]]></description>
+<item id="5446" label="Basilar sulcus" name="Basilar sulcus" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="5490" label="Basilar sulcus" name="Basilar sulcus" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+<item id="5543" label="Basilar sulcus" name="Basilar sulcus" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5599" label="Basilar sulcus" name="Basilar sulcus" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5647" label="Basilar sulcus" name="Basilar sulcus" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5789" label="Basilar sulcus" name="Basilar sulcus" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="5819" label="Basilar sulcus" name="Basilar sulcus" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+</info>

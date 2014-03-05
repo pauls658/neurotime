@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Posterior cerebral artery]]></name>
+<description><![CDATA[<p>The <b>posterior cerebral arteries</b> are paired vessels formed as the terminal branches of the basilar artery at the level of the midbrain. They are part of the posterior aspect of the circle of Willis and supply the rostral midbrain, posterior thalamus, medial occipital lobe as well as the inferior and medial surfaces of the temporal lobe.  Disruption of the posterior cerebral artery may result in blindness in the contralateral visual field since it supplies the visual cortex of the occipital lobe; it may also present as a contralateral upper motor neuron lesion with spastic paralysis of the contralateral body and face as well as an ipsilateral lower motor neuron lesion of the oculomotor nerve/nucleus since it supplies the crus cerebri and oculumotor nerve/nucleus in the midbrain.</p>]]></description>
+<item id="1119" label="Arteries, Posterior cerebral" name="Arteries, post. cerebral" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="3640" label="Arteries, Posterior cerebral" name="Arteries, post. cerebral" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3739" label="Arteries, Posterior cerebral" name="Arteries, post. cerebral" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3778" label="Arteries, Posterior cerebral" name="Arteries, post. cerebral" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="898" label="Posterior cerebral" name="Posterior cerebral" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="939" label="Posterior cerebral" name="Posterior cerebral" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="983" label="Posterior cerebral" name="Posterior cerebral" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1036" label="Posterior cerebral" name="Posterior cerebral" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1076" label="Posterior cerebral" name="Posterior cerebral" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1153" label="Posterior cerebral" name="Posterior cerebral" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1286" label="Posterior cerebral" name="Posterior cerebral" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1328" label="Posterior cerebral" name="Posterior cerebral" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="1362" label="Posterior cerebral" name="Posterior cerebral" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1399" label="Posterior cerebral" name="Posterior cerebral" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1438" label="Posterior cerebral" name="Posterior cerebral" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1475" label="Posterior cerebral" name="Posterior cerebral" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1592" label="Posterior cerebral" name="Posterior cerebral" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1653" label="Posterior cerebral" name="Posterior cerebral" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1700" label="Posterior cerebral" name="Posterior cerebral" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="2226" label="Posterior cerebral" name="Posterior cerebral" file_id="117"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/10 Hor Thin Sec]]>
+</item>
+<item id="2262" label="Posterior cerebral" name="Posterior cerebral" file_id="118"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/11 Hor Thin Sec]]>
+</item>
+<item id="3691" label="Posterior cerebral" name="Posterior cerebral" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="4424" label="Posterior cerebral" name="Posterior cerebral artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4455" label="Posterior cerebral" name="Posterior cerebral artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4481" label="Posterior cerebral" name="Posterior cerebral artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4507" label="Posterior cerebral" name="Posterior cerebral artery" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="4517" label="Posterior cerebral" name="Posterior cerebral artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="4534" label="Posterior cerebral" name="Posterior cerebral artery" file_id="261"><![CDATA[/Gross/Vasculature & Nerves/6 Ventral brain stem]]>
+</item>
+<item id="2754" label="Posterior cerebral artery" name="Posterior cerebral a" file_id="142"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/12 Hor from Inferior]]>
+</item>
+<item id="3046" label="Posterior cerebral artery" name="Posterior cerebral a" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="4149" label="Posterior cerebral artery" name="Posterior cerebral artery" file_id="241"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/6 Brain stem-dissection]]>
+</item>
+<item id="4301" label="Posterior cerebral artery" name="Posterior cerebral artery" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+<item id="4356" label="Posterior cerebral artery" name="Posterior cerebral artery" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="5882" label="Posterior cerebral artery" name="Posterior cerebral artery" file_id="305"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/28 Midbrain]]>
+</item>
+</info>

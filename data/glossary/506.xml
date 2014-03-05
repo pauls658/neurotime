@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Tracts, descending motor]]></name>
+<description><![CDATA[<p>These <b>descending motor tracts</b> originate in the cerebral cortex and then travel through the posterior limb of the internal capsule, the cerebral crus of the midbrain, the basilar portion of the pons and the pyramids of the medulla.&nbsp; Sometimes this group of tracts is referred to as the pyramidal tract or system.&nbsp; It includes the <b>corticospinal</b>, <b>corticobulbar</b> and <b>corticopontine</b> tracts.&nbsp; The <b>corticopontine</b> fibers terminate at the level of the pons; therefore, the pyramids contain only <b>corticospinal</b> and <b>corticobulbar</b> fibers while only the <b>corticospinal</b> fibers continue into the spinal cord.&nbsp; There are other subcortical descending motor tracts (reticulospinal and vestibulospinal) that originate in the reticular formation and vestibular nuclei of the brain stem.</p>]]></description>
+<item id="5518" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal,-bulbar, -pontine trs" file_id="296"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/19 Pons+Cerebellum]]>
+</item>
+<item id="5568" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="297"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/20 Pons+Cerebellum]]>
+</item>
+<item id="5621" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="298"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/21 Pons+Cerebellum]]>
+</item>
+<item id="5666" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="299"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/22 Pons+Cerebellum]]>
+</item>
+<item id="5703" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="300"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/23 Pons+Cerebellum]]>
+</item>
+<item id="5736" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="301"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/24 Pons+Cerebellum]]>
+</item>
+<item id="5771" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="302"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/25 Pons+Midbrain]]>
+</item>
+<item id="5833" label="Corticospinal, -bulbar, -pontine trs" name="Corticospinal, -bulbar, -pontine trs" file_id="304"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/27 Pons+Midbrain]]>
+</item>
+<item id="5800" label="Corticospinal, -bulbar, pontine trs" name="Corticospinal, -bulbar, pontine trs" file_id="303"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/26 Pons+Midbrain]]>
+</item>
+<item id="3737" label="Corticospinal, etc." name="Corticospinal, etc." file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3776" label="Corticospinal, etc." name="Corticospinal, etc." file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+<item id="3801" label="Corticospinal, etc." name="Corticospinal, etc." file_id="225"><![CDATA[/Sections/Thin, Whole Brain/Coronal/13 Cor Thin Sec]]>
+</item>
+<item id="2892" label="Corticospinal, etc. tracts" name="Pyramidal pathway" file_id="154"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="3076" label="Corticospinal, etc. tracts" name="Pyramidal pathway" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="5115" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="288"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/11 Medulla]]>
+</item>
+<item id="5161" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="289"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/12 Medulla]]>
+</item>
+<item id="5203" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="290"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/13 Medulla]]>
+</item>
+<item id="5257" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="291"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/14 Medulla]]>
+</item>
+<item id="5318" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="292"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/15 Medulla+Cerebellum]]>
+</item>
+<item id="5374" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="293"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/16 Medulla+Cerebellum]]>
+</item>
+<item id="5423" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="294"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/17 Medulla+Cerebellum]]>
+</item>
+<item id="5465" label="Corticospinal/Corticobulbar tract" name="Corticospinal_Corticobulbar tract" file_id="295"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/18 Medulla,Pons,Cerebellum]]>
+</item>
+<item id="4711" label="Descending motor tracts" name="Descending tracts" file_id="154"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="4710" label="Descending motor tracts" name="Descending Tracts" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+</info>

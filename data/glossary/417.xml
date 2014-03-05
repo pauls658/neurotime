@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Semicircular canal]]></name>
+<description><![CDATA[<p>The <b>semicircular canals </b>(horizontal, superior, posterior) are three half-circular, interconnected tubes that constitute the bony labyrinth of the inner ear. &nbsp;Suspended within these bony canals is the membranous counterpart known as the semicircular ducts. &nbsp;The ducts are filled with a fluid called endolymph, while they are surrounded by perilymph that fills the bony labyrinth. &nbsp;With movements of the head, the hair cell receptors within the semicircular ducts detect movement of the endolymph and send a signal to the brain via the vestibular nerve.</p>]]></description>
+<item id="991" label="Semicircular canals" name="Semicircular canals" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1042" label="Semicircular canals" name="Semicircular canals" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+</info>

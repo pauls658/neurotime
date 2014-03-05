@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Interpeduncular cistern]]></name>
+<description><![CDATA[<p>The <b>interpeduncular cistern</b> is a cerebrospinal fluid-filled subarachnoid space located between the cerebral peduncles on the inferior surface of the midbrain, i.e. the interpeduncular fossa, and extending rostrally beneath the diencephalon.</p>]]></description>
+<item id="1575" label="Interpeduncular" name="Interpeduncular" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1642" label="Interpeduncular" name="Interpeduncular" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="361" label="Interpeduncular cistern" name="Interpeduncular cistern" file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+</info>

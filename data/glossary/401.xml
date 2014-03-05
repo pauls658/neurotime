@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cerebral veins, deep]]></name>
+<description><![CDATA[<p>Cerebral veins are described as superficial or deep, depending on whether they drain the superficial or deep aspects of the brain. The<b> d</b><b>eep cerebral veins</b> include the paired internal cerebral veins and the paired basal veins (of Rosenthal). &nbsp;These deep cerebral veins empty into the Great Vein of Galen which then empties into the straight venous sinus.</p>]]></description>
+<item id="4355" label="Cerebral vein, deep" name="Deep cerebral vein" file_id="247"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/12 Brain stem - parasagittal view]]>
+</item>
+<item id="1652" label="Cerebral veins, deep" name="Cerebral veins, deep" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1150" label="Deep" name="Deep" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1283" label="Deep" name="Deep" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="980" label="Deep, Internal cerebral" name="Deep     Internal cerebral" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+</info>

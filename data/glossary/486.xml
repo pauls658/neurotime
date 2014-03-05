@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Optic nerve, chiasm, tract]]></name>
+<description><![CDATA[<p>The <b>Optic Nerve</b> fibers (Cranial Nerve II) travel from the retina of each eye toward the brain. &nbsp;There is a partial crossing of the nerve fibers in the <b>Optic Chiasm</b>. &nbsp;Beyond the chiasm, the nerve fibers accumulate in the <b>Optic Tract</b>. &nbsp;The Optic Tract then carries the visual information from the contralateral visual field to the Lateral Geniculate nucleus of the thalamus and beyond to the Visual Cortex.</p>]]></description>
+<item id="4407" label="Optic nerve/chiasm/tract" name="Optic n._tract" file_id="253"><![CDATA[/Gross/Cerebrum/Limbic System/5 Fornix]]>
+</item>
+<item id="2347" label="Visual pathway, Optic chiasm " name="Visual pathway     Optic " file_id="121"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/2 Sag Thin Sec]]>
+</item>
+<item id="2407" label="Visual pathway, Optic nerve/chiasm" name="Visual pathway     Optic " file_id="122"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/3 Sag Thin Sec]]>
+</item>
+<item id="316" label="Visual pathway, Optic nerve/tract" name="Optic nerve_tract" file_id="39"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Lateral dissections/4 Internal capsule]]>
+</item>
+</info>

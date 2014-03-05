@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info title="MRI cor 6">
+<item id="883" label="Cerebral gyri" zorder="33" name="Cerebral gyri" x="100" y="107" tabs="0"><description><![CDATA[<p>The surface of the cerebral hemispheres is folded or convoluted into <b>cerebral gyri</b> (the elevations) and cerebral sulci (the valleys).</p>]]></description><shape>
+<vertex x="474" y="254" cx="474" cy="256"/>
+<vertex x="470" y="241" cx="478" cy="250"/>
+<vertex x="429" y="241" cx="448" cy="224"/>
+<vertex x="437" y="269" cx="429" cy="258"/>
+<vertex x="435" y="269" cx="435" cy="269"/>
+<vertex x="444" y="289" cx="425" cy="295"/>
+<vertex x="444" y="289" cx="444" cy="289"/>
+<vertex x="444" y="282" cx="444" cy="284"/>
+<vertex x="468" y="261" cx="470" cy="282"/>
+<vertex x="474" y="261" cx="468" cy="258"/>
+<vertex x="476" y="261" cx="474" cy="261"/>
+<vertex x="474" y="258" cx="476" cy="258"/>
+</shape><shape>
+<vertex x="392" y="230" cx="394" cy="230"/>
+<vertex x="379" y="239" cx="388" cy="237"/>
+<vertex x="379" y="241" cx="379" cy="239"/>
+<vertex x="379" y="243" cx="379" cy="241"/>
+<vertex x="392" y="250" cx="379" cy="256"/>
+<vertex x="394" y="250" cx="392" cy="250"/>
+<vertex x="394" y="254" cx="394" cy="252"/>
+<vertex x="396" y="256" cx="396" cy="254"/>
+<vertex x="394" y="256" cx="396" cy="256"/>
+<vertex x="394" y="258" cx="394" cy="258"/>
+<vertex x="407" y="280" cx="401" cy="269"/>
+<vertex x="407" y="284" cx="409" cy="282"/>
+<vertex x="409" y="289" cx="403" cy="286"/>
+<vertex x="409" y="289" cx="409" cy="289"/>
+<vertex x="429" y="271" cx="427" cy="295"/>
+<vertex x="420" y="263" cx="425" cy="267"/>
+<vertex x="420" y="263" cx="420" cy="263"/>
+<vertex x="409" y="230" cx="427" cy="243"/>
+<vertex x="407" y="230" cx="407" cy="230"/>
+<vertex x="394" y="230" cx="401" cy="230"/>
+</shape><shape>
+<vertex x="601" y="418" cx="601" cy="416"/>
+<vertex x="599" y="455" cx="591" cy="431"/>
+<vertex x="601" y="457" cx="601" cy="455"/>
+<vertex x="608" y="465" cx="604" cy="461"/>
+<vertex x="610" y="468" cx="610" cy="465"/>
+<vertex x="619" y="468" cx="614" cy="468"/>
+<vertex x="621" y="468" cx="619" cy="468"/>
+<vertex x="623" y="468" cx="621" cy="468"/>
+<vertex x="625" y="468" cx="623" cy="468"/>
+<vertex x="625" y="465" cx="625" cy="465"/>
+<vertex x="625" y="453" cx="625" cy="459"/>
+<vertex x="632" y="448" cx="629" cy="450"/>
+<vertex x="634" y="448" cx="632" cy="448"/>
+<vertex x="634" y="446" cx="634" cy="446"/>
+<vertex x="634" y="440" cx="634" cy="442"/>
+<vertex x="632" y="437" cx="632" cy="440"/>
+<vertex x="619" y="425" cx="606" cy="435"/>
+<vertex x="619" y="422" cx="619" cy="425"/>
+<vertex x="629" y="392" cx="632" cy="416"/>
+<vertex x="627" y="390" cx="627" cy="392"/>
+<vertex x="582" y="345" cx="612" cy="360"/>
+<vertex x="580" y="345" cx="580" cy="345"/>
+<vertex x="573" y="351" cx="576" cy="347"/>
+<vertex x="599" y="416" cx="595" cy="379"/>
+</shape><shape>
+<vertex x="230" y="371" cx="230" cy="368"/>
+<vertex x="215" y="401" cx="228" cy="392"/>
+<vertex x="215" y="422" cx="215" cy="412"/>
+<vertex x="215" y="425" cx="215" cy="422"/>
+<vertex x="232" y="461" cx="230" cy="435"/>
+<vertex x="232" y="461" cx="232" cy="463"/>
+<vertex x="235" y="461" cx="235" cy="461"/>
+<vertex x="252" y="427" cx="250" cy="450"/>
+<vertex x="254" y="425" cx="254" cy="425"/>
+<vertex x="243" y="403" cx="245" cy="416"/>
+<vertex x="243" y="401" cx="243" cy="401"/>
+<vertex x="269" y="358" cx="250" cy="373"/>
+<vertex x="271" y="358" cx="271" cy="358"/>
+<vertex x="278" y="343" cx="282" cy="351"/>
+<vertex x="278" y="343" cx="278" cy="343"/>
+<vertex x="276" y="340" cx="278" cy="340"/>
+<vertex x="273" y="340" cx="276" cy="340"/>
+<vertex x="271" y="340" cx="271" cy="340"/>
+<vertex x="230" y="368" cx="254" cy="358"/>
+</shape></item>
+<item id="882" label="Cingulate gyri" zorder="32" name="Cingulate gyri" x="176" y="107" tabs="1"><description><![CDATA[<p>The <b>cingulate gyrus</b> is the region of the cerebral cortex that arcs above the corpus callosum on the medial aspect of the hemisphere.  Along with the parahippocampal gyrus to which it is connected by the isthmus of the cingulate gyrus, posterior to the splenium of the corpus callosum, it is considered to be the "Limbic lobe" of the brain.</p>]]></description><shape>
+<vertex x="470" y="245" cx="474" cy="250"/>
+<vertex x="429" y="241" cx="448" cy="224"/>
+<vertex x="433" y="278" cx="437" cy="263"/>
+<vertex x="433" y="293" cx="429" cy="286"/>
+<vertex x="442" y="293" cx="437" cy="293"/>
+<vertex x="444" y="293" cx="442" cy="293"/>
+<vertex x="444" y="291" cx="444" cy="291"/>
+<vertex x="444" y="289" cx="444" cy="289"/>
+<vertex x="444" y="289" cx="444" cy="289"/>
+<vertex x="444" y="282" cx="444" cy="284"/>
+<vertex x="468" y="261" cx="470" cy="282"/>
+<vertex x="474" y="261" cx="468" cy="258"/>
+<vertex x="476" y="261" cx="474" cy="261"/>
+<vertex x="474" y="258" cx="476" cy="258"/>
+<vertex x="474" y="254" cx="474" cy="256"/>
+<vertex x="476" y="254" cx="474" cy="254"/>
+<vertex x="478" y="254" cx="476" cy="254"/>
+<vertex x="478" y="252" cx="478" cy="252"/>
+</shape><shape>
+<vertex x="392" y="230" cx="394" cy="230"/>
+<vertex x="379" y="239" cx="388" cy="237"/>
+<vertex x="379" y="241" cx="379" cy="239"/>
+<vertex x="379" y="243" cx="379" cy="241"/>
+<vertex x="379" y="248" cx="379" cy="245"/>
+<vertex x="379" y="250" cx="379" cy="248"/>
+<vertex x="392" y="250" cx="386" cy="254"/>
+<vertex x="394" y="250" cx="392" cy="250"/>
+<vertex x="394" y="254" cx="394" cy="252"/>
+<vertex x="396" y="256" cx="396" cy="254"/>
+<vertex x="394" y="256" cx="396" cy="256"/>
+<vertex x="394" y="258" cx="394" cy="258"/>
+<vertex x="407" y="280" cx="401" cy="269"/>
+<vertex x="407" y="284" cx="409" cy="282"/>
+<vertex x="409" y="289" cx="403" cy="286"/>
+<vertex x="409" y="291" cx="409" cy="289"/>
+<vertex x="409" y="293" cx="409" cy="291"/>
+<vertex x="414" y="293" cx="412" cy="293"/>
+<vertex x="416" y="293" cx="414" cy="293"/>
+<vertex x="416" y="291" cx="416" cy="291"/>
+<vertex x="429" y="271" cx="429" cy="289"/>
+<vertex x="420" y="263" cx="425" cy="267"/>
+<vertex x="420" y="263" cx="420" cy="263"/>
+<vertex x="409" y="230" cx="427" cy="243"/>
+<vertex x="407" y="230" cx="407" cy="230"/>
+<vertex x="394" y="230" cx="401" cy="230"/>
+</shape></item>
+<item id="881" label="Insula" zorder="31" name="Insula" x="100" y="158" tabs="1"><description><![CDATA[<p>The <b>insula</b> is an area of cerebral cortex (AKA insular cortex or Island of Reil) that is concealed by the opercula of the frontal, parietal and temporal gyri.  It was originally the lateral surface of the telencephalon but was overgrown during development by the other cerebral lobes.  It generally consists of three short gyri located anteriorly and two long gyri located posteriorly.</p>]]></description><shape>
+<vertex x="601" y="418" cx="601" cy="416"/>
+<vertex x="599" y="455" cx="591" cy="431"/>
+<vertex x="601" y="457" cx="601" cy="455"/>
+<vertex x="608" y="465" cx="604" cy="461"/>
+<vertex x="610" y="468" cx="610" cy="465"/>
+<vertex x="619" y="468" cx="614" cy="468"/>
+<vertex x="621" y="468" cx="619" cy="468"/>
+<vertex x="623" y="468" cx="621" cy="468"/>
+<vertex x="625" y="468" cx="623" cy="468"/>
+<vertex x="625" y="465" cx="625" cy="465"/>
+<vertex x="625" y="453" cx="625" cy="459"/>
+<vertex x="632" y="448" cx="629" cy="450"/>
+<vertex x="634" y="448" cx="632" cy="448"/>
+<vertex x="634" y="446" cx="634" cy="446"/>
+<vertex x="634" y="440" cx="634" cy="442"/>
+<vertex x="632" y="437" cx="632" cy="440"/>
+<vertex x="619" y="425" cx="606" cy="435"/>
+<vertex x="619" y="422" cx="619" cy="425"/>
+<vertex x="629" y="392" cx="632" cy="416"/>
+<vertex x="627" y="390" cx="627" cy="392"/>
+<vertex x="582" y="345" cx="612" cy="360"/>
+<vertex x="580" y="345" cx="580" cy="345"/>
+<vertex x="573" y="351" cx="576" cy="347"/>
+<vertex x="599" y="416" cx="595" cy="379"/>
+</shape><shape>
+<vertex x="230" y="371" cx="230" cy="368"/>
+<vertex x="215" y="401" cx="228" cy="392"/>
+<vertex x="215" y="422" cx="215" cy="412"/>
+<vertex x="215" y="425" cx="215" cy="422"/>
+<vertex x="232" y="461" cx="230" cy="435"/>
+<vertex x="232" y="461" cx="232" cy="463"/>
+<vertex x="235" y="461" cx="235" cy="461"/>
+<vertex x="252" y="427" cx="250" cy="450"/>
+<vertex x="254" y="425" cx="254" cy="425"/>
+<vertex x="243" y="403" cx="245" cy="416"/>
+<vertex x="243" y="401" cx="243" cy="401"/>
+<vertex x="269" y="358" cx="250" cy="373"/>
+<vertex x="271" y="358" cx="271" cy="358"/>
+<vertex x="278" y="343" cx="282" cy="351"/>
+<vertex x="278" y="343" cx="278" cy="343"/>
+<vertex x="278" y="340" cx="278" cy="340"/>
+<vertex x="276" y="340" cx="276" cy="340"/>
+<vertex x="273" y="340" cx="273" cy="340"/>
+<vertex x="271" y="340" cx="271" cy="340"/>
+<vertex x="269" y="340" cx="269" cy="340"/>
+<vertex x="267" y="340" cx="269" cy="340"/>
+<vertex x="230" y="368" cx="252" cy="358"/>
+</shape></item>
+<item id="880" label="Cerebral sulci &amp; fissures" zorder="30" name="Cerebral sulci_fissures" x="48" y="51" tabs="0"><description><![CDATA[<p>A <b>cerebral fissure</b> is AKA a cerebral sulcus (sing.); sulci (pl.). &nbsp;Fissures are the depressions or grooves between the gyri or convolutions of the cerebral cortex. &nbsp;Fissure generally refers to a sulcus that is particularly deep. &nbsp;The terms are used interchangeably in some cases.</p>]]></description><shape>
+<vertex x="733" y="384" cx="733" cy="386"/>
+<vertex x="703" y="373" cx="724" cy="371"/>
+<vertex x="673" y="375" cx="686" cy="375"/>
+<vertex x="640" y="384" cx="647" cy="375"/>
+<vertex x="638" y="381" cx="638" cy="384"/>
+<vertex x="582" y="338" cx="612" cy="351"/>
+<vertex x="614" y="373" cx="595" cy="358"/>
+<vertex x="623" y="422" cx="636" cy="394"/>
+<vertex x="629" y="435" cx="599" cy="433"/>
+<vertex x="632" y="437" cx="629" cy="437"/>
+<vertex x="623" y="459" cx="632" cy="446"/>
+<vertex x="625" y="465" cx="623" cy="461"/>
+<vertex x="629" y="465" cx="627" cy="465"/>
+<vertex x="632" y="465" cx="629" cy="465"/>
+<vertex x="632" y="463" cx="632" cy="463"/>
+<vertex x="632" y="459" cx="632" cy="461"/>
+<vertex x="657" y="429" cx="649" cy="448"/>
+<vertex x="660" y="429" cx="660" cy="429"/>
+<vertex x="649" y="409" cx="651" cy="422"/>
+<vertex x="649" y="407" cx="649" cy="407"/>
+<vertex x="675" y="384" cx="655" cy="390"/>
+<vertex x="677" y="384" cx="677" cy="384"/>
+<vertex x="731" y="390" cx="714" cy="381"/>
+<vertex x="733" y="392" cx="731" cy="392"/>
+<vertex x="733" y="390" cx="733" cy="390"/>
+</shape><shape>
+<vertex x="407" y="110" cx="407" cy="110"/>
+<vertex x="403" y="151" cx="422" cy="133"/>
+<vertex x="412" y="181" cx="409" cy="161"/>
+<vertex x="422" y="215" cx="414" cy="200"/>
+<vertex x="416" y="232" cx="416" cy="228"/>
+<vertex x="416" y="239" cx="416" cy="235"/>
+<vertex x="418" y="261" cx="425" cy="250"/>
+<vertex x="420" y="265" cx="418" cy="263"/>
+<vertex x="422" y="267" cx="420" cy="265"/>
+<vertex x="409" y="289" cx="420" cy="282"/>
+<vertex x="412" y="291" cx="409" cy="289"/>
+<vertex x="416" y="293" cx="414" cy="291"/>
+<vertex x="429" y="278" cx="448" cy="295"/>
+<vertex x="429" y="278" cx="429" cy="278"/>
+<vertex x="440" y="265" cx="427" cy="261"/>
+<vertex x="437" y="263" cx="437" cy="263"/>
+<vertex x="431" y="254" cx="433" cy="258"/>
+<vertex x="442" y="230" cx="427" cy="237"/>
+<vertex x="444" y="230" cx="444" cy="230"/>
+<vertex x="440" y="202" cx="440" cy="215"/>
+<vertex x="440" y="200" cx="440" cy="200"/>
+<vertex x="463" y="174" cx="446" cy="183"/>
+<vertex x="465" y="174" cx="465" cy="174"/>
+<vertex x="442" y="138" cx="448" cy="159"/>
+<vertex x="444" y="138" cx="442" cy="138"/>
+<vertex x="455" y="112" cx="455" cy="122"/>
+<vertex x="457" y="110" cx="457" cy="110"/>
+<vertex x="455" y="110" cx="455" cy="110"/>
+<vertex x="407" y="110" cx="431" cy="110"/>
+</shape><shape>
+<vertex x="138" y="362" cx="138" cy="362"/>
+<vertex x="103" y="373" cx="122" cy="381"/>
+<vertex x="103" y="384" cx="103" cy="377"/>
+<vertex x="103" y="386" cx="103" cy="384"/>
+<vertex x="103" y="384" cx="103" cy="386"/>
+<vertex x="138" y="381" cx="118" cy="379"/>
+<vertex x="138" y="381" cx="138" cy="381"/>
+<vertex x="166" y="405" cx="153" cy="392"/>
+<vertex x="168" y="403" cx="166" cy="405"/>
+<vertex x="198" y="407" cx="185" cy="403"/>
+<vertex x="198" y="407" cx="198" cy="407"/>
+<vertex x="204" y="433" cx="211" cy="418"/>
+<vertex x="204" y="435" cx="204" cy="435"/>
+<vertex x="213" y="446" cx="209" cy="442"/>
+<vertex x="232" y="457" cx="222" cy="461"/>
+<vertex x="230" y="450" cx="232" cy="453"/>
+<vertex x="217" y="403" cx="217" cy="431"/>
+<vertex x="217" y="401" cx="217" cy="401"/>
+<vertex x="228" y="375" cx="230" cy="392"/>
+<vertex x="226" y="366" cx="213" cy="371"/>
+<vertex x="267" y="345" cx="252" cy="362"/>
+<vertex x="267" y="343" cx="267" cy="343"/>
+<vertex x="245" y="358" cx="256" cy="345"/>
+<vertex x="243" y="358" cx="243" cy="358"/>
+<vertex x="220" y="364" cx="228" cy="358"/>
+<vertex x="217" y="364" cx="217" cy="364"/>
+<vertex x="187" y="399" cx="207" cy="386"/>
+<vertex x="185" y="396" cx="185" cy="399"/>
+<vertex x="140" y="362" cx="148" cy="392"/>
+</shape></item>
+<item id="879" label="Longitudinal fissure" zorder="29" name="Longitudinal fissure" x="187" y="51" tabs="1"><description><![CDATA[<p>The <b>longitudinal cerebral fissure</b> is AKA the median longitudinal fissure. it is a deep midline fissure located between the two cerebral hemispheres. &nbsp;The cerebral falx (a dural reflection) extends into this fissure.</p>]]></description><shape>
+<vertex x="407" y="110" cx="407" cy="110"/>
+<vertex x="403" y="151" cx="422" cy="133"/>
+<vertex x="403" y="157" cx="403" cy="153"/>
+<vertex x="403" y="159" cx="403" cy="157"/>
+<vertex x="418" y="198" cx="416" cy="170"/>
+<vertex x="422" y="215" cx="418" cy="207"/>
+<vertex x="416" y="232" cx="416" cy="228"/>
+<vertex x="416" y="239" cx="416" cy="235"/>
+<vertex x="418" y="261" cx="425" cy="250"/>
+<vertex x="420" y="265" cx="418" cy="263"/>
+<vertex x="422" y="267" cx="420" cy="265"/>
+<vertex x="409" y="289" cx="420" cy="282"/>
+<vertex x="412" y="291" cx="409" cy="289"/>
+<vertex x="416" y="293" cx="414" cy="291"/>
+<vertex x="435" y="293" cx="425" cy="293"/>
+<vertex x="437" y="293" cx="435" cy="293"/>
+<vertex x="435" y="286" cx="440" cy="289"/>
+<vertex x="431" y="282" cx="433" cy="284"/>
+<vertex x="431" y="267" cx="427" cy="271"/>
+<vertex x="433" y="265" cx="433" cy="265"/>
+<vertex x="429" y="245" cx="437" cy="261"/>
+<vertex x="442" y="230" cx="433" cy="237"/>
+<vertex x="444" y="230" cx="444" cy="230"/>
+<vertex x="440" y="202" cx="440" cy="215"/>
+<vertex x="440" y="200" cx="440" cy="200"/>
+<vertex x="463" y="179" cx="446" cy="183"/>
+<vertex x="465" y="179" cx="463" cy="179"/>
+<vertex x="465" y="176" cx="465" cy="176"/>
+<vertex x="465" y="170" cx="465" cy="172"/>
+<vertex x="463" y="168" cx="463" cy="170"/>
+<vertex x="442" y="138" cx="446" cy="157"/>
+<vertex x="455" y="112" cx="455" cy="125"/>
+<vertex x="457" y="110" cx="457" cy="110"/>
+<vertex x="455" y="110" cx="455" cy="110"/>
+<vertex x="407" y="110" cx="431" cy="110"/>
+</shape></item>
+<item id="878" label="Lateral sulci" zorder="28" name="Lateral sulci" x="48" y="156" tabs="1"><description><![CDATA[<p style="text-align: left;">The <b>lateral fissure or sulcus</b> is AKA the Sylvian fissure. It is a long, deep sulcus on the lateral aspect of each cerebral hemisphere that separates the frontal and parietal lobes from the temporal lobe. &nbsp;The main portion of the fissure is sometimes referred to as the posterior ramus. &nbsp;Anteriorly, the fissure branches to subdivide the inferior frontal gyrus; anterior horizontal and anterior ascending rami delineate the orbital, triangular and opercular portions of the inferior frontal gyrus. &nbsp;The cortex known as the insula is located deep within this sulcus and the transverse temporal gyri (auditory cortex) is located on the temporal lobe aspect of the fissure.</p>]]></description><shape>
+<vertex x="733" y="384" cx="733" cy="386"/>
+<vertex x="703" y="373" cx="724" cy="371"/>
+<vertex x="673" y="375" cx="686" cy="375"/>
+<vertex x="640" y="384" cx="647" cy="375"/>
+<vertex x="638" y="381" cx="638" cy="384"/>
+<vertex x="586" y="336" cx="614" cy="355"/>
+<vertex x="584" y="336" cx="584" cy="336"/>
+<vertex x="582" y="336" cx="584" cy="336"/>
+<vertex x="582" y="338" cx="582" cy="338"/>
+<vertex x="614" y="373" cx="595" cy="358"/>
+<vertex x="623" y="422" cx="636" cy="394"/>
+<vertex x="629" y="435" cx="599" cy="433"/>
+<vertex x="632" y="437" cx="629" cy="437"/>
+<vertex x="623" y="459" cx="632" cy="446"/>
+<vertex x="625" y="465" cx="623" cy="461"/>
+<vertex x="629" y="465" cx="627" cy="465"/>
+<vertex x="632" y="465" cx="629" cy="465"/>
+<vertex x="632" y="463" cx="632" cy="463"/>
+<vertex x="632" y="459" cx="632" cy="461"/>
+<vertex x="657" y="429" cx="649" cy="448"/>
+<vertex x="660" y="429" cx="660" cy="429"/>
+<vertex x="649" y="409" cx="651" cy="422"/>
+<vertex x="649" y="407" cx="649" cy="407"/>
+<vertex x="675" y="384" cx="655" cy="390"/>
+<vertex x="677" y="384" cx="677" cy="384"/>
+<vertex x="731" y="390" cx="714" cy="381"/>
+<vertex x="733" y="392" cx="731" cy="392"/>
+<vertex x="733" y="390" cx="733" cy="390"/>
+</shape><shape>
+<vertex x="138" y="362" cx="138" cy="362"/>
+<vertex x="103" y="373" cx="122" cy="381"/>
+<vertex x="103" y="384" cx="103" cy="377"/>
+<vertex x="103" y="386" cx="103" cy="384"/>
+<vertex x="103" y="384" cx="103" cy="386"/>
+<vertex x="138" y="381" cx="118" cy="379"/>
+<vertex x="138" y="381" cx="138" cy="381"/>
+<vertex x="166" y="405" cx="153" cy="392"/>
+<vertex x="168" y="403" cx="166" cy="405"/>
+<vertex x="198" y="407" cx="185" cy="403"/>
+<vertex x="198" y="407" cx="198" cy="407"/>
+<vertex x="204" y="433" cx="211" cy="418"/>
+<vertex x="204" y="435" cx="204" cy="435"/>
+<vertex x="213" y="446" cx="209" cy="442"/>
+<vertex x="232" y="457" cx="222" cy="461"/>
+<vertex x="230" y="450" cx="232" cy="453"/>
+<vertex x="217" y="403" cx="217" cy="431"/>
+<vertex x="217" y="401" cx="217" cy="401"/>
+<vertex x="228" y="375" cx="230" cy="392"/>
+<vertex x="226" y="366" cx="213" cy="371"/>
+<vertex x="267" y="345" cx="252" cy="362"/>
+<vertex x="267" y="343" cx="267" cy="343"/>
+<vertex x="245" y="358" cx="256" cy="345"/>
+<vertex x="243" y="358" cx="243" cy="358"/>
+<vertex x="220" y="364" cx="228" cy="358"/>
+<vertex x="217" y="364" cx="217" cy="364"/>
+<vertex x="187" y="399" cx="207" cy="386"/>
+<vertex x="185" y="396" cx="185" cy="399"/>
+<vertex x="140" y="362" cx="148" cy="392"/>
+</shape></item>
+<item id="868" label="Septum pellucidum" zorder="27" name="Septum pellucidum" x="197" y="151" tabs="0"><description><![CDATA[<p>The <b>septum pellucidum</b> is a thin, almost transparent paired membrane that separates the two lateral ventricles.  It is stretched out between the area of the septal nuclei and fornix inferiorly and the inferior surface of the corpus callosum.</p>]]></description><shape>
+<vertex x="431" y="353" cx="429" cy="360"/>
+<vertex x="425" y="325" cx="442" cy="327"/>
+<vertex x="425" y="327" cx="425" cy="325"/>
+<vertex x="425" y="355" cx="425" cy="340"/>
+</shape></item>
+<item id="877" label="Commissure, Corpus callosum, Body" zorder="26" name="Commissure    Corpus callosum, body" x="167" y="129" tabs="0"><description><![CDATA[<p>The <b>body</b> is the main portion of the <b>corpus callosum</b> containing commissural fibers which distribute extensively between the two hemispheres.</p>]]></description><shape>
+<vertex x="444" y="293" cx="453" cy="284"/>
+<vertex x="442" y="293" cx="442" cy="293"/>
+<vertex x="418" y="293" cx="429" cy="293"/>
+<vertex x="416" y="291" cx="418" cy="291"/>
+<vertex x="394" y="278" cx="403" cy="286"/>
+<vertex x="392" y="278" cx="392" cy="278"/>
+<vertex x="388" y="278" cx="390" cy="278"/>
+<vertex x="386" y="278" cx="388" cy="278"/>
+<vertex x="360" y="291" cx="377" cy="291"/>
+<vertex x="360" y="293" cx="360" cy="291"/>
+<vertex x="418" y="323" cx="379" cy="317"/>
+<vertex x="420" y="325" cx="420" cy="323"/>
+<vertex x="442" y="325" cx="431" cy="325"/>
+<vertex x="444" y="325" cx="442" cy="325"/>
+<vertex x="444" y="323" cx="444" cy="323"/>
+<vertex x="498" y="304" cx="472" cy="314"/>
+<vertex x="500" y="304" cx="498" cy="304"/>
+<vertex x="500" y="302" cx="500" cy="302"/>
+<vertex x="498" y="299" cx="498" cy="302"/>
+<vertex x="481" y="295" cx="489" cy="295"/>
+<vertex x="478" y="293" cx="481" cy="293"/>
+<vertex x="468" y="280" cx="474" cy="284"/>
+<vertex x="465" y="280" cx="468" cy="280"/>
+</shape></item>
+<item id="876" label="Hippocampal formation" zorder="25" name="Hippocampal formation" x="123" y="212" tabs="0"><description><![CDATA[<p>The <b>hippocampus</b> is AKA the hippocampal formation. It is an area of cerebral cortex rolled up inside the medial aspect of the temporal lobe.  It is part of the limbic system and functions in the consolidation of new memories of facts and events.  It has three subdivisions:  the hippocampus proper (Ammon's horn), the dentate gyrus, and the subiculum.  The fornix carries the primary output from the hippocampus to the ipsilateral septal area and hypothalamus.</p>]]></description><shape>
+<vertex x="338" y="457" cx="338" cy="457"/>
+<vertex x="336" y="457" cx="338" cy="457"/>
+<vertex x="319" y="472" cx="325" cy="461"/>
+<vertex x="317" y="472" cx="317" cy="472"/>
+<vertex x="265" y="494" cx="286" cy="478"/>
+<vertex x="265" y="496" cx="265" cy="494"/>
+<vertex x="265" y="498" cx="265" cy="496"/>
+<vertex x="286" y="515" cx="276" cy="506"/>
+<vertex x="289" y="517" cx="286" cy="517"/>
+<vertex x="317" y="496" cx="304" cy="509"/>
+<vertex x="319" y="496" cx="317" cy="496"/>
+<vertex x="351" y="487" cx="338" cy="498"/>
+<vertex x="353" y="487" cx="351" cy="487"/>
+<vertex x="340" y="457" cx="360" cy="461"/>
+<vertex x="340" y="457" cx="340" cy="457"/>
+</shape><shape>
+<vertex x="578" y="502" cx="578" cy="504"/>
+<vertex x="550" y="500" cx="567" cy="498"/>
+<vertex x="547" y="498" cx="547" cy="500"/>
+<vertex x="550" y="478" cx="543" cy="489"/>
+<vertex x="547" y="476" cx="547" cy="478"/>
+<vertex x="519" y="465" cx="541" cy="463"/>
+<vertex x="519" y="463" cx="519" cy="463"/>
+<vertex x="498" y="487" cx="504" cy="472"/>
+<vertex x="539" y="535" cx="522" cy="506"/>
+<vertex x="541" y="537" cx="541" cy="535"/>
+<vertex x="554" y="537" cx="547" cy="537"/>
+<vertex x="556" y="537" cx="554" cy="537"/>
+<vertex x="556" y="535" cx="556" cy="535"/>
+<vertex x="578" y="515" cx="571" cy="528"/>
+<vertex x="580" y="515" cx="578" cy="515"/>
+<vertex x="580" y="513" cx="580" cy="513"/>
+<vertex x="580" y="504" cx="580" cy="509"/>
+</shape></item>
+<item id="875" label="Fornix, columns" zorder="24" name="Fornix, columns" x="192" y="166" tabs="0"><description><![CDATA[<p>The <b>columns </b><b>of the fornix</b> is the portion that leaves the body of the fornix to turn ventrally and then caudally toward the septal nuclei and mammillary bodies of the hypothalamus.</p>]]></description><shape>
+<vertex x="420" y="358" cx="422" cy="358"/>
+<vertex x="414" y="377" cx="414" cy="364"/>
+<vertex x="414" y="388" cx="414" cy="381"/>
+<vertex x="414" y="390" cx="414" cy="388"/>
+<vertex x="427" y="394" cx="418" cy="394"/>
+<vertex x="429" y="396" cx="429" cy="394"/>
+<vertex x="444" y="375" cx="448" cy="399"/>
+<vertex x="444" y="375" cx="444" cy="375"/>
+<vertex x="442" y="373" cx="442" cy="375"/>
+<vertex x="435" y="358" cx="440" cy="364"/>
+<vertex x="433" y="358" cx="433" cy="358"/>
+<vertex x="422" y="358" cx="427" cy="358"/>
+</shape></item>
+<item id="874" label="Internal capsule" zorder="23" name="Internal capsule" x="133" y="142" tabs="0"><description><![CDATA[<p>The<b> internal capsule</b> is a thick fiber bundle that is the primary route of communication between the cerebral cortex and other CNS structures.  It includes the thalamocortical, corticothalamic, corticospinal, corticobulbar, etc. tracts.  It consists of an anterior limb, genu and posterior limb that form a "V" shape as seen in mid-level horizontal or axial sections.&nbsp;&nbsp; The lenticular nucleus (putamen and globus pallidus) is located laterally inside the "V" and the caudate nucleus and thalamus are located medially.</p>]]></description><shape>
+<vertex x="396" y="381" cx="396" cy="401"/>
+<vertex x="399" y="379" cx="399" cy="379"/>
+<vertex x="360" y="345" cx="379" cy="362"/>
+<vertex x="360" y="345" cx="360" cy="345"/>
+<vertex x="334" y="330" cx="345" cy="338"/>
+<vertex x="334" y="330" cx="334" cy="330"/>
+<vertex x="314" y="306" cx="330" cy="310"/>
+<vertex x="314" y="306" cx="314" cy="306"/>
+<vertex x="312" y="306" cx="312" cy="306"/>
+<vertex x="308" y="306" cx="310" cy="306"/>
+<vertex x="306" y="306" cx="308" cy="306"/>
+<vertex x="286" y="327" cx="297" cy="317"/>
+<vertex x="286" y="332" cx="286" cy="330"/>
+<vertex x="286" y="334" cx="286" cy="332"/>
+<vertex x="312" y="343" cx="297" cy="338"/>
+<vertex x="314" y="345" cx="312" cy="345"/>
+<vertex x="334" y="375" cx="323" cy="362"/>
+<vertex x="336" y="377" cx="334" cy="377"/>
+<vertex x="384" y="407" cx="371" cy="381"/>
+<vertex x="386" y="409" cx="384" cy="409"/>
+</shape><shape>
+<vertex x="476" y="420" cx="474" cy="420"/>
+<vertex x="476" y="418" cx="476" cy="418"/>
+<vertex x="519" y="379" cx="489" cy="390"/>
+<vertex x="522" y="379" cx="519" cy="379"/>
+<vertex x="526" y="358" cx="522" cy="371"/>
+<vertex x="528" y="358" cx="528" cy="358"/>
+<vertex x="558" y="340" cx="543" cy="349"/>
+<vertex x="560" y="340" cx="558" cy="340"/>
+<vertex x="560" y="338" cx="560" cy="338"/>
+<vertex x="558" y="336" cx="558" cy="338"/>
+<vertex x="535" y="310" cx="547" cy="321"/>
+<vertex x="532" y="310" cx="532" cy="310"/>
+<vertex x="470" y="375" cx="506" cy="347"/>
+<vertex x="470" y="377" cx="470" cy="375"/>
+<vertex x="463" y="399" cx="468" cy="390"/>
+<vertex x="463" y="418" cx="461" cy="409"/>
+<vertex x="465" y="420" cx="465" cy="418"/>
+<vertex x="474" y="420" cx="470" cy="420"/>
+</shape></item>
+<item id="873" label="Corpus striatum" zorder="22" name="Corpus striatum" x="130" y="138" tabs="0"><description><![CDATA[<p>The <b>corpus striatum </b>includes&nbsp;the caudate nuclei, putamen and globus pallidus. &nbsp;These nuclei are often referred to as the basal ganglia. &nbsp; Note that the term "striatum" includes only the caudate nuclei plus the putamen.</p>]]></description><shape>
+<vertex x="511" y="314" cx="511" cy="314"/>
+<vertex x="470" y="360" cx="472" cy="314"/>
+<vertex x="470" y="366" cx="470" cy="362"/>
+<vertex x="470" y="371" cx="470" cy="368"/>
+<vertex x="515" y="332" cx="496" cy="358"/>
+<vertex x="515" y="330" cx="515" cy="330"/>
+<vertex x="513" y="314" cx="519" cy="319"/>
+</shape><shape>
+<vertex x="353" y="297" cx="353" cy="297"/>
+<vertex x="349" y="297" cx="351" cy="297"/>
+<vertex x="347" y="297" cx="349" cy="297"/>
+<vertex x="332" y="312" cx="338" cy="304"/>
+<vertex x="355" y="340" cx="332" cy="338"/>
+<vertex x="358" y="343" cx="355" cy="343"/>
+<vertex x="384" y="360" cx="362" cy="358"/>
+<vertex x="384" y="360" cx="384" cy="360"/>
+<vertex x="377" y="325" cx="386" cy="345"/>
+<vertex x="355" y="297" cx="368" cy="308"/>
+</shape><shape>
+<vertex x="379" y="414" cx="381" cy="414"/>
+<vertex x="336" y="377" cx="373" cy="379"/>
+<vertex x="334" y="375" cx="334" cy="377"/>
+<vertex x="306" y="343" cx="323" cy="353"/>
+<vertex x="304" y="343" cx="304" cy="343"/>
+<vertex x="280" y="362" cx="284" cy="345"/>
+<vertex x="280" y="416" cx="280" cy="388"/>
+<vertex x="280" y="418" cx="280" cy="416"/>
+<vertex x="325" y="431" cx="295" cy="435"/>
+<vertex x="334" y="435" cx="330" cy="431"/>
+<vertex x="345" y="435" cx="338" cy="435"/>
+<vertex x="347" y="435" cx="345" cy="435"/>
+<vertex x="347" y="433" cx="347" cy="433"/>
+<vertex x="381" y="416" cx="366" cy="427"/>
+</shape><shape>
+<vertex x="519" y="379" cx="519" cy="379"/>
+<vertex x="478" y="412" cx="494" cy="390"/>
+<vertex x="496" y="433" cx="483" cy="427"/>
+<vertex x="498" y="435" cx="498" cy="433"/>
+<vertex x="537" y="435" cx="517" cy="435"/>
+<vertex x="539" y="435" cx="537" cy="435"/>
+<vertex x="539" y="433" cx="539" cy="433"/>
+<vertex x="563" y="425" cx="552" cy="429"/>
+<vertex x="565" y="425" cx="563" cy="425"/>
+<vertex x="573" y="407" cx="571" cy="418"/>
+<vertex x="576" y="407" cx="573" cy="407"/>
+<vertex x="576" y="405" cx="576" cy="405"/>
+<vertex x="576" y="379" cx="576" cy="392"/>
+<vertex x="573" y="377" cx="573" cy="379"/>
+<vertex x="571" y="364" cx="571" cy="371"/>
+<vertex x="569" y="362" cx="569" cy="364"/>
+<vertex x="552" y="347" cx="563" cy="351"/>
+<vertex x="550" y="347" cx="550" cy="347"/>
+<vertex x="528" y="358" cx="537" cy="349"/>
+<vertex x="526" y="358" cx="528" cy="358"/>
+<vertex x="522" y="379" cx="522" cy="371"/>
+</shape></item>
+<item id="872" label="Caudate nuclei" zorder="21" name="Caudate nuclei" x="154" y="138" tabs="1"><description><![CDATA[<p>The <b>caudate nucleus</b> is the medial portion of the striatum. It consists of a large head that bulges into the anterior horn of the lateral ventricle, a body that narrows and curves along the body of the lateral ventricle and a tail that continues through the atrium or trigone of the lateral ventricle and into the inferior horn of the lateral ventricle.  Principal connections are with the prefrontal and other association areas of cerebral cortex.</p>]]></description><shape>
+<vertex x="506" y="314" cx="511" cy="312"/>
+<vertex x="470" y="360" cx="472" cy="319"/>
+<vertex x="470" y="373" cx="470" cy="366"/>
+<vertex x="470" y="375" cx="470" cy="373"/>
+<vertex x="474" y="375" cx="472" cy="375"/>
+<vertex x="476" y="375" cx="474" cy="375"/>
+<vertex x="476" y="373" cx="476" cy="373"/>
+<vertex x="515" y="330" cx="498" cy="353"/>
+<vertex x="517" y="330" cx="515" cy="330"/>
+<vertex x="517" y="327" cx="517" cy="327"/>
+<vertex x="517" y="317" cx="517" cy="321"/>
+</shape><shape>
+<vertex x="353" y="297" cx="353" cy="297"/>
+<vertex x="349" y="297" cx="351" cy="297"/>
+<vertex x="347" y="297" cx="349" cy="297"/>
+<vertex x="332" y="312" cx="338" cy="304"/>
+<vertex x="332" y="325" cx="332" cy="319"/>
+<vertex x="332" y="327" cx="332" cy="325"/>
+<vertex x="355" y="340" cx="340" cy="336"/>
+<vertex x="358" y="343" cx="355" cy="343"/>
+<vertex x="384" y="360" cx="362" cy="358"/>
+<vertex x="384" y="360" cx="384" cy="360"/>
+<vertex x="377" y="325" cx="386" cy="345"/>
+<vertex x="355" y="297" cx="368" cy="308"/>
+</shape></item>
+<item id="871" label="Lentiform nuclei" zorder="20" name="Lentiform nuclei" x="130" y="159" tabs="1"><description><![CDATA[<p>The <b>lentiform nuclei</b> are AKA the lenticular nuclei. These nuclei include the putamen and globus pallidus.  Located lateral to the internal capsule and medial to the external capsule, claustrum, extreme capsule and insula, the lenticular nucleus fills the "V" formed by the lateral surface of the internal capsule.</p>]]></description><shape>
+<vertex x="379" y="414" cx="381" cy="414"/>
+<vertex x="336" y="377" cx="373" cy="379"/>
+<vertex x="334" y="375" cx="334" cy="377"/>
+<vertex x="310" y="343" cx="323" cy="358"/>
+<vertex x="308" y="343" cx="308" cy="343"/>
+<vertex x="299" y="343" cx="304" cy="343"/>
+<vertex x="297" y="343" cx="299" cy="343"/>
+<vertex x="280" y="362" cx="284" cy="347"/>
+<vertex x="280" y="416" cx="280" cy="388"/>
+<vertex x="280" y="418" cx="280" cy="416"/>
+<vertex x="325" y="431" cx="295" cy="435"/>
+<vertex x="334" y="435" cx="330" cy="431"/>
+<vertex x="345" y="435" cx="338" cy="435"/>
+<vertex x="347" y="435" cx="345" cy="435"/>
+<vertex x="347" y="433" cx="347" cy="433"/>
+<vertex x="381" y="416" cx="366" cy="427"/>
+</shape><shape>
+<vertex x="519" y="379" cx="519" cy="379"/>
+<vertex x="478" y="412" cx="494" cy="390"/>
+<vertex x="496" y="433" cx="483" cy="427"/>
+<vertex x="498" y="435" cx="498" cy="433"/>
+<vertex x="537" y="435" cx="517" cy="435"/>
+<vertex x="539" y="435" cx="537" cy="435"/>
+<vertex x="539" y="433" cx="539" cy="433"/>
+<vertex x="563" y="425" cx="552" cy="429"/>
+<vertex x="565" y="425" cx="563" cy="425"/>
+<vertex x="573" y="407" cx="571" cy="418"/>
+<vertex x="576" y="407" cx="573" cy="407"/>
+<vertex x="576" y="405" cx="576" cy="405"/>
+<vertex x="576" y="379" cx="576" cy="392"/>
+<vertex x="573" y="377" cx="573" cy="379"/>
+<vertex x="571" y="364" cx="571" cy="371"/>
+<vertex x="569" y="362" cx="569" cy="364"/>
+<vertex x="552" y="347" cx="563" cy="351"/>
+<vertex x="550" y="347" cx="550" cy="347"/>
+<vertex x="528" y="358" cx="537" cy="349"/>
+<vertex x="526" y="358" cx="528" cy="358"/>
+<vertex x="522" y="379" cx="522" cy="371"/>
+</shape></item>
+<item id="869" label="Putamen" zorder="19" name="Putamen" x="130" y="159" tabs="2"><description><![CDATA[<p>The <b>putamen</b> is the large lateral component of the lentiform nucleus, located lateral to the globus pallidus and the internal capsule.  With the caudate nucleus, it is known as the striatum.  Portion of the striatum most involved in the motor function of the basal ganglia.  Receives afferents from motor and somatosensory cerebral cortex, substantia nigra and centromedian nucleus of the thalamus; sents efferents to globus pallidus.</p>]]></description><shape>
+<vertex x="569" y="362" cx="569" cy="364"/>
+<vertex x="552" y="347" cx="563" cy="351"/>
+<vertex x="550" y="347" cx="550" cy="347"/>
+<vertex x="522" y="371" cx="528" cy="351"/>
+<vertex x="526" y="384" cx="524" cy="377"/>
+<vertex x="528" y="386" cx="526" cy="386"/>
+<vertex x="528" y="433" cx="526" cy="414"/>
+<vertex x="528" y="435" cx="528" cy="433"/>
+<vertex x="537" y="435" cx="532" cy="435"/>
+<vertex x="539" y="435" cx="537" cy="435"/>
+<vertex x="539" y="433" cx="539" cy="433"/>
+<vertex x="563" y="425" cx="552" cy="429"/>
+<vertex x="565" y="425" cx="563" cy="425"/>
+<vertex x="573" y="407" cx="571" cy="418"/>
+<vertex x="576" y="407" cx="573" cy="407"/>
+<vertex x="576" y="405" cx="576" cy="405"/>
+<vertex x="576" y="379" cx="576" cy="392"/>
+<vertex x="573" y="377" cx="573" cy="379"/>
+<vertex x="571" y="364" cx="571" cy="371"/>
+</shape><shape>
+<vertex x="310" y="343" cx="310" cy="343"/>
+<vertex x="308" y="343" cx="308" cy="343"/>
+<vertex x="299" y="343" cx="304" cy="343"/>
+<vertex x="297" y="343" cx="299" cy="343"/>
+<vertex x="280" y="362" cx="284" cy="347"/>
+<vertex x="280" y="416" cx="280" cy="388"/>
+<vertex x="280" y="418" cx="280" cy="416"/>
+<vertex x="323" y="429" cx="291" cy="437"/>
+<vertex x="325" y="429" cx="323" cy="429"/>
+<vertex x="327" y="375" cx="325" cy="403"/>
+<vertex x="330" y="373" cx="330" cy="373"/>
+<vertex x="310" y="343" cx="323" cy="353"/>
+</shape></item>
+<item id="870" label="Globus pallidus" zorder="18" name="Globus pallidus" x="151" y="175" tabs="2"><description><![CDATA[<p>The <b>globus pallidus</b> is a wedge-shaped nucleus located medial to the putamen and fitting into the "V" on the lateral aspect of the internal capsule.  With the putamen, it is known as the lentiform or lenticular nucleus.  It is the origin of most efferents from the basal ganglia.  Includes an internal and an external segment.</p>]]></description><shape>
+<vertex x="351" y="377" cx="351" cy="377"/>
+<vertex x="349" y="377" cx="349" cy="377"/>
+<vertex x="330" y="377" cx="338" cy="377"/>
+<vertex x="327" y="379" cx="330" cy="377"/>
+<vertex x="325" y="401" cx="327" cy="390"/>
+<vertex x="332" y="431" cx="319" cy="425"/>
+<vertex x="347" y="435" cx="338" cy="435"/>
+<vertex x="347" y="433" cx="347" cy="433"/>
+<vertex x="379" y="416" cx="364" cy="425"/>
+<vertex x="381" y="416" cx="381" cy="416"/>
+<vertex x="351" y="377" cx="375" cy="388"/>
+</shape><shape>
+<vertex x="522" y="381" cx="522" cy="381"/>
+<vertex x="478" y="412" cx="491" cy="388"/>
+<vertex x="496" y="433" cx="483" cy="427"/>
+<vertex x="498" y="435" cx="498" cy="433"/>
+<vertex x="526" y="435" cx="511" cy="435"/>
+<vertex x="528" y="435" cx="526" cy="435"/>
+<vertex x="528" y="388" cx="528" cy="412"/>
+<vertex x="528" y="386" cx="528" cy="386"/>
+<vertex x="528" y="386" cx="526" cy="381"/>
+<vertex x="522" y="381" cx="524" cy="379"/>
+</shape></item>
+<item id="867" label="Diencephalon" zorder="17" name="Diencephalon" x="180" y="179" tabs="0"><description><![CDATA[<p>Developmentally, the <b>diencephalon</b> and telencephalon are derived from the most anterior aspect of the developing neural tube, i.e. the prosencephalon.  It includes the thalamus, hypothalamus, epithalamus and subthalamus.  The retina, optic nerve and tract and neurohypophysis are also considered to be part of the diencephalon since they are formed as outgrowths from the diencephalon.</p>]]></description><shape>
+<vertex x="399" y="388" cx="399" cy="386"/>
+<vertex x="388" y="403" cx="396" cy="399"/>
+<vertex x="388" y="414" cx="388" cy="407"/>
+<vertex x="388" y="416" cx="388" cy="414"/>
+<vertex x="394" y="463" cx="390" cy="442"/>
+<vertex x="396" y="465" cx="396" cy="463"/>
+<vertex x="431" y="474" cx="409" cy="474"/>
+<vertex x="431" y="476" cx="431" cy="474"/>
+<vertex x="444" y="476" cx="437" cy="476"/>
+<vertex x="446" y="476" cx="444" cy="476"/>
+<vertex x="446" y="474" cx="446" cy="474"/>
+<vertex x="463" y="429" cx="465" cy="463"/>
+<vertex x="465" y="425" cx="463" cy="427"/>
+<vertex x="465" y="422" cx="465" cy="422"/>
+<vertex x="465" y="418" cx="465" cy="420"/>
+<vertex x="463" y="418" cx="463" cy="418"/>
+<vertex x="437" y="396" cx="465" cy="381"/>
+<vertex x="433" y="416" cx="429" cy="405"/>
+<vertex x="425" y="468" cx="444" cy="450"/>
+<vertex x="422" y="465" cx="425" cy="465"/>
+<vertex x="418" y="418" cx="414" cy="448"/>
+<vertex x="418" y="416" cx="418" cy="418"/>
+<vertex x="412" y="386" cx="429" cy="394"/>
+<vertex x="409" y="386" cx="409" cy="386"/>
+<vertex x="399" y="386" cx="403" cy="386"/>
+</shape></item>
+<item id="866" label="Thalamus" zorder="16" name="Thalamus" x="180" y="179" tabs="1"><description><![CDATA[<p>The <b>thalamus</b> is a large collection of nuclei that have major connections with the cerebral cortex involving both sensory and motor functions.  Some thalamic nuclei have very specific connections relative to visual, auditory and somatosensory afferents and their projection to specific areas of cerebral cortex, while other nuclei have more general inputs and connections with association areas of cerebral cortex.</p>]]></description><shape>
+<vertex x="388" y="418" cx="388" cy="416"/>
+<vertex x="403" y="448" cx="388" cy="442"/>
+<vertex x="407" y="455" cx="407" cy="450"/>
+<vertex x="418" y="420" cx="425" cy="448"/>
+<vertex x="418" y="418" cx="418" cy="418"/>
+<vertex x="412" y="386" cx="431" cy="396"/>
+<vertex x="412" y="386" cx="412" cy="386"/>
+<vertex x="409" y="386" cx="409" cy="386"/>
+<vertex x="399" y="386" cx="403" cy="386"/>
+<vertex x="399" y="388" cx="399" cy="386"/>
+<vertex x="388" y="403" cx="396" cy="399"/>
+<vertex x="388" y="414" cx="388" cy="407"/>
+<vertex x="388" y="416" cx="388" cy="414"/>
+<vertex x="388" y="416" cx="386" cy="416"/>
+</shape><shape>
+<vertex x="465" y="418" cx="465" cy="420"/>
+<vertex x="463" y="416" cx="463" cy="418"/>
+<vertex x="433" y="403" cx="459" cy="375"/>
+<vertex x="435" y="455" cx="440" cy="427"/>
+<vertex x="435" y="457" cx="435" cy="455"/>
+<vertex x="440" y="457" cx="437" cy="457"/>
+<vertex x="442" y="457" cx="440" cy="457"/>
+<vertex x="442" y="455" cx="442" cy="455"/>
+<vertex x="463" y="425" cx="463" cy="450"/>
+<vertex x="465" y="425" cx="463" cy="425"/>
+<vertex x="465" y="422" cx="465" cy="422"/>
+</shape></item>
+<item id="865" label="Hypothalamus" zorder="15" name="Hypothalamus" x="182" y="208" tabs="1"><description><![CDATA[<p>The <b>hypothalamus</b> is the most inferior of the four divisions of the diencephalon.  While quite small, it has multiple important functions.  It is the central control center for the autonomic nervous system, part of the limbic system, exerts a powerful influence on pituitary function and generally is responsible for maintaining homeostasis.  It consists of multiple nuclei organized into three regions:  anterior (suprachiasmatic, supraoptic and paraventricular), tuberal (dorsomedial, ventromedial and arcuate) and posterior (mammillary and posterior).</p>]]></description><shape>
+<vertex x="461" y="465" cx="459" cy="465"/>
+<vertex x="461" y="463" cx="461" cy="463"/>
+<vertex x="457" y="448" cx="463" cy="450"/>
+<vertex x="455" y="448" cx="457" cy="448"/>
+<vertex x="433" y="465" cx="440" cy="453"/>
+<vertex x="420" y="463" cx="425" cy="470"/>
+<vertex x="394" y="448" cx="412" cy="453"/>
+<vertex x="392" y="448" cx="392" cy="448"/>
+<vertex x="392" y="459" cx="392" cy="453"/>
+<vertex x="392" y="461" cx="392" cy="459"/>
+<vertex x="431" y="474" cx="403" cy="474"/>
+<vertex x="431" y="476" cx="431" cy="474"/>
+<vertex x="444" y="476" cx="437" cy="476"/>
+<vertex x="446" y="476" cx="444" cy="476"/>
+<vertex x="446" y="474" cx="446" cy="474"/>
+<vertex x="459" y="465" cx="455" cy="472"/>
+</shape></item>
+<item id="864" label="Visual pathway, Optic tracts" zorder="14" name="Visual pathway     Optic tracts" x="167" y="211" tabs="0"><description><![CDATA[<p>The <b>Optic tract</b> consists of optic nerve axons that serve the contralateral visual field. &nbsp;These axons originate in the ipsilateral temporal retina and contralateral nasal retina and terminate in the lateral geniculate nucleus as well as the pretectal area.</p>]]></description><shape>
+<vertex x="485" y="461" cx="485" cy="463"/>
+<vertex x="468" y="461" cx="476" cy="455"/>
+<vertex x="476" y="474" cx="470" cy="470"/>
+<vertex x="478" y="476" cx="478" cy="474"/>
+<vertex x="487" y="463" cx="489" cy="478"/>
+<vertex x="487" y="463" cx="487" cy="463"/>
+</shape><shape>
+<vertex x="373" y="455" cx="373" cy="455"/>
+<vertex x="360" y="455" cx="366" cy="455"/>
+<vertex x="360" y="463" cx="360" cy="459"/>
+<vertex x="360" y="465" cx="360" cy="463"/>
+<vertex x="377" y="457" cx="375" cy="478"/>
+<vertex x="375" y="455" cx="375" cy="455"/>
+<vertex x="375" y="455" cx="375" cy="455"/>
+</shape></item>
+<item id="863" label="Arteries,  branches of" zorder="13" name="Arteries_ branches of" x="63" y="77" tabs="0"><description><![CDATA[<p>The <b>arterial supply to the brain</b> is via the paired internal carotid and vertebral arteries. The terminal branches of the internal carotid arteries are the paired anterior and middle cerebral arteries which supply supratentorial structures. &nbsp;The two vertebral arteries enter the cranial cavity via the foramen magnum; they join one another at the junction of the medulla with the pons to form the basilar artery. &nbsp;Together the vertebral-basilar system of arteries supplies the structures of the posterior fossa as well as those supratentorial structures supplied by its terminal branches -- the posterior cerebral arteries.</p>]]></description><shape>
+<vertex x="435" y="200" cx="435" cy="200"/>
+<vertex x="457" y="166" cx="448" cy="179"/>
+<vertex x="459" y="166" cx="459" cy="166"/>
+<vertex x="457" y="166" cx="457" cy="166"/>
+<vertex x="453" y="166" cx="455" cy="166"/>
+<vertex x="450" y="166" cx="453" cy="166"/>
+<vertex x="427" y="200" cx="437" cy="181"/>
+<vertex x="448" y="226" cx="429" cy="222"/>
+<vertex x="450" y="228" cx="448" cy="228"/>
+<vertex x="435" y="200" cx="437" cy="217"/>
+</shape><shape>
+<vertex x="657" y="396" cx="655" cy="396"/>
+<vertex x="657" y="394" cx="657" cy="394"/>
+<vertex x="657" y="392" cx="657" cy="392"/>
+<vertex x="655" y="390" cx="655" cy="392"/>
+<vertex x="629" y="371" cx="645" cy="377"/>
+<vertex x="655" y="394" cx="634" cy="390"/>
+</shape><shape>
+<vertex x="332" y="560" cx="332" cy="560"/>
+<vertex x="299" y="586" cx="310" cy="567"/>
+<vertex x="299" y="599" cx="297" cy="595"/>
+<vertex x="302" y="601" cx="302" cy="599"/>
+<vertex x="310" y="601" cx="306" cy="601"/>
+<vertex x="312" y="601" cx="310" cy="601"/>
+<vertex x="312" y="599" cx="312" cy="599"/>
+<vertex x="319" y="582" cx="314" cy="591"/>
+<vertex x="319" y="580" cx="319" cy="582"/>
+<vertex x="334" y="560" cx="338" cy="571"/>
+</shape><shape>
+<vertex x="135" y="461" cx="135" cy="463"/>
+<vertex x="135" y="457" cx="153" cy="459"/>
+<vertex x="135" y="461" cx="135" cy="459"/>
+<vertex x="135" y="463" cx="135" cy="461"/>
+</shape><shape>
+<vertex x="552" y="597" cx="535" cy="599"/>
+<vertex x="552" y="597" cx="552" cy="597"/>
+<vertex x="506" y="554" cx="545" cy="558"/>
+<vertex x="506" y="554" cx="506" cy="554"/>
+<vertex x="530" y="582" cx="511" cy="576"/>
+<vertex x="530" y="582" cx="530" cy="582"/>
+</shape><shape>
+<vertex x="491" y="496" cx="491" cy="498"/>
+<vertex x="455" y="487" cx="476" cy="487"/>
+<vertex x="455" y="487" cx="455" cy="487"/>
+<vertex x="502" y="539" cx="478" cy="513"/>
+<vertex x="500" y="537" cx="502" cy="537"/>
+<vertex x="494" y="498" cx="496" cy="513"/>
+</shape><shape>
+<vertex x="379" y="483" cx="384" cy="491"/>
+<vertex x="362" y="476" cx="375" cy="476"/>
+<vertex x="364" y="487" cx="362" cy="483"/>
+<vertex x="377" y="513" cx="368" cy="511"/>
+<vertex x="381" y="500" cx="381" cy="509"/>
+</shape></item>
+<item id="862" label="Internal carotid" zorder="12" name="Internal carotid" x="139" y="221" tabs="1"><description><![CDATA[<p>With the verbebral arteries, the <b>internal carotid arteries</b> provide the blood supply to the brain.  The internal carotid branches from the common carotid in the neck and enters the base of the skull via the carotid canal.  As it enters the Circle of Willis, it divides into its two terminal branches:  the middle and anterior cerebral arteries.</p>]]></description><shape>
+<vertex x="312" y="601" cx="310" cy="601"/>
+<vertex x="312" y="599" cx="312" cy="599"/>
+<vertex x="319" y="582" cx="314" cy="591"/>
+<vertex x="319" y="580" cx="319" cy="582"/>
+<vertex x="334" y="560" cx="338" cy="571"/>
+<vertex x="332" y="560" cx="332" cy="560"/>
+<vertex x="299" y="586" cx="310" cy="567"/>
+<vertex x="310" y="601" cx="293" cy="604"/>
+</shape><shape>
+<vertex x="556" y="595" cx="554" cy="595"/>
+<vertex x="556" y="593" cx="556" cy="593"/>
+<vertex x="556" y="588" cx="556" cy="591"/>
+<vertex x="554" y="586" cx="554" cy="588"/>
+<vertex x="506" y="554" cx="537" cy="558"/>
+<vertex x="528" y="586" cx="511" cy="573"/>
+<vertex x="535" y="593" cx="532" cy="588"/>
+<vertex x="541" y="595" cx="537" cy="595"/>
+<vertex x="541" y="595" cx="543" cy="597"/>
+<vertex x="545" y="597" cx="547" cy="599"/>
+<vertex x="554" y="595" cx="552" cy="597"/>
+</shape><shape>
+<vertex x="491" y="496" cx="491" cy="498"/>
+<vertex x="455" y="487" cx="476" cy="487"/>
+<vertex x="455" y="487" cx="455" cy="487"/>
+<vertex x="502" y="539" cx="478" cy="513"/>
+<vertex x="500" y="537" cx="502" cy="537"/>
+<vertex x="494" y="498" cx="496" cy="513"/>
+</shape><shape>
+<vertex x="379" y="476" cx="379" cy="476"/>
+<vertex x="362" y="476" cx="371" cy="476"/>
+<vertex x="375" y="513" cx="371" cy="496"/>
+<vertex x="377" y="513" cx="375" cy="513"/>
+<vertex x="381" y="476" cx="388" cy="498"/>
+<vertex x="381" y="476" cx="381" cy="476"/>
+</shape></item>
+<item id="861" label="Anterior cerebral" zorder="11" name="Anterior cerebral" x="198" y="77" tabs="1"><description><![CDATA[<p>The <b>anterior cerebral artery</b> is the most anterior of the terminal branches of the internal carotid artery. Along with its branches, it curves around the genu and then superior to the corpus callosum to supply the orbital gyri, medial aspect of the frontal lobe, a portion of the parietal lobe and a narrow band along the most superior region of the lateral aspect of the hemisphere.  Since the anterior cerebral artery supplies the paracentral lobule which is responsible for sensation and motor control of the contralateral lower extremity, loss of this blood supply results in paralysis and loss of sensation in the contralateral lower extremity.</p>]]></description><shape>
+<vertex x="427" y="207" cx="427" cy="204"/>
+<vertex x="437" y="226" cx="433" cy="215"/>
+<vertex x="440" y="228" cx="440" cy="226"/>
+<vertex x="448" y="228" cx="444" cy="228"/>
+<vertex x="450" y="228" cx="448" cy="228"/>
+<vertex x="448" y="226" cx="450" cy="226"/>
+<vertex x="435" y="196" cx="435" cy="217"/>
+<vertex x="459" y="170" cx="446" cy="183"/>
+<vertex x="461" y="170" cx="459" cy="170"/>
+<vertex x="459" y="168" cx="461" cy="168"/>
+<vertex x="453" y="166" cx="459" cy="163"/>
+<vertex x="450" y="166" cx="453" cy="166"/>
+<vertex x="427" y="200" cx="437" cy="181"/>
+<vertex x="427" y="204" cx="427" cy="202"/>
+</shape></item>
+<item id="860" label="Middle cerebral" zorder="10" name="Middle cerebral" x="63" y="169" tabs="1"><description><![CDATA[<p>The <b>middle cerebral artery </b>is the&nbsp;most posterior of the terminal branches of the internal carotid artery. Along with its branches, it travels through the lateral sulcus to supply the insula, the lateral aspect of the frontal and parietal lobes and the anterior tip of the temporal lobe.  Since the middle cerebral artery supplies the pre- and post-central gyri which are responsible for sensation and motor control of the contralateral head, upper extremity and torso, loss of this blood supply results in paralysis and loss of sensation in the contralateral head, upper extremity and torso.</p>]]></description><shape>
+<vertex x="657" y="396" cx="655" cy="396"/>
+<vertex x="657" y="394" cx="657" cy="394"/>
+<vertex x="657" y="392" cx="657" cy="392"/>
+<vertex x="655" y="390" cx="655" cy="392"/>
+<vertex x="629" y="371" cx="645" cy="377"/>
+<vertex x="655" y="394" cx="634" cy="390"/>
+</shape><shape>
+<vertex x="226" y="364" cx="226" cy="364"/>
+<vertex x="224" y="364" cx="224" cy="364"/>
+<vertex x="220" y="364" cx="222" cy="364"/>
+<vertex x="217" y="364" cx="220" cy="364"/>
+<vertex x="217" y="366" cx="217" cy="366"/>
+<vertex x="226" y="366" cx="224" cy="381"/>
+</shape><shape>
+<vertex x="144" y="463" cx="144" cy="463"/>
+<vertex x="135" y="457" cx="148" cy="450"/>
+<vertex x="142" y="465" cx="131" cy="465"/>
+<vertex x="144" y="465" cx="142" cy="465"/>
+</shape></item>
+<item id="859" label="Cerebral veins, Superficial" zorder="9" name="Cerebral veins, superficial" x="71" y="50" tabs="0"><description><![CDATA[<p><b>Cerebral veins</b> are described as <b>superficial</b> or deep, depending on whether they drain the superficial or deep aspects of the brain. &nbsp;In general, the superficial veins lie on the surface of the cerebral hemispheres, where most empty into the superior sagittal sinus.</p>]]></description><shape>
+<vertex x="742" y="375" cx="742" cy="377"/>
+<vertex x="731" y="379" cx="735" cy="373"/>
+<vertex x="742" y="405" cx="729" cy="399"/>
+<vertex x="744" y="407" cx="742" cy="407"/>
+<vertex x="744" y="405" cx="744" cy="405"/>
+<vertex x="744" y="377" cx="744" cy="390"/>
+</shape><shape>
+<vertex x="597" y="159" cx="595" cy="163"/>
+<vertex x="588" y="148" cx="610" cy="144"/>
+<vertex x="593" y="161" cx="586" cy="157"/>
+</shape><shape>
+<vertex x="647" y="202" cx="647" cy="200"/>
+<vertex x="673" y="224" cx="651" cy="230"/>
+<vertex x="673" y="224" cx="673" cy="224"/>
+<vertex x="647" y="200" cx="668" cy="198"/>
+</shape><shape>
+<vertex x="463" y="107" cx="463" cy="107"/>
+<vertex x="453" y="107" cx="457" cy="107"/>
+<vertex x="463" y="107" cx="455" cy="120"/>
+<vertex x="465" y="107" cx="465" cy="107"/>
+</shape><shape>
+<vertex x="159" y="580" cx="159" cy="580"/>
+<vertex x="153" y="571" cx="168" cy="567"/>
+<vertex x="157" y="580" cx="148" cy="580"/>
+<vertex x="159" y="582" cx="157" cy="582"/>
+</shape></item>
+<item id="858" label="Dural reflection, Falx cerebri" zorder="8" name="Dural reflection     Falx cerebri" x="188" y="48" tabs="0"><description><![CDATA[<p>The <b>cerebral falx</b> is AKA the <b>falx cerebri</b>. &nbsp;Sickle-shaped dural reflection of the meningeal layer of the dura between the two cerebral hemispheres.</p>]]></description><shape>
+<vertex x="405" y="105" cx="405" cy="103"/>
+<vertex x="405" y="107" cx="405" cy="105"/>
+<vertex x="422" y="166" cx="427" cy="120"/>
+<vertex x="422" y="192" cx="422" cy="179"/>
+<vertex x="425" y="239" cx="422" cy="217"/>
+<vertex x="427" y="239" cx="425" cy="239"/>
+<vertex x="429" y="239" cx="427" cy="239"/>
+<vertex x="429" y="237" cx="429" cy="237"/>
+<vertex x="429" y="131" cx="429" cy="187"/>
+<vertex x="446" y="110" cx="433" cy="116"/>
+<vertex x="448" y="110" cx="446" cy="110"/>
+<vertex x="448" y="107" cx="448" cy="107"/>
+<vertex x="446" y="107" cx="446" cy="107"/>
+<vertex x="407" y="103" cx="422" cy="127"/>
+<vertex x="405" y="103" cx="405" cy="103"/>
+</shape></item>
+<item id="857" label="Dural venous sinuses" zorder="7" name="Dural venous sinuses" x="189" y="45" tabs="0"><description><![CDATA[<p>The<b> dural venous sinuses</b> are endothelial-lined spaces between the periosteal and meningeal layers of the dura. &nbsp;They form where the meningeal layer of the dura is reflected away from the surface of the skull and into the spaces between parts of the brain such as the longitudinal fissure. &nbsp;Included are the superior sagittal, inferior sagittal, straight, transverse, occipital, sigmoid, cavernous, superior petrosal, and inferior petrosal sinuses. &nbsp;Most of the blood from the brain empties into these sinuses before draining into the internal jugular veins and leaving the cranium.</p>]]></description><shape>
+<vertex x="420" y="97" cx="422" cy="97"/>
+<vertex x="407" y="103" cx="412" cy="97"/>
+<vertex x="407" y="105" cx="407" cy="103"/>
+<vertex x="442" y="107" cx="425" cy="127"/>
+<vertex x="444" y="107" cx="442" cy="107"/>
+<vertex x="442" y="105" cx="444" cy="105"/>
+<vertex x="422" y="97" cx="442" cy="90"/>
+</shape><shape>
+<vertex x="429" y="237" cx="429" cy="237"/>
+<vertex x="422" y="228" cx="433" cy="224"/>
+<vertex x="422" y="237" cx="420" cy="235"/>
+<vertex x="425" y="239" cx="425" cy="237"/>
+<vertex x="427" y="239" cx="425" cy="239"/>
+<vertex x="429" y="239" cx="427" cy="239"/>
+</shape></item>
+<item id="856" label="Superior sagittal" zorder="6" name="Superior sagittal" x="189" y="45" tabs="1"><description><![CDATA[<p>The <b>superior sagittal sinus</b> of the dural venous sinus system is located in the superior midline of the cerebral dura and thus, in the superior, attached edge of the cerebral falx.  It receives venous blood from cerebral, diploic and emissary veins and joins the remainder of the sinus system at the confluence in the sinuses near the internal occipital protuberance.</p>]]></description><shape>
+<vertex x="420" y="97" cx="422" cy="97"/>
+<vertex x="407" y="103" cx="412" cy="97"/>
+<vertex x="407" y="105" cx="407" cy="103"/>
+<vertex x="422" y="118" cx="416" cy="110"/>
+<vertex x="425" y="120" cx="425" cy="118"/>
+<vertex x="427" y="120" cx="425" cy="120"/>
+<vertex x="427" y="118" cx="427" cy="118"/>
+<vertex x="442" y="107" cx="433" cy="112"/>
+<vertex x="444" y="107" cx="442" cy="107"/>
+<vertex x="442" y="105" cx="444" cy="105"/>
+<vertex x="422" y="97" cx="442" cy="90"/>
+</shape></item>
+<item id="855" label="Inferior sagittal" zorder="5" name="Inferior sagittal" x="195" y="104" tabs="1"><description><![CDATA[<p>The <b>inferior sagittal sinus</b> is a dural venous sinus located in the inferior aspect of the cerebral falx. It drains into the straight sinus.</p>]]></description><shape>
+<vertex x="427" y="239" cx="427" cy="241"/>
+<vertex x="420" y="224" cx="440" cy="222"/>
+<vertex x="422" y="239" cx="418" cy="235"/>
+</shape></item>
+<item id="854" label="Ventricular system" zorder="4" name="Ventricular system" x="167" y="138" tabs="0"><description><![CDATA[<p>The<b> ventricular system</b> is a series of interconnected cerebrospinal-filled chambers within the cerebral hemispheres. Cerebrospinal fluid is formed in the choroid plexus located in the lateral, third and fourth ventricles.</p>]]></description><shape>
+<vertex x="498" y="306" cx="498" cy="308"/>
+<vertex x="496" y="306" cx="496" cy="306"/>
+<vertex x="433" y="325" cx="465" cy="312"/>
+<vertex x="433" y="327" cx="433" cy="325"/>
+<vertex x="433" y="355" cx="433" cy="340"/>
+<vertex x="433" y="355" cx="433" cy="355"/>
+<vertex x="444" y="377" cx="437" cy="366"/>
+<vertex x="444" y="379" cx="444" cy="377"/>
+<vertex x="435" y="405" cx="442" cy="394"/>
+<vertex x="429" y="399" cx="433" cy="401"/>
+<vertex x="418" y="388" cx="422" cy="394"/>
+<vertex x="416" y="375" cx="414" cy="384"/>
+<vertex x="427" y="330" cx="425" cy="355"/>
+<vertex x="425" y="325" cx="427" cy="325"/>
+<vertex x="368" y="297" cx="388" cy="319"/>
+<vertex x="366" y="297" cx="366" cy="297"/>
+<vertex x="360" y="297" cx="362" cy="297"/>
+<vertex x="360" y="302" cx="360" cy="299"/>
+<vertex x="360" y="304" cx="360" cy="302"/>
+<vertex x="386" y="355" cx="377" cy="325"/>
+<vertex x="418" y="409" cx="399" cy="386"/>
+<vertex x="422" y="463" cx="412" cy="433"/>
+<vertex x="429" y="470" cx="425" cy="465"/>
+<vertex x="431" y="470" cx="429" cy="470"/>
+<vertex x="431" y="468" cx="431" cy="468"/>
+<vertex x="437" y="416" cx="444" cy="446"/>
+<vertex x="440" y="416" cx="437" cy="416"/>
+<vertex x="450" y="405" cx="444" cy="409"/>
+<vertex x="453" y="405" cx="450" cy="405"/>
+<vertex x="463" y="381" cx="457" cy="392"/>
+<vertex x="465" y="381" cx="463" cy="381"/>
+<vertex x="496" y="312" cx="470" cy="336"/>
+<vertex x="498" y="312" cx="496" cy="312"/>
+<vertex x="498" y="310" cx="498" cy="310"/>
+</shape></item>
+<item id="853" label="Lateral ventricle, Body" zorder="3" name="Lateral ventricle, body" x="167" y="138" tabs="1"><description><![CDATA[<p>The <b>body of the lateral ventricle</b> is located between the anterior horn, rostrally, and the atrium or trigone, caudally.</p>]]></description><shape>
+<vertex x="498" y="306" cx="498" cy="308"/>
+<vertex x="496" y="306" cx="496" cy="306"/>
+<vertex x="433" y="325" cx="465" cy="312"/>
+<vertex x="433" y="353" cx="433" cy="338"/>
+<vertex x="433" y="355" cx="433" cy="353"/>
+<vertex x="442" y="392" cx="446" cy="371"/>
+<vertex x="442" y="392" cx="442" cy="392"/>
+<vertex x="444" y="394" cx="444" cy="392"/>
+<vertex x="446" y="394" cx="444" cy="394"/>
+<vertex x="446" y="392" cx="446" cy="392"/>
+<vertex x="446" y="390" cx="446" cy="390"/>
+<vertex x="474" y="351" cx="472" cy="384"/>
+<vertex x="498" y="312" cx="476" cy="323"/>
+<vertex x="498" y="310" cx="498" cy="310"/>
+</shape><shape>
+<vertex x="366" y="297" cx="366" cy="297"/>
+<vertex x="360" y="297" cx="362" cy="297"/>
+<vertex x="360" y="302" cx="360" cy="299"/>
+<vertex x="360" y="304" cx="360" cy="302"/>
+<vertex x="392" y="371" cx="381" cy="332"/>
+<vertex x="412" y="390" cx="396" cy="384"/>
+<vertex x="425" y="349" cx="416" cy="366"/>
+<vertex x="427" y="349" cx="427" cy="349"/>
+<vertex x="425" y="323" cx="427" cy="336"/>
+<vertex x="425" y="323" cx="425" cy="323"/>
+<vertex x="368" y="297" cx="390" cy="317"/>
+<vertex x="368" y="297" cx="368" cy="297"/>
+</shape></item>
+<item id="852" label="Interventricular foramina" zorder="2" name="Interventricular foramina" x="187" y="177" tabs="1"><description><![CDATA[<p>The <b>interventricular foramen </b>is AKA the foramen of Monro. The paired interventricular foramina are channels for cerebrospinal flow from each lateral ventricle to the third ventricle.</p>]]></description><shape>
+<vertex x="412" y="381" cx="412" cy="381"/>
+<vertex x="403" y="381" cx="407" cy="381"/>
+<vertex x="403" y="390" cx="403" cy="386"/>
+<vertex x="403" y="392" cx="403" cy="390"/>
+<vertex x="422" y="407" cx="409" cy="403"/>
+<vertex x="422" y="407" cx="422" cy="407"/>
+<vertex x="414" y="381" cx="425" cy="392"/>
+<vertex x="414" y="381" cx="414" cy="381"/>
+</shape><shape>
+<vertex x="435" y="416" cx="435" cy="414"/>
+<vertex x="437" y="416" cx="435" cy="416"/>
+<vertex x="440" y="416" cx="437" cy="416"/>
+<vertex x="440" y="414" cx="440" cy="414"/>
+<vertex x="455" y="399" cx="450" cy="409"/>
+<vertex x="457" y="399" cx="455" cy="399"/>
+<vertex x="457" y="396" cx="457" cy="396"/>
+<vertex x="457" y="386" cx="457" cy="390"/>
+<vertex x="455" y="386" cx="455" cy="386"/>
+<vertex x="435" y="403" cx="442" cy="392"/>
+<vertex x="435" y="414" cx="435" cy="407"/>
+</shape></item>
+<item id="851" label="Third ventricle" zorder="1" name="Third ventricle" x="193" y="182" tabs="1"><description><![CDATA[<p>The <b>third ventricle</b> is a single, narrow, vertically-oriented portion of the ventricular system. &nbsp;It is located between the two halves of the thalamus and hypothalamus.</p>]]></description><shape>
+<vertex x="425" y="394" cx="425" cy="392"/>
+<vertex x="416" y="418" cx="422" cy="409"/>
+<vertex x="416" y="450" cx="416" cy="433"/>
+<vertex x="416" y="453" cx="416" cy="450"/>
+<vertex x="427" y="468" cx="416" cy="463"/>
+<vertex x="429" y="470" cx="429" cy="468"/>
+<vertex x="431" y="470" cx="429" cy="470"/>
+<vertex x="431" y="468" cx="431" cy="468"/>
+<vertex x="437" y="450" cx="437" cy="463"/>
+<vertex x="440" y="450" cx="437" cy="450"/>
+<vertex x="440" y="448" cx="440" cy="448"/>
+<vertex x="440" y="418" cx="440" cy="433"/>
+<vertex x="437" y="416" cx="437" cy="418"/>
+<vertex x="431" y="392" cx="433" cy="403"/>
+<vertex x="429" y="392" cx="429" cy="392"/>
+<vertex x="425" y="392" cx="427" cy="392"/>
+</shape></item>
+<item id="850" label="CSF flow artifact" zorder="0" name="CSF flow artifact" x="197" y="197" tabs="2"><description><![CDATA[<p><b>CSF flow artifact</b> appears as a bright area in narrowed regions of the ventricular system on the MRI images. &nbsp;It is due to the flow of the cerebrospinal fluid (CSF) through these narrowed areas.</p>]]></description><shape>
+<vertex x="425" y="457" cx="425" cy="442"/>
+<vertex x="431" y="453" cx="429" cy="461"/>
+<vertex x="425" y="425" cx="437" cy="429"/>
+<vertex x="425" y="427" cx="425" cy="425"/>
+</shape></item>
+</info>

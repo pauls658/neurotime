@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Lateral ventricle, posterior horn]]></name>
+<description><![CDATA[<p>The <b>posterior horn of the lateral ventricle</b> is AKA the occipital horn. This region of the lateral ventricle extends into the occipital lobe.</p>]]></description>
+<item id="2816" label="Lateral ventricle, Posterior horn" name="Lateral vent  (post horn)" file_id="151"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/5 Cor: Occ to Fr]]>
+</item>
+<item id="3123" label="Lateral ventricle, Posterior horn" name="Lateral ventricle (post horn)" file_id="170"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/10 Cor: Fr to Occ]]>
+</item>
+<item id="3826" label="Lateral ventricle, Posterior horn" name="Lateral ventricle Posterior horn" file_id="226"><![CDATA[/Sections/Thin, Whole Brain/Coronal/14 Cor Thin Sec]]>
+</item>
+<item id="3847" label="Lateral ventricle, Posterior horn" name="Lateral ventricles Posterior horn" file_id="227"><![CDATA[/Sections/Thin, Whole Brain/Coronal/15 Cor Thin Sec]]>
+</item>
+<item id="3869" label="Lateral ventricle, Posterior horn" name="Lateral ventricles Poster" file_id="228"><![CDATA[/Sections/Thin, Whole Brain/Coronal/16 Cor Thin Sec]]>
+</item>
+<item id="1317" label="Lateral ventricles, Posterior horn" name="Lateral ventricles, post horn" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="30" label="Posterior horn" name="Posterior horn" file_id="5"><![CDATA[/Gross/Ventricles & Choroid Plexus/4 Ventricle cast - lateral view]]>
+</item>
+<item id="39" label="Posterior horn" name="Posterior horn" file_id="6"><![CDATA[/Gross/Ventricles & Choroid Plexus/5 Ventricle cast - dorsal view]]>
+</item>
+<item id="199" label="Posterior horn" name="Posterior horn" file_id="27"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Dorsal dissections/2 Lateral ventricle]]>
+</item>
+<item id="282" label="Posterior horn" name="Posterior horn" file_id="33"><![CDATA[/Gross/Cerebrum/Cerebrum Dissections/Medial dissections/3 Caudate & Lateral ventricle]]>
+</item>
+<item id="1349" label="Posterior horn" name="Posterior horn" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1785" label="Posterior horn" name="Posterior horn" file_id="101"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 6]]>
+</item>
+<item id="1811" label="Posterior horn" name="Posterior horn" file_id="102"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 7]]>
+</item>
+<item id="1828" label="Posterior Horn" name="Posterior Horn" file_id="103"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 8]]>
+</item>
+<item id="1899" label="Posterior horn" name="Posterior horn" file_id="110"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/3 Hor Thin Sec]]>
+</item>
+<item id="1932" label="Posterior horn" name="Posterior horn" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1980" label="Posterior horn" name="Posterior horn" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="2080" label="Posterior horn" name="Posterior horn" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2134" label="Posterior horn" name="Posterior horn" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2183" label="Posterior horn" name="Posterior horn" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="2575" label="Posterior horn" name="Posterior horn" file_id="126"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/7 Sag Thin Sec]]>
+</item>
+</info>

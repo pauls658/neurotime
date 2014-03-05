@@ -1,0 +1,136 @@
+.accordion, #structures {
+	font-size: 12px !important;
+	padding-top: 0em !important;
+	padding-left: .75em !important;
+}
+#folder_menu .ui-accordion-content {
+	padding-top: 0em !important;
+	padding-left: .75em !important;
+	padding-bottom: 0em !important;
+	border: 0 !important;
+}
+.folder_header {
+	padding-left: 40px !important;
+	outline: none !important;
+	border: 0 !important;
+	background: white !important;
+}
+#folder_container {
+	height: 17.5em !important;
+	padding: 0 !important;
+}
+.accordion-layer-0 {
+	width: 26.5em !important;
+	padding-right: 0 !important;
+}
+.accordion-layer-1 {
+	width: 25em !important;
+	padding-right: 0 !important;
+}
+.accordion-layer-2 {
+	width: 23.5em !important;
+	padding-right: 0 !important;
+}
+.accordion-layer-3 {
+	width: 21em !important;
+	padding-right: 0 !important;
+}
+.slide_collection {
+	padding-left: 0;
+	padding-right: 0 !important;
+	padding-top: 0;
+}
+.folder-close {
+	background:url('../data/images/folder_close.png') !important;
+	width: 20px;
+}
+.folder-open {
+	background:url('../data/images/folder_open.png') !important;
+	background-size: 18px;
+	width: 30px;
+}
+.slide {
+	background:url('../data/images/slide.png') !important;
+	height: 23px;
+	width: 22px;
+}
+html {
+	height: 100%;
+}
+body {
+	background: linear-gradient(black, grey);
+}
+
+
+
+
+.slide_item, .structure_item, .structure_list_item {
+	text-align: left;
+	color: black !important;
+	padding-left: 5px;
+	padding-right: 0px;
+	padding-bottom: 3px;
+	background: none !important;
+	border: none !important;
+}
+.selected_slide, .selected_structure, .selected_structure_location {
+	background-color: green !important;
+}
+
+
+
+
+#myCanvas {
+	float: left;
+}
+#menu {
+	position: absolute;
+	left: 880px;
+	background: transparent;
+}
+#display {
+	width: 870px;
+	float: left;
+	height: 100%;
+}
+#structures_container {
+	height: 17.5em;
+}
+#definition_box_container {
+	width: 850px;
+	height: 10em !important;
+}
+#definition_box{
+	font-size: 12px;
+	padding: 0.5em;
+	height: 10em !important;
+}
+#structures_container_header, #folders_container_header {
+	border-top: none !important;	
+	border-left: none;
+	border-right: none;
+	color: white;
+	background: transparent;
+	padding-bottom: 0em !important;
+}
+#definition_box_header {
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	padding: 0em !important;
+}
+
+#glossary_window {
+	font: 12px;
+}
+
+
+ 
+#structures_list, #structures_location {
+	font: 12px;
+	padding: 0;
+}
+
+
+ 
+

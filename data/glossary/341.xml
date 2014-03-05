@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Transverse fissure]]></name>
+<description><![CDATA[<p>The <b>transverse fissure</b> is a portion of the subarachnoid space that extends from the area containing the tentorium cerebelli forward to include the superior cistern and then extending over the roof of the third ventricle.  The paired internal cerebral veins travel in this space as they join the great vein of Galen and then the straight sinus.</p>]]></description>
+<item id="1057" label="Transverse fissure" name="Transverse fissure" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1096" label="Transverse fissure" name="Transverse fissure" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1261" label="Transverse fissure" name="Transverse fissure" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1303" label="Transverse fissure" name="Transverse fissure" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1905" label="Transverse fissure" name="Transverse fissure" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="1938" label="Transverse fissure" name="Transverse fissure" file_id="112"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/5 Hor Thin Sec]]>
+</item>
+<item id="1988" label="Transverse Fissure" name="Transverse Fissure" file_id="113"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/6 Hor Thin Sec]]>
+</item>
+<item id="2037" label="Transverse fissure" name="Transverse fissure" file_id="114"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/7 Hor Thin Sec]]>
+</item>
+<item id="2088" label="Transverse fissure" name="Transverse fissure" file_id="115"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/8 Hor Thin Sec]]>
+</item>
+<item id="2140" label="Transverse fissure" name="Transverse fissure" file_id="116"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/9 Hor Thin Sec]]>
+</item>
+<item id="3446" label="Transverse fissure" name="Transverse fissure" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3499" label="Transverse fissure" name="Transverse fissure" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3552" label="Transverse fissure" name="Transverse fissure" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="3601" label="Transverse Fissure" name="Transverse Fissure" file_id="221"><![CDATA[/Sections/Thin, Whole Brain/Coronal/9 Cor Thin Sec]]>
+</item>
+<item id="3650" label="Transverse fissure" name="Transverse fissure" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="3701" label="Transverse fissure" name="Transverse fissure" file_id="223"><![CDATA[/Sections/Thin, Whole Brain/Coronal/11 Cor Thin Sec]]>
+</item>
+<item id="3748" label="Transverse fissure" name="Transverse fissure" file_id="224"><![CDATA[/Sections/Thin, Whole Brain/Coronal/12 Cor Thin Sec]]>
+</item>
+</info>

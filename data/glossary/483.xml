@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Fornix, crus & body]]></name>
+<description><![CDATA[<p></p>
+<p >The <b>fornix</b> is a compact bundle of axons, primarily from the hippocampus to the ipsilateral septal nuclei and hypothalamus. &nbsp;Parts of the fornix from the hippocampus and beyond are the fimbria, <b>crus, body</b> and column.</p>]]></description>
+<item id="1054" label="Fornix, crus & body" name="Fornix, crus_body" file_id="77"><![CDATA[/MRI/Coronal/MRI cor 10]]>
+</item>
+<item id="1909" label="Fornix, Crus & Body" name="Fornix, crus_body" file_id="111"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/4 Hor Thin Sec]]>
+</item>
+<item id="3555" label="Fornix, crus & body" name="Fornix, crus_body" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+</info>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Basilar artery]]></name>
+<description><![CDATA[<p>The two vertebral arteries fuse at the junction of the medulla and pons to form the <b>basilar artery</b>.  At the junction of the pons and midbrain, the basilar bifurcates into two terminal branches, the posterior cerebral arteries.  Branches of the basilar &amp; posterior cerebral arteries supply parts of the brain stem, cerebellum, posterior aspects of the diencephalon, choroid plexus in the third and lateral ventricles and the medial and inferior surfaces of the occipital and temporal lobes of the cerebral hemispheres.</p>]]></description>
+<item id="900" label="Basilar" name="Basilar" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="942" label="Basilar" name="Basilar" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1439" label="Basilar" name="Basilar" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1477" label="Basilar" name="Basilar" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1506" label="Basilar" name="Basilar_1" file_id="92"><![CDATA[/MRI/Horizontal or Axial/MRI hor 11]]>
+</item>
+<item id="1535" label="Basilar" name="Basilar_1" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="1560" label="Basilar" name="Basilar_1" file_id="94"><![CDATA[/MRI/Horizontal or Axial/MRI hor 13]]>
+</item>
+<item id="1594" label="Basilar" name="Basilar_1" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1655" label="Basilar" name="Basilar_1" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="3690" label="Basilar" name="Basilar" file_id="222"><![CDATA[/Sections/Thin, Whole Brain/Coronal/10 Cor Thin Sec]]>
+</item>
+<item id="4420" label="Basilar" name="Basilar artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4451" label="Basilar" name="Basilar artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4479" label="Basilar" name="Basilar artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4503" label="Basilar" name="Basilar artery" file_id="259"><![CDATA[/Gross/Vasculature & Nerves/4 Ventral brain stem]]>
+</item>
+<item id="4514" label="Basilar" name="Basilar artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="364" label="Basilar artery" name="Basilar a." file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+<item id="2893" label="Basilar artery" name="Basilar artery" file_id="154"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/8 Cor: Occ to Fr]]>
+</item>
+<item id="3048" label="Basilar artery" name="Basilar artery" file_id="166"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/6 Cor: Fr to Occ]]>
+</item>
+<item id="4066" label="Basilar artery" name="Basilar artery" file_id="238"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/3 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4090" label="Basilar artery" name="Basilar artery" file_id="239"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/4 Cranial nerves of Pons & Medulla]]>
+</item>
+<item id="4299" label="Basilar artery" name="Basilar artery" file_id="246"><![CDATA[/Gross/Brain stem & Cerebellum/Brain stem/11 Brain stem - mid-sagittal view]]>
+</item>
+</info>

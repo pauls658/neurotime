@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Anterior inferior cerebellar artery]]></name>
+<description><![CDATA[<p>The <b>anterior inferior cerebellar artery</b> [AICA] is a branch from the basilar artery just rostral to where the two vertebral arteries unite to form the basilar.  It supplies the more anterior portions of the inferior surface of the cerebellum such as the flocculus plus parts of the caudal pons.</p>]]></description>
+<item id="941" label="Anterior inferior cerebellar" name="Ant. inf. cerebellar" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="984" label="Anterior inferior cerebellar" name="Ant. inf. cerebellar" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1534" label="Anterior inferior cerebellar" name="Ant. inf. cerebellar" file_id="93"><![CDATA[/MRI/Horizontal or Axial/MRI hor 12]]>
+</item>
+<item id="4418" label="Anterior inferior cerebellar" name="Anterior inferior cerebellar artery" file_id="256"><![CDATA[/Gross/Vasculature & Nerves/1 Ventral brain stem]]>
+</item>
+<item id="4449" label="Anterior inferior cerebellar" name="Anterior inferior cerebellar artery" file_id="257"><![CDATA[/Gross/Vasculature & Nerves/2 Ventral brain stem]]>
+</item>
+<item id="4477" label="Anterior inferior cerebellar" name="Anterior inferior cerebellar artery" file_id="258"><![CDATA[/Gross/Vasculature & Nerves/3 Ventral brain stem]]>
+</item>
+<item id="4512" label="Anterior inferior cerebellar" name="Anterior inferior cerebellar artery" file_id="260"><![CDATA[/Gross/Vasculature & Nerves/5 Ventral brain stem]]>
+</item>
+<item id="366" label="Anterior inferior cerebellar artery" name="Anterior inferior cerebel" file_id="49"><![CDATA[/Gross/Meninges/13 Cranial arachnoid, inferior view]]>
+</item>
+</info>

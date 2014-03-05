@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Superior cistern]]></name>
+<description><![CDATA[<p>The<b> superior cistern</b> is AKA the quadrigeminal cistern or the cistern of the great cerebral vein. It is subarachnoid space located above the midbrain that is continuous with the transverse fissure. It is an important radiologic landmark since the pineal gland can be visualized within its midline location.</p>]]></description>
+<item id="1101" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="79"><![CDATA[/MRI/Coronal/MRI cor 12]]>
+</item>
+<item id="1225" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="85"><![CDATA[/MRI/Horizontal or Axial/MRI hor 4]]>
+</item>
+<item id="1270" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="86"><![CDATA[/MRI/Horizontal or Axial/MRI hor 5]]>
+</item>
+<item id="1346" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="88"><![CDATA[/MRI/Horizontal or Axial/MRI hor 7]]>
+</item>
+<item id="1388" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="89"><![CDATA[/MRI/Horizontal or Axial/MRI hor 8]]>
+</item>
+<item id="1426" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="90"><![CDATA[/MRI/Horizontal or Axial/MRI hor 9]]>
+</item>
+<item id="1463" label="Cistern, subarachnoid, Quadrigeminal" name="Cistern, subarachnoid     Quadrigeminal" file_id="91"><![CDATA[/MRI/Horizontal or Axial/MRI hor 10]]>
+</item>
+<item id="1136" label="Quadrigeminal" name="Quadrigeminal" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="1574" label="Quadrigeminal" name="Quadrigeminal" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="1641" label="Quadrigeminal" name="Quadrigeminal" file_id="97"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 2]]>
+</item>
+<item id="1691" label="Quadrigeminal" name="Quadrigeminal" file_id="98"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 3]]>
+</item>
+<item id="1313" label="Subarachnoid cistern, Quadrigeminal" name="Subarachnoid cistern     Quadrigeminal" file_id="87"><![CDATA[/MRI/Horizontal or Axial/MRI hor 6]]>
+</item>
+<item id="5920" label="Superior cistern" name="Quadrigeminal cistern" file_id="306"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/29 Midbrain]]>
+</item>
+<item id="5960" label="Superior cistern" name="Quadrigeminal cistern" file_id="307"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/30 Midbrain+Diencephalon]]>
+</item>
+<item id="5997" label="Superior cistern" name="Quadrigeminal cistern" file_id="308"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/31 Midbrain+Diencephalon]]>
+</item>
+<item id="6029" label="Superior cistern" name="Subarachnoid space" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+</info>

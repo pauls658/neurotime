@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Cingulate gyrus]]></name>
+<description><![CDATA[<p>The <b>cingulate gyrus</b> is the region of the cerebral cortex that arcs above the corpus callosum on the medial aspect of the hemisphere.  Along with the parahippocampal gyrus to which it is connected by the isthmus of the cingulate gyrus, posterior to the splenium of the corpus callosum, it is considered to be the "Limbic lobe" of the brain.</p>]]></description>
+<item id="6164" label="Cereberal gyrus, Cingulate" name="Cereberal gyrus, Cingulate" file_id="313"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/36 Diencephalon+Telencephalon]]>
+</item>
+<item id="12" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="3"><![CDATA[/Gross/Ventricles & Choroid Plexus/3 Lateral ventricle, Choroid plexus]]>
+</item>
+<item id="1100" label="Cerebral gyri, Cingulate" name="Cerebral gyri     Cingulate" file_id="78"><![CDATA[/MRI/Coronal/MRI cor 11]]>
+</item>
+<item id="1164" label="Cerebral gyri, Cingulate" name="Cerebral gyri     Cingulate" file_id="80"><![CDATA[/MRI/Coronal/MRI cor 13]]>
+</item>
+<item id="2631" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="134"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/4 Hor from Superior]]>
+</item>
+<item id="2675" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="135"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/5 Hor from Superior]]>
+</item>
+<item id="2714" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="140"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/10 Hor from Inferior]]>
+</item>
+<item id="2724" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="141"><![CDATA[/Sections/Thick, Whole Brain/Horizontal/11 Hor from Inferior]]>
+</item>
+<item id="2853" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="153"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/7 Cor: Occ to Fr]]>
+</item>
+<item id="2920" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="155"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/9 Cor: Occ to Fr]]>
+</item>
+<item id="2936" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="156"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/10 Cor: Occ to Fr]]>
+</item>
+<item id="2945" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="157"><![CDATA[/Sections/Thick, Whole Brain/Coronal/Occipital to Frontal/11 Cor: Occ to Fr]]>
+</item>
+<item id="3009" label="Cerebral gyri, Cingulate" name="Cingulate gyri" file_id="165"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/5 Cor: Fr to Occ]]>
+</item>
+<item id="3053" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="167"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/7 Cor: Fr to Occ]]>
+</item>
+<item id="3086" label="Cerebral gyri, Cingulate" name="Cingulate gyrus" file_id="168"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/8 Cor: Fr to Occ]]>
+</item>
+<item id="2985" label="Cerebral gyrus, Cingulate" name="Cingulate gyrus" file_id="164"><![CDATA[/Sections/Thick, Whole Brain/Coronal/ Frontal to Occipital/4 Cor: Fr to Occ]]>
+</item>
+<item id="3183" label="Cerebral gyrus, Cingulate" name="Cingulate gyrus" file_id="179"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/4 Parasag: Lat to Med]]>
+</item>
+<item id="3210" label="Cerebral gyrus, Cingulate" name="Cingulate gyrus" file_id="181"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Medial to Lateral/1 Parasag: Med to Lat]]>
+</item>
+<item id="6119" label="Cerebral gyrus, Cingulate" name="Cerebral gyrus, Cingulate" file_id="312"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/35 Diencephalon+Telencephalon]]>
+</item>
+<item id="6247" label="Cerebral gyrus, Cingulate" name="Cerebral gyrus, Cingulate" file_id="316"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/39 Telencephalon]]>
+</item>
+<item id="848" label="Cingulate gyri" name="Cingulate gyri" file_id="72"><![CDATA[/MRI/Coronal/MRI cor 5]]>
+</item>
+<item id="882" label="Cingulate gyri" name="Cingulate gyri" file_id="73"><![CDATA[/MRI/Coronal/MRI cor 6]]>
+</item>
+<item id="923" label="Cingulate gyri" name="Cingulate gyri" file_id="74"><![CDATA[/MRI/Coronal/MRI cor 7]]>
+</item>
+<item id="967" label="Cingulate gyri" name="Cingulate gyri" file_id="75"><![CDATA[/MRI/Coronal/MRI cor 8]]>
+</item>
+<item id="1019" label="Cingulate gyri" name="Cingulate gyri" file_id="76"><![CDATA[/MRI/Coronal/MRI cor 9]]>
+</item>
+<item id="1857" label="Cingulate gyri" name="Cingulate gyri" file_id="109"><![CDATA[/Sections/Thin, Whole Brain/Horizontal/2 Hor Thin Sec]]>
+</item>
+<item id="733" label="Cingulate gyrus" name="Cingulate gyrus" file_id="65"><![CDATA[/Gross/Cerebrum/Surface Features/12 Medial View]]>
+</item>
+<item id="1639" label="Cingulate gyrus" name="Cingulate gyrus" file_id="96"><![CDATA[/MRI/Sagittal & Parasagittal/MRI sag 1]]>
+</item>
+<item id="2267" label="Cingulate gyrus" name="Cingulate gyrus" file_id="120"><![CDATA[/Sections/Thin, Whole Brain/Sagittal & Parasagittal/1 Sag Thin Sec]]>
+</item>
+<item id="3261" label="Cingulate gyrus" name="Cingulate gyri" file_id="213"><![CDATA[/Sections/Thin, Whole Brain/Coronal/1 Cor Thin Sec]]>
+</item>
+<item id="3309" label="Cingulate gyrus" name="Cingulate gyri" file_id="215"><![CDATA[/Sections/Thin, Whole Brain/Coronal/3 Cor Thin Sec]]>
+</item>
+<item id="3346" label="Cingulate gyrus" name="Cingulate gyri" file_id="216"><![CDATA[/Sections/Thin, Whole Brain/Coronal/4 Cor Thin Sec]]>
+</item>
+<item id="3393" label="Cingulate gyrus" name="Cingulate gyri" file_id="217"><![CDATA[/Sections/Thin, Whole Brain/Coronal/5 Cor Thin Sec]]>
+</item>
+<item id="3440" label="Cingulate gyrus" name="Cingulate gyri" file_id="218"><![CDATA[/Sections/Thin, Whole Brain/Coronal/6 Cor Thin Sec]]>
+</item>
+<item id="3492" label="Cingulate gyrus" name="Cingulate gyri" file_id="219"><![CDATA[/Sections/Thin, Whole Brain/Coronal/7 Cor Thin Sec]]>
+</item>
+<item id="3545" label="Cingulate gyrus" name="Cingulate gyri" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="4401" label="Cingulate gyrus" name="Cingulate gyrus" file_id="253"><![CDATA[/Gross/Cerebrum/Limbic System/5 Fornix]]>
+</item>
+<item id="6205" label="Cingulate gyrus" name="Cingulate gyrus" file_id="314"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/37 Telencephalon]]>
+</item>
+<item id="6229" label="Cingulate gyrus" name="Cingulate gyrus" file_id="315"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/38 Telencephalon]]>
+</item>
+</info>

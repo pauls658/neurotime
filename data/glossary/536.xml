@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<info>
+<name><![CDATA[Subthalamus]]></name>
+<description><![CDATA[<p>The <b>subthalamus</b> is one of the four divisions of the diencephalon.&nbsp; It is located ventral to the thalamus, lateral to the hypothalamus and medial to the internal capsule and cerebral peduncle.&nbsp; It contains the subthalamic nucleus and the zona incerta.&nbsp; It is traversed by the somatosensory pathways on their way to the thalamus as well as by pathways connecting the cerebellum and basal ganglia.&nbsp; It is continuous caudally with rostral portions of the red nucleus and substantia nigra.</p>]]></description>
+<item id="3169" label="Subthalamus" name="Subthalamus" file_id="179"><![CDATA[/Sections/Thick, Whole Brain/Sagittal & Parasagittal/Lateral to Medial/4 Parasag: Lat to Med]]>
+</item>
+<item id="3584" label="Subthalamus" name="Subthalamus" file_id="220"><![CDATA[/Sections/Thin, Whole Brain/Coronal/8 Cor Thin Sec]]>
+</item>
+<item id="6017" label="Subthalamus" name="Subthalamus" file_id="309"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/32 Midbrain+Diencephalon]]>
+</item>
+<item id="6067" label="Subthalamus" name="Subthalamus" file_id="310"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/33 Diencephalon+Telencephalon]]>
+</item>
+<item id="6106" label="Subthalamus" name="Subthalamus" file_id="311"><![CDATA[/Sections/Thin, Spinal Cord to Cerebrum/34 Diencephalon+Telencephalon]]>
+</item>
+</info>
